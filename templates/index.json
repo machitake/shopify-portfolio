@@ -1,0 +1,347 @@
+{
+  "sections": {
+    "16571101705eb53375": {
+      "type": "my_swiper",
+      "blocks": {
+        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/56c834b307d9e8c195e29b8790e87092ab6bd19a.jpg",
+            "block_image_picker_sp": "shopify:\/\/shop_images\/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
+            "my_text1": "baby-shopは架空のブランドです。",
+            "my_text2": "ロンパースは赤ちゃんの肌に直接触れるので",
+            "my_text3": "肌に優しい素材のものを厳選してます。",
+            "my_btn_text1": "商品を見に行く",
+            "btn_link": "shopify:\/\/products\/baby-test-10",
+            "my_range_name1": 27,
+            "my_range_name2": 7,
+            "my_range_name3": 9,
+            "color_id": "rgba(0,0,0,0)",
+            "font_color_id": "#333333"
+          }
+        },
+        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/baby-natur-Hld-gd-WN7k-unsplash.jpg",
+            "block_image_picker_sp": "shopify:\/\/shop_images\/baby_syoutousyou.png",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/mv1-1.png",
+            "my_text1": "USAGIMARUはうさぎモチーフの",
+            "my_text2": "架空おもちゃブランドです。",
+            "my_text3": "",
+            "my_btn_text1": "商品を見に行く",
+            "btn_link": "shopify:\/\/collections\/コーヒー",
+            "my_range_name1": 20,
+            "my_range_name2": 16,
+            "my_range_name3": 10,
+            "color_id": "rgba(0,0,0,0)",
+            "font_color_id": "#333333"
+          }
+        },
+        "f86e4ed8-77c3-4954-acb1-76b915ab5044": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/98c3cefa68c9a70bd3717924b1c6ab8d3f3757ab.jpg",
+            "block_image_picker_sp": "shopify:\/\/shop_images\/mv3.png",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
+            "my_text1": "NEMURINも",
+            "my_text2": "架空のベビー寝具ブランドです。",
+            "my_text3": "本当にあったらいいな。",
+            "my_btn_text1": "商品をみにいく",
+            "btn_link": "",
+            "my_range_name1": 14,
+            "my_range_name2": 11,
+            "my_range_name3": 10,
+            "color_id": "rgba(0,0,0,0)",
+            "font_color_id": "#333333"
+          }
+        },
+        "03aa9229-0393-4270-84dd-94c1ce99d73d": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/fv5.jpg",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
+            "my_text1": "子供服以外にも沢山のおもちゃ",
+            "my_text2": "などを販売しています。",
+            "my_text3": "",
+            "my_btn_text1": "",
+            "btn_link": "",
+            "my_range_name1": 10,
+            "my_range_name2": 10,
+            "my_range_name3": 10,
+            "color_id": "#efefef",
+            "font_color_id": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd",
+        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468",
+        "f86e4ed8-77c3-4954-acb1-76b915ab5044",
+        "03aa9229-0393-4270-84dd-94c1ce99d73d"
+      ],
+      "settings": {
+        "font-size_pc": 16,
+        "font-size_sp": 11,
+        "mb_size": 0
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/move.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 92,
+        "padding_bottom": 100
+      }
+    },
+    "1657271913aa85eee1": {
+      "type": "my_image-with-text",
+      "blocks": {
+        "165727191339cea61f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT",
+            "heading_size": "h1"
+          }
+        },
+        "873f4c6f-0f42-4ae5-99f0-4764bc788ab0": {
+          "type": "caption",
+          "settings": {
+            "caption": "私たちについて",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "165727191339cea61f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>baby-shopは架空のベビー用品<br\/>ECサイトです。<br\/>赤ちゃんが可愛く健やかに育つような<br\/>素敵なグッズを取り揃えています。<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165727191339cea61f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "商品を見に行く",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "165727191339cea61f-0",
+        "873f4c6f-0f42-4ae5-99f0-4764bc788ab0",
+        "165727191339cea61f-1",
+        "165727191339cea61f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about1.png",
+        "image2": "shopify:\/\/shop_images\/about2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657375872680d5d6f": {
+      "type": "my_brand",
+      "settings": {
+        "section_ttl": "BRAND",
+        "section_read": "取り扱いブランド",
+        "section_textarea": "赤ちゃんも、ママもパパも満足してもらえる<br>\nとびきりのベビー用品を取り揃えております。<br>\nご自宅用にギフトに<br>\nみんなハッピー<br>",
+        "section_btn_txt": "ブランド一覧",
+        "btn_link": "shopify:\/\/pages\/bland-list",
+        "image1": "shopify:\/\/shop_images\/bg2.png",
+        "image2": "shopify:\/\/shop_images\/bg1.png"
+      }
+    },
+    "1658669817ef32f373": {
+      "type": "my_category",
+      "blocks": {
+        "fc4d16e2-d672-4ee7-bf13-08f921a3e4a5": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_doll",
+            "image": "shopify:\/\/shop_images\/category1.png"
+          }
+        },
+        "ce762635-2692-4bc0-b5ee-8d58cf7ebc1c": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_baby-clothes",
+            "image": "shopify:\/\/shop_images\/category2.png"
+          }
+        },
+        "83b70d79-f699-4480-b460-87b23b985614": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_blanket",
+            "image": "shopify:\/\/shop_images\/category3.png"
+          }
+        },
+        "c3df7443-7905-4e04-a936-3f56470da88e": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_diaper",
+            "image": "shopify:\/\/shop_images\/category4.png"
+          }
+        },
+        "ee0ef073-4822-4db0-9516-bcab9e5baa8b": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_laundry",
+            "image": "shopify:\/\/shop_images\/category5.png"
+          }
+        },
+        "52c6d1db-8957-4924-9546-d1493327437c": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_bath",
+            "image": "shopify:\/\/shop_images\/category6.png"
+          }
+        },
+        "c43794b0-7bb1-4305-a0a8-b7236582d05e": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_snack",
+            "image": "shopify:\/\/shop_images\/category7.png"
+          }
+        },
+        "5d605236-0435-4739-b766-3353ef7251c1": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_cutlery",
+            "image": "shopify:\/\/shop_images\/category8.png"
+          }
+        },
+        "3a7e93bc-4fdc-4881-8a39-edcf4a4746e0": {
+          "type": "caption",
+          "settings": {
+            "block_collection": "category_gift",
+            "image": "shopify:\/\/shop_images\/category9.png"
+          }
+        }
+      },
+      "block_order": [
+        "fc4d16e2-d672-4ee7-bf13-08f921a3e4a5",
+        "ce762635-2692-4bc0-b5ee-8d58cf7ebc1c",
+        "83b70d79-f699-4480-b460-87b23b985614",
+        "c3df7443-7905-4e04-a936-3f56470da88e",
+        "ee0ef073-4822-4db0-9516-bcab9e5baa8b",
+        "52c6d1db-8957-4924-9546-d1493327437c",
+        "c43794b0-7bb1-4305-a0a8-b7236582d05e",
+        "5d605236-0435-4739-b766-3353ef7251c1",
+        "3a7e93bc-4fdc-4881-8a39-edcf4a4746e0"
+      ],
+      "settings": {
+        "section_title": "CATEGORY",
+        "columns_desktop": 3,
+        "columns_mobile": "1"
+      }
+    },
+    "166085740394983f35": {
+      "type": "my_ranking",
+      "settings": {
+        "title": "RANKING",
+        "heading_size": "h1",
+        "description": "<p>人気商品ランキング<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "人気商品ランキング",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660225744e24b2278": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "BLOG",
+        "section_read": "ブログ",
+        "heading_size": "h1",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_title": false,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1661694700b4d98f60": {
+      "type": "my_information-list",
+      "settings": {
+        "section_title": "INFORMATION",
+        "section_read": "インフォメーション",
+        "blog": "information"
+      }
+    },
+    "1661949468cd4f3fff": {
+      "type": "apps",
+      "blocks": {
+        "1cb0f76c-e9a1-4cbe-8d6d-1c4c45853796": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": "<div class=\"section-ttl\">\n<h2>INSTAGRAM<\/h2>\n<a class=\"section-ttl-read\" href=\"https:\/\/www.instagram.com\/machitake__\/\">@machitake__<\/a>\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "1cb0f76c-e9a1-4cbe-8d6d-1c4c45853796"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1662160995effd2634": {
+      "type": "twitter",
+      "settings": {
+        "title": "Twitter",
+        "read": "@machitake__"
+      }
+    }
+  },
+  "order": [
+    "16571101705eb53375",
+    "video",
+    "1657271913aa85eee1",
+    "1657375872680d5d6f",
+    "1658669817ef32f373",
+    "166085740394983f35",
+    "1660225744e24b2278",
+    "1661694700b4d98f60",
+    "1661949468cd4f3fff",
+    "1662160995effd2634"
+  ]
+}

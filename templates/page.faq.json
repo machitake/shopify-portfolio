@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1663389833b4fd23c8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16633898338653f720-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "テキストテキスト",
+            "icon": "box",
+            "row_content": "<p>テストテスト<\/p>",
+            "page": ""
+          }
+        },
+        "16633898338653f720-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "質問質問質問質問",
+            "icon": "question_mark",
+            "row_content": "<p>解答解答解答解答解答<\/p>",
+            "page": ""
+          }
+        },
+        "16633898338653f720-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "テキストテキストテキストテキストテキストテキストテキストテキスト",
+            "icon": "bottle",
+            "row_content": "<p>解答解答解答解答解答<\/p>",
+            "page": ""
+          }
+        },
+        "16633898338653f720-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+            "icon": "check_mark",
+            "row_content": "<p>テキストテキストテキストテキスト<\/p>",
+            "page": "faq"
+          }
+        }
+      },
+      "block_order": [
+        "16633898338653f720-0",
+        "16633898338653f720-1",
+        "16633898338653f720-2",
+        "16633898338653f720-3"
+      ],
+      "settings": {
+        "caption": "faq",
+        "heading": "よくある質問",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663389833b4fd23c8"
+  ]
+}

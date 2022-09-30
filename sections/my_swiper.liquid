@@ -1,0 +1,265 @@
+<div class="fv-container">
+    <div class="swiper">
+        <div class="swiper-wrapper fv__list">
+
+            {% for block in section.blocks %}
+                <div class="swiper-slide fv__item">
+                    <picture>
+                        <source srcset="{{ block.settings.block_image_picker_sp | image_url: width: 750 }}" media="(max-width: 768px)"/>
+                        <img src="{{ block.settings.block_image_picker_pc | image_url: width: 1920 }}" class="fv__item-img">
+                    </picture>
+                            
+                    {% if block.settings.my_text1 != blank or block.settings.my_text2 != blank or block.settings.my_text3 != blank or block.settings.my_btn_text1 != blank or block.settings.btn_link != blank or block.settings.block_image_picker_logo != blank %}
+                        <div class="fv__content fv__content{{ block.id }}">
+                            
+                            {% if block.settings.block_image_picker_logo != blank %}
+                                <img src="{{ block.settings.block_image_picker_logo | image_url: width: 300 }}" alt="" class="fv__content-img slide-fadeUp">
+                            {% endif %}
+
+                            <p class="fv__txt slide-fadeUp delay-time01">
+                                {% if block.settings.my_text1 != blank %}
+                                    {{ block.settings.my_text1 }}<br>
+                                {% endif %}
+                                {% if block.settings.my_text2 != blank %}
+                                    {{ block.settings.my_text2 }}<br>
+                                {% endif %}
+                                {% if block.settings.my_text3 != blank %}
+                                    {{ block.settings.my_text3 }}
+                                {% endif %}
+                            </p>
+
+                            {% if block.settings.my_btn_text1 != blank %}
+                                <a class="fv__content-btn slide-fadeUp delay-time02" href="{{ block.settings.btn_link }}">{{ block.settings.my_btn_text1 }}</a>
+                            {% endif %}
+                        </div><!-- /.fv__content -->
+                    {% endif %}
+                </div>
+
+                {% style %}
+                    .fv__content{{ block.id }} {
+                        bottom: {{ block.settings.my_range_name1 }}%;
+                        left: {{ block.settings.my_range_name2 }}%;
+                        background: {{ block.settings.color_id }};
+                        padding: {{ block.settings.my_range_name3 }}px;
+                    }
+                    .fv__content{{ block.id }} p {
+                        color: {{ block.settings.font_color_id }};
+                        margin : 0;
+                    }
+                {% endstyle %}
+
+            {% endfor %}
+        </div>
+
+        <!-- ページネーション -->
+        <div class="swiper-pagination"></div>
+        <div class="swiper-custom-fraction js-custom-fraction">
+            <div class="swiper-button-prev">＜　</div>
+            <span class="custom-currentNum js-currentNum">1</span> / <span class="custom-Maxnum js-Maxnum"></span>
+            <div class="swiper-button-next">　＞</div>
+        </div>
+    </div>
+
+</div><!-- /.fv-container -->
+
+
+
+
+{% schema %}
+{
+    "name": "スライダー（自作）",
+    "settings": [
+        {
+            "type": "range",
+            "id": "font-size_pc",
+            "min": 0,
+            "max": 50,
+            "step": 1,
+            "label": "PC文字サイズ",
+            "default": 16
+        },
+        {
+            "type": "range",
+            "id": "font-size_sp",
+            "min": 0,
+            "max": 20,
+            "step": 1,
+            "label": "スマホ文字サイズ",
+            "default": 14
+        },
+        {
+            "type": "range",
+            "id": "mb_size",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "label": "下の余白",
+            "default": 20
+        }
+    ],
+    "blocks" : [
+    {
+        "type": "image",
+        "name": "スライダーの画像",
+        "settings": [
+        {
+            "type": "image_picker",
+            "id": "block_image_picker_pc",
+            "label": "PC用画像の選択"
+        },
+        {
+            "type": "image_picker",
+            "id": "block_image_picker_sp",
+            "label": "スマホ用画像の選択"
+        },
+        {
+            "type": "image_picker",
+            "id": "block_image_picker_logo",
+            "label": "文章用の画像を選択"
+        },
+        {
+            "type": "text",
+            "id": "my_text1",
+            "label": "テキスト１"
+        },
+        {
+            "type": "text",
+            "id": "my_text2",
+            "label": "テキスト２"
+        },
+        {
+            "type": "text",
+            "id": "my_text3",
+            "label": "テキスト３"
+        },
+        {
+            "type": "text",
+            "id": "my_btn_text1",
+            "label": "ボタン用テキスト"
+        },
+        {
+            "type": "url",
+            "id": "btn_link",
+            "label": "ボタン用リンク"
+        },
+        {
+            "type": "range",
+            "id": "my_range_name1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "label": "縦の位置",
+            "default": 10
+        },
+        {
+            "type": "range",
+            "id": "my_range_name2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "label": "横の位置",
+            "default": 10
+        },
+        {
+            "type": "range",
+            "id": "my_range_name3",
+            "min": 0,
+            "max": 50,
+            "step": 1,
+            "label": "背景の余白",
+            "default": 10
+        },
+        {
+            "type": "color",
+            "id": "color_id",
+            "label": "背景色",
+            "default": "#efefef"
+        },
+        {
+            "type": "color",
+            "id": "font_color_id",
+            "label": "文字の色",
+            "default": "#333"
+        }
+        ]
+    }
+    ],
+
+    "presets":[
+    {
+        "name" : "スライダー（自作）",
+        "category": "カスタムパーツ"
+    }
+    
+    ]
+}
+{% endschema %}
+
+
+{% style %}
+    .fv-container {
+        margin-bottom: {{ section.settings.mb_size }}px;
+    }
+    
+    .fv__content {
+        text-align: center; 
+        font-size: {{ section.settings.font-size_pc }}px;;
+        z-index: 999;
+        position: absolute;
+    }
+
+    .fv__txt {
+        text-align: center;
+        line-height: 2;
+    }
+
+    .fv__content-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 268px;
+        height: 51px;
+        background: #464646;
+        border-radius: 25px;
+        margin: 20px auto 0;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    /* メディアクエリ */
+
+    @media (max-width: 767px) {
+        .fv__content {
+            font-size: {{ section.settings.font-size_sp }}px;;
+        }
+
+        .fv__content-img {
+            width: 100px;
+        }
+
+        .fv__txt {
+            line-height: 1.5;
+
+        }
+
+        .fv__content-btn {
+            width: 100px;
+            height: 35px;
+            margin: auto;
+        }
+
+        .swiper-pagination {
+            gap: 10px;
+        }
+
+        .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+            right: 10px;
+        }
+
+        .swiper-custom-fraction {
+            bottom: 55px;
+            right: 5px;
+            font-size: 12px;
+        }
+    }
+{% endstyle %}

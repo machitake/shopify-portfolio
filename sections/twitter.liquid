@@ -1,0 +1,44 @@
+<div class="twitter">
+    <div class="page-width">
+        <div class="section-ttl">
+            <h2>{{ section.settings.title }}</h2>
+            <a class="section-ttl-read" href="https://twitter.com/machitake__">{{ section.settings.read }}</a>
+        </div>
+
+        <div class="twitter-container">
+            {% render 'twitter-feed' %}
+        </div>
+    </div><!-- /.page-width -->
+</div>
+
+
+{% schema %}
+{
+    "name": "twitter-feed",
+    "settings": [
+        {
+            "type": "text",
+            "id": "title",
+            "label": "見出しを入力してください",
+            "default": "タイトル"
+        },
+        {
+            "type": "text",
+            "id": "read",
+            "label": "リード文を入力してください",
+            "default": "リード文"
+        }
+    ],
+    "presets":[
+    {
+        "name" : "twitter-feed",
+        "category": "カスタムパーツ"
+    }
+    
+    ]
+}
+{% endschema %}
+
+{% stylesheet %}
+    
+{% endstylesheet %}

@@ -1,0 +1,121 @@
+<section class="blog-information">
+    <div class="section-ttl">
+        <h2>{{ section.settings.section_title }}</h2>
+        <p class="section-ttl-read">{{ section.settings.section_read }}</p>
+    </div>
+
+    {% assign blog = blogs[section.settings.blog] %}
+    
+    <div class="blog__list">
+        {% for article in blog.articles %}
+        <!-- {{ article.title | truncate: 50 | escape }} -->
+            <div class="blog__item">
+                <a class="blog__item-link" href="{{ article.url }}">
+                    <span class="blog__item-date">
+                        {{ article.published_at | date: "%Y.%m.%d" }}
+                    </span><!-- /.blog__item-date -->
+                    <span class="blog__item-txt">
+                        {{ article.content | strip_html | truncate: 80 }}
+                    </span><!-- /.blog__item-txt -->
+                </a>
+            </div><!-- /.blog__list__item -->
+        {% endfor %}
+    </div><!-- /.blog__list -->
+    
+    <div class="blog__list-btn">
+        <a href="{{ blog.url }}">お知らせ一覧</a>
+    </div><!-- /.blog__list-btn -->
+
+</section><!-- /.blog -->
+
+
+{% schema %}
+{
+    "name": "インフォメーション",
+    "settings": [
+        {
+            "type": "text",
+            "id": "section_title",
+            "label": "タイトルを入力してください"
+        },
+        {
+            "type": "text",
+            "id": "section_read",
+            "label": "サブタイトル"
+        },
+        {
+            "type": "blog",
+            "id": "blog",
+            "label": "ブログを選択してください"
+        }
+    ],
+    "presets":[
+    {
+        "name" : "インフォメーション",
+        "category": "カスタムパーツ"
+    }
+    ]
+}
+{% endschema %}
+
+{% style %}
+.blog-information {
+    background: #fafafa;
+    padding: 50px 0;
+}
+
+.blog__item {   
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.blog__item:nth-child(odd) {
+    background: #dee4ed;
+}
+
+.blog__item-link {
+    display: flex;
+    justify-content: center;
+    line-height: 1.9999;
+    letter-spacing: 0.15em;  
+}
+
+.blog__item-date {
+    width: 200px;
+}
+
+.blog__item-txt {
+    width: 230px;
+}
+
+.blog__list-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 268px;
+    height: 51px;
+    margin: auto;
+    background: #464646;
+    border-radius: 25px;
+    margin-top: 70px;
+}
+.blog__list-btn a {
+    color: #fff;
+}
+
+@media screen and (max-width: 750px) {
+    .blog__item-date {
+        width: 100px;
+    }
+
+    .blog__item-txt {
+        width: calc( 100% - 100px );
+    }
+
+    .blog__item {
+        padding: 40px 1.5rem;
+    }
+}
+{% endstyle %}

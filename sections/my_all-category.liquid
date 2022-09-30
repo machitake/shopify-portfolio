@@ -1,0 +1,45 @@
+<div class="page-width">
+    <ul class="all-category__lists">
+        {% for collection in collections %}
+        {% if collection.handle contains "category" %}
+        <li class="all-category__list">
+        <a href="{{ collection.url }}" class="all-category__link">
+            <figure class="all-category__item">
+            <img src="{{ collection.image | image_url: width: 450 }}" alt="{{ collection.title }}" class="all-category__img">
+            <figcaption class="all-category__name">{{ collection.title }}</figcaption>
+            </figure>
+        </a>
+        </li>
+        {% endif %}
+        {% endfor -%}
+    </ul>
+</div>
+
+{%- style -%}
+    .all-category__lists {
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0;
+    }
+
+    .all-category__list {
+        width: 25%;
+    }
+
+    .all-category__item {
+        text-align: center;
+    }
+{%- endstyle -%}
+
+{% schema %}
+{
+    "name": "カテゴリー一覧",
+    "tag": "section",
+    "presets":[
+    {
+        "name" : "カテゴリー一覧",
+        "category": "カスタムパーツ"
+    }
+    ]
+}
+{% endschema %}

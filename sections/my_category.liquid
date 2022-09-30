@@ -1,0 +1,93 @@
+<section class="category">
+    <div class="section-ttl">
+        <h2>{{ section.settings.section_title }}</h2>
+        <p class="section-ttl-read">商品カテゴリー</p><!-- /.section-ttl-read -->
+    </div><!-- /.brand-ttl -->
+
+    <ul class="category__lists grid grid--{{ section.settings.columns_desktop }}-col-desktop grid--{{ section.settings.columns_mobile }}-col-tablet-down">
+
+        {% for block in section.blocks %}
+        <li class="category__item grid__item">
+            <a href="{{ block.settings.block_collection.url }}">
+                <div class="category__item-img">
+                    <img src="{{ block.settings.image | image_url: width: 800 }}" alt="{{ block.settings.block_collection.title }}">
+                    <div class="category__ttl">
+                        <h3>{{ block.settings.block_collection.title }}</h3>
+                    </div><!-- /.category__ttl -->
+                </div><!-- /.category__item-img -->
+                
+            </a>
+        </li><!-- /.category__list-item -->
+        {% endfor %}
+    </ul><!-- /.category__lists -->
+</section><!-- /.category -->
+
+
+
+{%- style -%}
+
+
+{%- endstyle -%}
+
+{% schema %}
+{
+    "name": "カテゴリーセクション",
+    "settings": [
+        {
+            "type": "text",
+            "id": "section_title",
+            "label": "タイトルを入力してください"
+        },
+        {
+            "type": "range",
+            "id": "columns_desktop",
+            "min": 1,
+            "max": 5,
+            "step": 1,
+            "default": 3,
+            "label": "t:sections.collection-list.settings.columns_desktop.label"
+        },
+        {
+            "type": "select",
+            "id": "columns_mobile",
+            "options": [
+                {
+                "value": "1",
+                "label": "t:sections.collection-list.settings.columns_mobile.options__1.label"
+                },
+                {
+                "value": "2",
+                "label": "t:sections.collection-list.settings.columns_mobile.options__2.label"
+                }
+            ],
+            "default": "1",
+            "label": "t:sections.collection-list.settings.columns_mobile.label"
+        }
+    ],
+    "blocks" : [
+    {
+        "type": "caption",
+        "name": "コレクションの選択",
+        "settings": [
+        {
+            "type": "collection",
+            "id": "block_collection",
+            "label": "コレクションを選択してください"
+        },
+        {
+            "type": "image_picker",
+            "id": "image",
+            "label": "背景画像"
+        }
+        ]
+    }
+    ],
+    "presets":[
+    {
+        "name" : "カテゴリーセクション",
+        "category": "カスタムパーツ"
+    }
+    
+    ]
+}
+{% endschema %}

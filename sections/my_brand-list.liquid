@@ -1,0 +1,40 @@
+<div class="page-width page-width--narrow">
+    <ul class="brand-link-list">
+        {% for collection in collections %}
+        {% for product_vendor in shop.vendors %}
+        {% if collection.title == product_vendor %}
+        <li class="brand">
+        <a href="{{ collection.url }}" class="brand-link">
+            <figure class="brand-logo">
+            <img src="{{ collection.image | img_url: 'small' }}" alt="{{ collection.title }}" class="brand-logo-image">
+            <figcaption class="brand-name">{{ collection.title }}</figcaption>
+            </figure>
+        </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+        {% endfor -%}
+    </ul>
+</div>
+
+{%- style -%}
+    .brand-link-list {
+        display: flex;
+        padding-left: 0;
+    }
+
+{%- endstyle -%}
+
+{% schema %}
+{
+    "name": "ブランド一覧",
+    "tag": "section",
+    "class": "page-section",
+    "presets":[
+    {
+        "name" : "ブランド一覧",
+        "category": "カスタムパーツ"
+    }
+    ]
+}
+{% endschema %}
