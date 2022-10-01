@@ -591,6 +591,13 @@ ul {
     margin-top: 55px!important;
 }
 
+.instafeed-container {
+    animation-name:fadeUpAnime;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    opacity:0;
+}
+
 /* スマホで２カラム */
 @media screen and (max-width: 768px){
     #insta-feed .instafeed-container{
@@ -614,6 +621,10 @@ ul {
 .twitter-container {
     display: flex;
     justify-content: center;
+    animation-name:fadeUpAnime;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    opacity:0;
 }
 
 .twitter {
