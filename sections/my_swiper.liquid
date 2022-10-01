@@ -42,9 +42,14 @@
                         background: {{ block.settings.color_id }};
                         padding: {{ block.settings.my_range_name3 }}px;
                     }
+                    
                     .fv__content{{ block.id }} p {
                         color: {{ block.settings.font_color_id }};
                         margin : 0;
+                    }
+
+                    .fv__content {
+                        border-radius: {{ block.settings.my_range_name4 }}px;
                     }
                 {% endstyle %}
 
@@ -167,6 +172,15 @@
             "max": 50,
             "step": 1,
             "label": "背景の余白",
+            "default": 10
+        },
+        {
+            "type": "range",
+            "id": "my_range_name4",
+            "min": 0,
+            "max": 50,
+            "step": 2,
+            "label": "背景の角丸",
             "default": 10
         },
         {
