@@ -103,7 +103,7 @@
       {%- endstyle -%}
 
         {% comment %}追記 rank-item rank-icon{{ forloop.index }}{% endcomment %}
-          <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="grid__item{% if show_mobile_slider or show_desktop_slider %} slider__slide{% endif %} rank-item rank-icon{{ forloop.index }}">
+          <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="grid__item{% if show_mobile_slider or show_desktop_slider %} slider__slide{% endif %} rank-item rank-icon{{ forloop.index }} fadeUpTrigger">
             
             {% comment %}card-productをcard-product-rankingに変更{% endcomment %}
             {% render 'card-product-ranking',

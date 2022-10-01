@@ -9,7 +9,7 @@
     <div class="blog__list">
         {% for article in blog.articles %}
         <!-- {{ article.title | truncate: 50 | escape }} -->
-            <div class="blog__item">
+            <div class="blog__item fadeUpTrigger">
                 <a class="blog__item-link" href="{{ article.url }}">
                     <span class="blog__item-date">
                         {{ article.published_at | date: "%Y.%m.%d" }}
