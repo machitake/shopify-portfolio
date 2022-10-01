@@ -211,7 +211,7 @@
             "type": "text",
             "settings": {
               "heading": "",
-              "subtext": "<p>株式会社リキッドマスターズ<br\/>〒111-1234<br\/>第3新東京市1234-5<br\/>TEL：0120-123-456<br\/>営業時間：平日10：00〜17：00<br\/>定休日：土日祝<\/p>"
+              "subtext": "<p>株式会社まちたけ<br\/>〒111-1234<br\/>第3新東京市1234-5<br\/>TEL：0120-123-456<br\/>営業時間：平日10：00〜17：00<br\/>定休日：土日祝<\/p>"
             }
           },
           "my_footer-0": {
@@ -380,7 +380,6 @@
             "color_scheme": "background-1",
             "logo": "{{ shop.brand.logo }}",
             "logo_width": 90,
-            "logo_position": "middle-left",
             "menu": "main-menu",
             "show_line_separator": true,
             "enable_sticky_header": true,
