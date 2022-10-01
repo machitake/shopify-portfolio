@@ -7,7 +7,7 @@
     <ul class="category__lists grid grid--{{ section.settings.columns_desktop }}-col-desktop grid--{{ section.settings.columns_mobile }}-col-tablet-down">
 
         {% for block in section.blocks %}
-        <li class="category__item grid__item">
+        <li class="category__item grid__item fadeUpTrigger">
             <a href="{{ block.settings.block_collection.url }}">
                 <div class="category__item-img">
                     <img src="{{ block.settings.image | image_url: width: 800 }}" alt="{{ block.settings.block_collection.title }}">
