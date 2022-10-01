@@ -67,6 +67,10 @@ ul {
     justify-content: space-between;
 }
 
+.header__search {
+    margin-right: 20px;
+}
+
 .header__left {
     width: calc(100% - 131px);
 }
