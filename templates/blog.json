@@ -17,7 +17,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "お知らせ一覧",
-        "section_read": "infomation",
+        "section_read": "information",
         "heading_size": "h1",
         "blog": "information",
         "post_limit": 3,

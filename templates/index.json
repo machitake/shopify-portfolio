@@ -3,24 +3,6 @@
     "16571101705eb53375": {
       "type": "my_swiper",
       "blocks": {
-        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd": {
-          "type": "image",
-          "settings": {
-            "block_image_picker_pc": "shopify:\/\/shop_images\/56c834b307d9e8c195e29b8790e87092ab6bd19a.jpg",
-            "block_image_picker_sp": "shopify:\/\/shop_images\/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg",
-            "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
-            "my_text1": "baby-shopは架空のブランドです。",
-            "my_text2": "ロンパースは赤ちゃんの肌に直接触れるので",
-            "my_text3": "肌に優しい素材のものを厳選してます。",
-            "my_btn_text1": "商品を見に行く",
-            "btn_link": "shopify:\/\/products\/baby-test-10",
-            "my_range_name1": 27,
-            "my_range_name2": 7,
-            "my_range_name3": 9,
-            "color_id": "rgba(0,0,0,0)",
-            "font_color_id": "#333333"
-          }
-        },
         "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468": {
           "type": "image",
           "settings": {
@@ -32,9 +14,27 @@
             "my_text3": "",
             "my_btn_text1": "商品を見に行く",
             "btn_link": "shopify:\/\/collections\/コーヒー",
-            "my_range_name1": 20,
-            "my_range_name2": 16,
+            "my_range_name1": 5,
+            "my_range_name2": 5,
             "my_range_name3": 10,
+            "color_id": "#ffffff",
+            "font_color_id": "#333333"
+          }
+        },
+        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/56c834b307d9e8c195e29b8790e87092ab6bd19a.jpg",
+            "block_image_picker_sp": "shopify:\/\/shop_images\/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
+            "my_text1": "baby-shopは架空のブランドです。",
+            "my_text2": "ロンパースは赤ちゃんの肌に直接触れるので",
+            "my_text3": "肌に優しい素材のものを厳選してます。",
+            "my_btn_text1": "商品を見に行く",
+            "btn_link": "shopify:\/\/products\/baby-test-10",
+            "my_range_name1": 1,
+            "my_range_name2": 3,
+            "my_range_name3": 9,
             "color_id": "rgba(0,0,0,0)",
             "font_color_id": "#333333"
           }
@@ -45,8 +45,8 @@
             "block_image_picker_pc": "shopify:\/\/shop_images\/98c3cefa68c9a70bd3717924b1c6ab8d3f3757ab.jpg",
             "block_image_picker_sp": "shopify:\/\/shop_images\/mv3.png",
             "block_image_picker_logo": "shopify:\/\/shop_images\/logo.png",
-            "my_text1": "NEMURINも",
-            "my_text2": "架空のベビー寝具ブランドです。",
+            "my_text1": "baby-shopでは",
+            "my_text2": "架空のベビー寝具ブランドも取り扱ってます。",
             "my_text3": "本当にあったらいいな。",
             "my_btn_text1": "商品をみにいく",
             "btn_link": "",
@@ -76,8 +76,8 @@
         }
       },
       "block_order": [
-        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd",
         "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468",
+        "96f90dbd-2eec-4f2f-ba41-eb2333e417dd",
         "f86e4ed8-77c3-4954-acb1-76b915ab5044",
         "03aa9229-0393-4270-84dd-94c1ce99d73d"
       ],
