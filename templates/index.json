@@ -17,6 +17,7 @@
             "my_range_name1": 5,
             "my_range_name2": 5,
             "my_range_name3": 10,
+            "my_range_name4": 24,
             "color_id": "#ffffff",
             "font_color_id": "#333333"
           }
@@ -35,6 +36,7 @@
             "my_range_name1": 1,
             "my_range_name2": 3,
             "my_range_name3": 9,
+            "my_range_name4": 10,
             "color_id": "rgba(0,0,0,0)",
             "font_color_id": "#333333"
           }
@@ -53,6 +55,7 @@
             "my_range_name1": 14,
             "my_range_name2": 11,
             "my_range_name3": 10,
+            "my_range_name4": 10,
             "color_id": "rgba(0,0,0,0)",
             "font_color_id": "#333333"
           }
@@ -70,6 +73,7 @@
             "my_range_name1": 10,
             "my_range_name2": 10,
             "my_range_name3": 10,
+            "my_range_name4": 10,
             "color_id": "#efefef",
             "font_color_id": "#333333"
           }
