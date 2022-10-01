@@ -621,10 +621,6 @@ ul {
 .twitter-container {
     display: flex;
     justify-content: center;
-    animation-name:fadeUpAnime;
-    animation-duration:2s;
-    animation-fill-mode:forwards;
-    opacity:0;
 }
 
 .twitter {
