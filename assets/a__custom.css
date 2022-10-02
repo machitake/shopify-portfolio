@@ -591,9 +591,6 @@ ul {
 }
 
 .instafeed-container {
-    animation-name:fadeUpAnime;
-    animation-duration:2s;
-    animation-fill-mode:forwards;
     opacity:0;
 }
 

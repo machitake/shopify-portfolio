@@ -63,7 +63,7 @@ jQuery(function(){
 
 function fadeAnime(){
 
-  $('.fadeUpTrigger').each(function(){ //fadeInUpTriggerというクラス名が
+  $('.fadeUpTrigger, .instafeed-container').each(function(){ //fadeInUpTriggerというクラス名が
     var elemPos = $(this).offset().top-50; //要素より、50px上の
     var scroll = $(window).scrollTop();
     var windowHeight = $(window).height();
@@ -72,17 +72,7 @@ function fadeAnime(){
     // 画面内に入ったらfadeInというクラス名を追記
     }
   });
-  
-  $('#insta-feed').each(function(){ //fadeInUpTriggerというクラス名が
-    var elemPos = $(this).offset().top-50; //要素より、50px上の
-    var scroll = $(window).scrollTop();
-    var windowHeight = $(window).height();
-    if (scroll >= elemPos - windowHeight){
-    $(this).addClass('fadeUp');
-    // 画面内に入ったらfadeInというクラス名を追記
-    }
-  });
-  
+
 }
 
 // 画面をスクロールをしたら動かしたい場合
