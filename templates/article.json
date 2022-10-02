@@ -10,15 +10,15 @@
             "blog_show_author": false
           }
         },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
             "share_label": "Share"
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {
           }
         },
         "featured_image": {
@@ -31,8 +31,8 @@
       },
       "block_order": [
         "title",
-        "share",
         "content",
+        "share",
         "featured_image"
       ],
       "settings": {
