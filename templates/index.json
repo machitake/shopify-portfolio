@@ -3,25 +3,6 @@
     "16571101705eb53375": {
       "type": "my_swiper",
       "blocks": {
-        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468": {
-          "type": "image",
-          "settings": {
-            "block_image_picker_pc": "shopify:\/\/shop_images\/baby-natur-Hld-gd-WN7k-unsplash.jpg",
-            "block_image_picker_sp": "shopify:\/\/shop_images\/baby_syoutousyou.png",
-            "block_image_picker_logo": "shopify:\/\/shop_images\/mv1-1.png",
-            "my_text1": "USAGIMARUはうさぎモチーフの",
-            "my_text2": "架空おもちゃブランドです。",
-            "my_text3": "",
-            "my_btn_text1": "商品を見に行く",
-            "btn_link": "shopify:\/\/collections\/コーヒー",
-            "my_range_name1": 5,
-            "my_range_name2": 5,
-            "my_range_name3": 20,
-            "my_range_name4": 24,
-            "color_id": "#ffffff",
-            "font_color_id": "#333333"
-          }
-        },
         "96f90dbd-2eec-4f2f-ba41-eb2333e417dd": {
           "type": "image",
           "settings": {
@@ -38,6 +19,25 @@
             "my_range_name3": 9,
             "my_range_name4": 10,
             "color_id": "rgba(0,0,0,0)",
+            "font_color_id": "#333333"
+          }
+        },
+        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468": {
+          "type": "image",
+          "settings": {
+            "block_image_picker_pc": "shopify:\/\/shop_images\/baby-natur-Hld-gd-WN7k-unsplash.jpg",
+            "block_image_picker_sp": "shopify:\/\/shop_images\/baby_syoutousyou.png",
+            "block_image_picker_logo": "shopify:\/\/shop_images\/mv1-1.png",
+            "my_text1": "USAGIMARUはうさぎモチーフの",
+            "my_text2": "架空おもちゃブランドです。",
+            "my_text3": "",
+            "my_btn_text1": "商品を見に行く",
+            "btn_link": "shopify:\/\/collections\/コーヒー",
+            "my_range_name1": 5,
+            "my_range_name2": 5,
+            "my_range_name3": 20,
+            "my_range_name4": 24,
+            "color_id": "#ffffff",
             "font_color_id": "#333333"
           }
         },
@@ -80,8 +80,8 @@
         }
       },
       "block_order": [
-        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468",
         "96f90dbd-2eec-4f2f-ba41-eb2333e417dd",
+        "6d97d6e4-d9c7-4aaf-93a5-35f4643fd468",
         "f86e4ed8-77c3-4954-acb1-76b915ab5044",
         "03aa9229-0393-4270-84dd-94c1ce99d73d"
       ],
