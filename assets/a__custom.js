@@ -86,3 +86,4 @@ var removePowered = function() {
 };
 
 setTimeout(removePowered, 100);
+
