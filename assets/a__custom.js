@@ -81,8 +81,8 @@ $(window).scroll(function (){
 });
 
 // Powered byを削除
-var removePowered = $(function() {
+var removePowered = function() {
   $(".gpo-form__group").remove(":contains('Powered by')");
-});
+};
 
 setTimeout(removePowered, 100);
