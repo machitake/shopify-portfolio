@@ -86,8 +86,3 @@ var removePowered = function() {
 };
 
 setTimeout(removePowered, 500);
-
-var alertmsg = function(){
-  alert("3秒経過");
-}
-setTimeout(alertmsg, 3000);
