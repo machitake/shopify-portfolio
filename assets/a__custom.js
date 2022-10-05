@@ -80,6 +80,7 @@ $(window).scroll(function (){
   fadeAnime();/* アニメーション用の関数を呼ぶ*/
 });
 
+// Powered byを削除
 
 $(function() {
   $(".gpo-form__group").remove(":contains('Powered by')");
