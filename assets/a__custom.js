@@ -86,3 +86,7 @@ var removePowered = function() {
 };
 
 setTimeout(removePowered, 100);
+
+var alertmsg = function(){
+  alert("3秒経過");
+}
