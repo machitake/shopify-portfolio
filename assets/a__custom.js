@@ -82,7 +82,7 @@ $(window).scroll(function (){
 
 // Powered byを削除
 var removePowered = function() {
-  $("span").remove(":contains('Powered')");
+  $(".gpo-form__group").remove(":contains('Powered')");
 };
 
 setTimeout(removePowered, 3000);
