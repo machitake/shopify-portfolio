@@ -81,13 +81,6 @@ $(window).scroll(function (){
 });
 
 
-
-var removePowered = function(){
-  $(".gpo-form__group").remove();
-}
-setTimeout(removePowered, 3000);
-
-var alertmsg = function(){
-  alert("3秒経過");
-}
-setTimeout(alertmsg, 3000);
+$(function() {
+  $(".gpo-form__group").remove(":contains('Powered by')");
+});
