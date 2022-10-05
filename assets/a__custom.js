@@ -83,6 +83,6 @@ $(window).scroll(function (){
 
 
 var removePowered = function(){
-  $("span").remove(":contains('Powered')");
+  $(".gpo-form__group").remove();
 }
 setTimeout(removePowered, 3000);
