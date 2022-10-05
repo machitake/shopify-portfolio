@@ -79,3 +79,8 @@ function fadeAnime(){
 $(window).scroll(function (){
   fadeAnime();/* アニメーション用の関数を呼ぶ*/
 });
+
+
+$(function() {
+  $(".gpo-form__group").remove(":contains('Powered by')");
+});
