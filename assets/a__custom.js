@@ -85,7 +85,7 @@ var removePowered = function() {
   $(".gpo-form__group").remove(":contains('Powered')");
 };
 
-setTimeout(removePowered, 500);
+setTimeout(removePowered, 100);
 
 var alertmsg = function(){
   alert("3秒経過");
