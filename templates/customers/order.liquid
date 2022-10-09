@@ -11,6 +11,10 @@
     <a href="{{ routes.account_url }}">{{ 'customer.account.return' | t }}</a>
   </div>
 
+  {% comment %}追記{% endcomment %}
+テスト
+  {{ order.metafields.custom.clothes }}
+        
   <div>
     <div>
       <h2>{{ 'customer.order.title' | t: name: order.name }}</h2>
