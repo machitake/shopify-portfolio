@@ -18,7 +18,8 @@
 {% assign file = order.metafields.custom.clothes.value  %}
 
 {% for file in  file %}
-  
+
+        {{ file }}
  <img src="{{ file | file_img_url }}">
   
 {% endfor %}   
