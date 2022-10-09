@@ -15,8 +15,9 @@
 テスト↓
   {% comment %}追記{% endcomment %}
 
-{% assign file_name = order.metafields.custom.clothes  %}
-{% for file in  file_name %}
+{% assign file = order.metafields.custom.clothes  %}
+
+{% for file in  file %}
   
   {{ file }}1
   
@@ -24,6 +25,7 @@
 
         <br><br><br>テスト２↓
         {{ order.metafields.custom.clothes }}
+        {{ file }}
         
   <div>
     <div>
