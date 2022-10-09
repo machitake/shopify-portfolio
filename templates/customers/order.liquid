@@ -12,19 +12,13 @@
   </div>
 
         
-テスト↓
+メタフィールド画像↓
   {% comment %}追記{% endcomment %}
-
 {% for file in  order.metafields.custom.clothes.value %}
-{% assign file_name = file | split: '/' | last %}
- <img src="{{ file_name | file_img_url }}">
-  
+        {% assign file_name = file | split: '/' | last %}
+        <img src="{{ file_name | file_img_url }}">
 {% endfor %}   
 
-        <br><br><br>テスト２↓
-        {{ order.metafields.custom.clothes }}
-        {{ file }}
-        
   <div>
     <div>
       <h2>{{ 'customer.order.title' | t: name: order.name }}</h2>
