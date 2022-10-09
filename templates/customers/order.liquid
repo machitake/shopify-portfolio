@@ -15,11 +15,8 @@
 テスト↓
   {% comment %}追記{% endcomment %}
 
-{% assign file = order.metafields.custom.clothes.value  %}
-
-{% for file in  file %}
+{% for file in  order.metafields.custom.clothes.value %}
 {% assign file_name = file | split: '/' | last %}
-        {{ file }}
  <img src="{{ file_name | file_img_url }}">
   
 {% endfor %}   
