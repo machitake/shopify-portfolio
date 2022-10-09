@@ -14,9 +14,10 @@
         
 テスト↓
   {% comment %}追記{% endcomment %}
-{%- for order in order.metafields.custom.clothes -%}　
-  {{ order }}
- {%- endfor -%}       
+{% for file in order.metafields.custom.clothes %}
+  {% assign file_name = file | split: '/' | last %}
+  <img src="{{ file_name | file_img_url: "150x" }}">
+{% endfor %}   
 
         {{ order.metafields.custom.clothes }}
         
