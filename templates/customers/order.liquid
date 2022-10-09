@@ -12,8 +12,8 @@
   </div>
 
   {% comment %}追記{% endcomment %}
-{%- for order-img in order.metafields.custom.clothes -%}　
-  {{ order-img }}
+{%- for order in order.metafields.custom.clothes -%}　
+  {{ order }}
  {%- endfor -%}       
         
   <div>
