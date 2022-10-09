@@ -18,7 +18,7 @@
         {{ file }}
         {% assign file_name = file | split: '/' | last %}
         <img src="{{ file_name | file_img_url }}">
-        <img src="{{ file | image_url : width: 300 }}" class="fv__item-img">
+        <img src="{{ file | image_url : width: 200 }}" class="fv__item-img">
 
 {% endfor %}   
 
