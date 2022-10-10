@@ -17,7 +17,9 @@
 {% for file in  order.metafields.custom.clothes.value %}
         {{ file }}<br>
         {% assign file_name = file | split: '/' | last %}
+         {% assign test = file_name | split: '.' | first %}
         {{ file_name }}
+  {{ test }}
         <img src="{{ file_name | file_img_url }}">
         <img src="{{ file_name }}" >
                 <img src="https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
