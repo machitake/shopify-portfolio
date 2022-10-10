@@ -15,7 +15,7 @@
 メタフィールド画像↓<br>
   {% comment %}追記{% endcomment %}
 {% for file in  order.metafields.custom.clothes.value %}
-        {{ file }}
+        {{ file }}<br>
         {% assign file_name = file | split: '/' | last %}
         {{ file_name }}
         <img src="{{ file_name | file_img_url }}">
