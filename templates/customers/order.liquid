@@ -19,10 +19,12 @@
   
         {% assign file_name = file | split: '/' | last %}
          {% assign test = file_name | split: '.' | first %}
-        
-        {{ file_name }}これはfile_name<br>
-  {{ test }}これはテスト<br>
-  {{ test | file_img_url}}これはテストfile_img_url<br>
+        これはfile_name<br>
+        {{ file_name }}
+        これはテスト<br>
+  {{ test }}
+        これはテストfile_img_url<br>
+  {{ test | file_img_url}}
   https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
 
         <br><br><br><br>
