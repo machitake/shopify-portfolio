@@ -18,7 +18,7 @@
         {{ file }}<br>
         {% assign file_name = file | split: '/' | last %}
          {% assign test = file_name | split: '.' | first %}
-        {{ file_name }}
+        {{ file_name }}<br>
   {{ test }}
         <img src="{{ file_name | file_img_url }}">
         <img src="{{ file_name }}" >
