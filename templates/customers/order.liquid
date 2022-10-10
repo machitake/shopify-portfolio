@@ -15,13 +15,15 @@
 メタフィールド画像↓<br>
   {% comment %}追記{% endcomment %}
 {% for file in  order.metafields.custom.clothes.value %}
-        {{ file }}<br>
+        {{ file }} これはfile<br>
+  
         {% assign file_name = file | split: '/' | last %}
          {% assign test = file_name | split: '.' | first %}
-        {{ file_name }}<br>
-  {{ test }}テスト<br>
-  {{ test | img_url}}
-        https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
+        
+        {{ file_name }}これはfile_name<br>
+  {{ test }}これはテスト<br>
+  {{ test | img_url}}これはテストimgurl<br>
+  https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
 
         <br><br><br><br>
         <img src="{{ file_name | file_img_url }}">
