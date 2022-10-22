@@ -300,12 +300,15 @@
         {{ order.billing_address | format_address }}
       </div>
       <div>
-        <h2>{{ 'customer.order.shipping_address' | t }}</h2>
+        {% assign gift = order.attributes | map: 'SNSギフト' %}
+{%- unless gift.first == 'true' -%}
+<h2>{{ 'customer.order.shipping_address' | t }}</h2>
         <p>
           <strong>{{ 'customer.order.fulfillment_status' | t }}:</strong>
           {{ order.fulfillment_status_label }}
         </p>
         {{ order.shipping_address | format_address }}
+{%- endunless -%} <!-- for hide shipping address -->
       </div>
     </div>
   </div>
