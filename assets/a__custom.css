@@ -543,7 +543,7 @@ ul {
         top: -20px;
     }
     .rank::after {
-        font-size: 24px;
+        font-size: 24px!important;
         width: 40px;
         height: 40px;
         top: -20px;
