@@ -11,6 +11,34 @@
             "text_style": "uppercase"
           }
         },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "c182d2ed-e29c-4c99-9afb-f76d556ba68b": {
           "type": "shopify:\/\/apps\/all-in-gift-e\/blocks\/app-block-product\/14c78036-27a0-4098-a9e3-c3f1525dedff",
           "settings": {
@@ -33,34 +61,6 @@
             "e_gift_description_color": "#000000",
             "e_gift_description_url": "",
             "original_color_enable": "true"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -124,12 +124,12 @@
       },
       "block_order": [
         "vendor",
-        "c182d2ed-e29c-4c99-9afb-f76d556ba68b",
         "title",
         "caption",
         "price",
         "variant_picker",
         "quantity_selector",
+        "c182d2ed-e29c-4c99-9afb-f76d556ba68b",
         "buy_buttons",
         "description",
         "collapsible-row-0",
