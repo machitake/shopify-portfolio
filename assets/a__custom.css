@@ -542,6 +542,12 @@ ul {
         height: 40px;
         top: -20px;
     }
+    .rank::after {
+        font-size: 24px;
+        width: 40px;
+        height: 40px;
+        top: -20px;
+    }
     
 }
 
