@@ -31,12 +31,36 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "c182d2ed-e29c-4c99-9afb-f76d556ba68b": {
+          "type": "shopify:\/\/apps\/all-in-gift-e\/blocks\/app-block-product\/14c78036-27a0-4098-a9e3-c3f1525dedff",
+          "settings": {
+            "font_color": "#000000",
+            "secondary_font_color": "#000000",
+            "font_size": 16,
+            "checkout_button_text": "購入",
+            "checkout_button_text_color": "#ffffff",
+            "checkout_button_color": "#000000",
+            "primary_button_color": "#121212",
+            "primary_button_text_color": "#ffffff",
+            "secondary_button_color": "#ffffff",
+            "secondary_button_text_color": "#1a1d2b",
+            "button_radius": 5,
+            "gift_setting_button_text": "ギフト設定",
+            "icon_show": "true",
+            "gift_radio_text": "指定の住所に贈る",
+            "e_gift_radio_text": "住所を知らない相手にeギフトで贈る",
+            "e_gift_description_text": "相手の住所を知らなくても、ギフトを贈れるサービスです。 購入後に発行される、受け取り用のURLをLINEやSNSなどを使ってお相手にお送りください。",
+            "e_gift_description_color": "#000000",
+            "e_gift_description_url": "",
+            "original_color_enable": "true"
           }
         },
         "buy_buttons": {
@@ -105,6 +129,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "c182d2ed-e29c-4c99-9afb-f76d556ba68b",
         "buy_buttons",
         "description",
         "collapsible-row-0",
@@ -122,6 +147,68 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "1666445881ca6bd4b6": {
+      "type": "apps",
+      "blocks": {
+        "02112f2e-c336-4f36-bedd-0dc2dafa61db": {
+          "type": "shopify:\/\/apps\/all-in-gift-e\/blocks\/app-block-product\/14c78036-27a0-4098-a9e3-c3f1525dedff",
+          "disabled": true,
+          "settings": {
+            "font_color": "#000000",
+            "secondary_font_color": "#5570e9",
+            "font_size": 32,
+            "checkout_button_text": "購入手続きへ",
+            "checkout_button_text_color": "#ffffff",
+            "checkout_button_color": "#000000",
+            "primary_button_color": "#5570e9",
+            "primary_button_text_color": "#ffffff",
+            "secondary_button_color": "#ffffff",
+            "secondary_button_text_color": "#5570e9",
+            "button_radius": 5,
+            "gift_setting_button_text": "ギフト設定",
+            "icon_show": "true",
+            "gift_radio_text": "指定の住所に贈る",
+            "e_gift_radio_text": "住所を知らない相手にeギフトで贈る",
+            "e_gift_description_text": "相手の住所を知らなくても、ギフトを贈れるサービスです。 購入後に発行される、受け取り用のURLをLINEやSNSなどを使ってお相手にお送りください。",
+            "e_gift_description_color": "#000000",
+            "e_gift_description_url": "",
+            "original_color_enable": "true"
+          }
+        },
+        "eff879d6-0566-4997-a6f6-84ff4410247e": {
+          "type": "shopify:\/\/apps\/all-in-gift-e\/blocks\/app-block-product\/14c78036-27a0-4098-a9e3-c3f1525dedff",
+          "disabled": true,
+          "settings": {
+            "font_color": "#000000",
+            "secondary_font_color": "#5570e9",
+            "font_size": 14,
+            "checkout_button_text": "購入手続きへ",
+            "checkout_button_text_color": "#ffffff",
+            "checkout_button_color": "#000000",
+            "primary_button_color": "#5570e9",
+            "primary_button_text_color": "#ffffff",
+            "secondary_button_color": "#ffffff",
+            "secondary_button_text_color": "#5570e9",
+            "button_radius": 5,
+            "gift_setting_button_text": "ギフト設定",
+            "icon_show": "true",
+            "gift_radio_text": "指定の住所に贈る",
+            "e_gift_radio_text": "住所を知らない相手にeギフトで贈る",
+            "e_gift_description_text": "相手の住所を知らなくても、ギフトを贈れるサービスです。 購入後に発行される、受け取り用のURLをLINEやSNSなどを使ってお相手にお送りください。",
+            "e_gift_description_color": "#000000",
+            "e_gift_description_url": "",
+            "original_color_enable": "true"
+          }
+        }
+      },
+      "block_order": [
+        "02112f2e-c336-4f36-bedd-0dc2dafa61db",
+        "eff879d6-0566-4997-a6f6-84ff4410247e"
+      ],
+      "settings": {
+        "include_margins": false
       }
     },
     "image-with-text": {
@@ -160,50 +247,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -224,8 +267,8 @@
   },
   "order": [
     "main",
+    "1666445881ca6bd4b6",
     "image-with-text",
-    "multicolumn",
     "product-recommendations"
   ]
 }

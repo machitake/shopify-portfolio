@@ -12,32 +12,87 @@
   </div>
 
         
-メタフィールド画像↓<br>
+メタフィールド画像（ポップアップ）↓<br>
+
 {% comment %}追記{% endcomment %}
-{% for file in  order.metafields.custom.clothes.value %}
+
+<div class="popup__content">
+  <!-- オーバーレイ -->
+  <div id="overlay" class="overlay"></div>
   
-        {% assign file_name = file | split: '/' | last %}
-        
-        {% comment %}
-        {% assign test = file_name | split: '.' | first %}
-        {{ file }} これはfile<br>
-        これはfile_name<br>
-        {{ file_name }}<br><br>
-        これはテスト<br>
-        {{ test }}<br><br>
-        これはテストfile_img_url<br>
-        {{ test | file_img_url}}<br><br>
-        これはfile_namefile_img_url<br>
-        https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
-        {{ file_name | file_img_url }}<br><br>
-          <img src="https://cdn.shopify.com/s/files/1/0647/9829/4242/files/taisiia-shestopal-k1tgnIUZ_CM-unsplash.jpg?v=1664518503
-" class="fv__item-img">
-        {% endcomment %}
+  <div class="popup__content-list">
+    {% for file in  order.metafields.custom.clothes.value %}
+      
+      {% assign file_name = file | split: '/' | last %}
+        <div class="popup-window" data-id="popup{{forloop.index}}" style="display: none;">
+            <img class="js-close popup-window-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
+        </div>
+    
+        <div class="popup__content-item">
+            <div class="js-open" data-id="{{forloop.index}}">
+              <img src="{{ file_name | file_img_url }}" alt="">  
+            </div>
+        </div>
+    {% endfor %}   
+  </div><!-- /.popup__content-list -->
+</div><!-- /.popup__content -->
+
+
+<style>
+  .popup__content-item, .button-open{
+    padding: 0!important;
+  }
+
+  .popup-window {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 11;
+    box-shadow: 0 0px 10px rgba(200, 199, 195, 0.5);
+  }
   
-        <img src="{{ file_name | file_img_url }}">
-        <img src="{{ file_name | file_img_url: '1000x1000' }}">
-        <br><br><br><br>
-{% endfor %}   
+  .popup-window-img {
+    max-height: 80vh;
+  }
+
+  .overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  }
+
+  /* 表示領域外へはスクロールさせない */
+  .no_scroll {
+    overflow: hidden;
+  }
+</style>
+
+<script>
+    $(function () {
+  $('.js-open').click(function () {
+    $("body").addClass("no_scroll"); // 背景固定させるクラス付与
+    var id = $(this).data('id'); // 何番目のキャプション（モーダルウィンドウ）か認識
+    console.log(id);
+    $('#overlay, .popup-window[data-id="popup' + id + '"]').fadeIn();
+  });
+  // オーバーレイクリックでもモーダルを閉じるように
+  $('.js-close , #overlay').click(function () {
+    $("body").removeClass("no_scroll"); // 背景固定させるクラス削除
+    $('#overlay, .popup-window').fadeOut();
+  });
+});
+</script>
+
+
+
+
 
   <div>
     <div>
@@ -300,12 +355,15 @@
         {{ order.billing_address | format_address }}
       </div>
       <div>
-        <h2>{{ 'customer.order.shipping_address' | t }}</h2>
+        {% assign gift = order.attributes | map: 'SNSギフト' %}
+{%- unless gift.first == 'true' -%}
+<h2>{{ 'customer.order.shipping_address' | t }}</h2>
         <p>
           <strong>{{ 'customer.order.fulfillment_status' | t }}:</strong>
           {{ order.fulfillment_status_label }}
         </p>
         {{ order.shipping_address | format_address }}
+{%- endunless -%} <!-- for hide shipping address -->
       </div>
     </div>
   </div>
