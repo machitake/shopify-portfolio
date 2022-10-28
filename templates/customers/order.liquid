@@ -19,31 +19,101 @@
 <div class="popup__content">
   <!-- オーバーレイ -->
   <div id="overlay" class="overlay"></div>
-  
-  <div class="popup__content-list">
+
+  <div class="clothes__list popup__content-list">
     {% for file in  order.metafields.custom.clothes.value %}
-      
-      {% assign file_name = file | split: '/' | last %}
-        <div class="popup-window" data-id="popup{{forloop.index}}" style="display: none;">
-            <img class="js-close popup-window-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
-        </div>
     
-        <div class="popup__content-item">
-            <div class="js-open" data-id="{{forloop.index}}">
-              <img src="{{ file_name | file_img_url }}" alt="">  
-            </div>
-        </div>
+      {% assign file_name = file | split: '/' | last %}
+      <div class="popup-window" data-id="popup{{forloop.index}}" style="display: none;">
+        <img class="js-close popup-window-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
+      </div>
+  
+      <div class="popup__content-item clothes__item">
+          <div class="js-open" data-id="{{forloop.index}}">
+            <img src="{{ file_name | file_img_url }}" alt="">  
+          </div>
+      </div>
+
     {% endfor %}   
-  </div><!-- /.popup__content-list -->
+  </div>
+
 </div><!-- /.popup__content -->
+
+<!-- コンテンツ -->
+<div class="content">
+  {% for file in  order.metafields.custom.clothes.value %}
+      
+    {% assign file_name = file | split: '/' | last %}
+
+    <div class="js-open-originalModal" data-slide-index="{{forloop.index}}">
+      <img src="{{ file_name | file_img_url }}" alt="">  
+    </div>
+
+  {% endfor %}
+</div>
+
+<!-- モーダル -->
+<div class="originalModal" id="originalModal">
+  <div class="originalModal__overlay js-close-originalModal"></div>
+  <div class="originalModal__content">
+    <div class="originalModal__close-btn js-close-originalModal" aria-label="閉じる">×</div>
+    <!-- スライダー -->
+    <div class="swiper originalModal__slider">
+      <div class="swiper-wrapper">
+
+        {% for file in  order.metafields.custom.clothes.value %}
+      
+          {% assign file_name = file | split: '/' | last %}
+      
+          <div class="swiper-slide originalModal__slide">
+            <img class="originalModal__slider-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
+          </div>
+      
+        {% endfor %}
+      </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+    </div>
+  </div>
+</div>
 
 
 <style>
-  .popup__content-item, .button-open{
-    padding: 0!important;
-  }
+  /* アカウント注文履歴（order）
+=============================================================*/
+.custom-table {
+    position: relative;
+    box-shadow: 0 0 0 0.1rem rgba(18, 18, 18, .08)
+}
 
-  .popup-window {
+.custom-table thead:after, .custom-table tfoot:before {
+    content: " ";
+    height: 0.1rem;
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    background: rgba(18, 18, 18, .08);
+}
+
+.clothes__list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 16px 0;
+}
+
+.clothes__item {
+    width: calc(100% / 5);
+    text-align: center;
+}
+
+/* アニメーション（ポップアップ） */
+.popup__content-item, .button-open{
+    padding: 0!important;
+}
+
+.popup-window {
     display: none;
     position: fixed;
     top: 50%;
@@ -51,27 +121,27 @@
     transform: translate(-50%, -50%);
     z-index: 11;
     box-shadow: 0 0px 10px rgba(200, 199, 195, 0.5);
-  }
-  
-  .popup-window-img {
+}
+
+.popup-window-img {
     max-height: 80vh;
-  }
+}   
 
-  .overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.1);
-  width: 100vw;
-  height: 100vh;
-  z-index: 10;
-  }
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100vw;
+    height: 100vh;
+    z-index: 10;
+}
 
-  /* 表示領域外へはスクロールさせない */
-  .no_scroll {
+/* 表示領域外へはスクロールさせない */
+.no_scroll {
     overflow: hidden;
-  }
+}
 </style>
 
 <script>
