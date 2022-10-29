@@ -222,8 +222,9 @@
     {% comment %}追記{% endcomment %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script><!-- 最新バージョン3.5.1 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
-    {{ 'a__custom.js' | asset_url | script_tag}}
-  {% render 'wishlisthero-styles.liquid' %}</head>
+    <script src="{{ 'swiper-bundle.min.js' | asset_url }}"></script>
+    {{ 'a__custom.js' | asset_url | script_tag }}
+    {% render 'wishlisthero-styles.liquid' %}</head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
