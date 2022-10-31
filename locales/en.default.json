@@ -1952,7 +1952,9 @@
       "address": {
         "created": "The address was created successfully",
         "deleted": "The address was deleted successfully.",
-        "error_creating": "Failed to create the address."
+        "error_creating": "Failed to create the address.",
+        "error_deleting": "Failed to delete the address.",
+        "error_updating": "Failed to update the address."
       }
     }
   }
