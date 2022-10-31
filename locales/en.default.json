@@ -1990,7 +1990,10 @@
           "inventory": "Product is not available",
           "other": "Other"
         },
-        "cash_on_delivery": "Cash on delivery"
+        "cash_on_delivery": "Cash on delivery",
+        "financial_status": {
+          "authorized": "Authorized"
+        }
       }
     }
   }
