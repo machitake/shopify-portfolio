@@ -964,7 +964,10 @@
         "email_placeholder": "Email",
         "emirate_label": "Emirates",
         "emirate_placeholder": "Emirates",
-        "first_name_label": "Name"
+        "first_name_label": "Name",
+        "governorate_label": "Administrative district",
+        "governorate_placeholder": "Administrative district",
+        "last_name_label": "Surname"
       }
     }
   }
