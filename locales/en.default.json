@@ -1528,7 +1528,10 @@
       },
       "shipping": {
         "arrives_time": "arrival: %{time}",
-        "arrives_time_range": "arrival: %{min_time}–%{max_time}"
+        "arrives_time_range": "arrival: %{min_time}–%{max_time}",
+        "delivery": "%{time}delivery to",
+        "delivery_date_range": "%{min_time}～%{max_time}",
+        "delivery_today": "today (%{time}) delivery"
       }
     }
   }
