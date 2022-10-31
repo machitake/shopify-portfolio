@@ -1881,7 +1881,10 @@
     },
     "errors": {
       "bad_domain": "Contains an invalid domain name",
-      "blank": "Must be entered"
+      "blank": "Must be entered",
+      "blocked_address": "This location is not supported.",
+      "contains_html_tags": "Cannot contain HTML tags",
+      "contains_spaces": "Starts or ends with spaces."
     }
   }
 }
