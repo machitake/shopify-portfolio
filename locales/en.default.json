@@ -1633,6 +1633,16 @@
         "sold_out_label": "sold out",
         "status_column_header": "Status",
         "title": "out of stock"
+      },
+      "subscriptions": {
+        "recurring_total_intervals": {
+          "day": {
+            "other": "%{count}Day"
+          },
+          "month": {
+            "other": "%{count}months"
+          }
+        }
       }
     }
   }
