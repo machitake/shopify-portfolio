@@ -767,8 +767,11 @@
           "items": "item",
           "order_date": "order date",
           "order_number": "order number",
-          "payment_status": "Payment status"
-        }
+          "payment_status": "Payment status",
+          "status": "Order status"
+        },
+        "delivered": "Delivered: {{date}}",
+        "empty_state_order_source_description": "{{email}}Only orders by。"
       }
     }
   }
