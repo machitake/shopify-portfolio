@@ -976,7 +976,9 @@
         "phone_label": "phone number",
         "phone_placeholder": "phone number",
         "phone_tooltip": "Use when you need to contact us about your order",
-        "pincode_label": "PIN code"
+        "pincode_label": "PIN code",
+        "pincode_placeholder": "PIN code",
+        "postal_code_label": "Postal code"
       }
     }
   }
