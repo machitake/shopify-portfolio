@@ -1408,7 +1408,8 @@
         "supported_card_brands_more_label": "Such",
         "taxes_not_included": "Tax not included",
         "technical_error": "We are currently unable to process your payment due to a technical issue. Please try again in a few minutes.",
-        "title": "payment"
+        "title": "payment",
+        "update_payment_method": "Update payment method"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
