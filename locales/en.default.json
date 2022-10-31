@@ -1839,7 +1839,16 @@
         "date_ascending": "Oldest product order",
         "date_descending": "New arrival order",
         "manual": "recommendation",
-        "price_ascending": "Price in ascending order"
+        "price_ascending": "Price in ascending order",
+        "price_descending": "Highest price",
+        "za": "Alphabetical order, ZA"
+      }
+    },
+    "email_marketing": {
+      "open_tracking": {
+        "no_longer_track": {
+          "status_html": "<b>Shopify can no longer track whether emails are openedん。<\/b>"
+        }
       }
     }
   }
