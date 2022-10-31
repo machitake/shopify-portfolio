@@ -740,7 +740,11 @@
       "shipment_timeline": {
         "expand_events_accessibility_label": "View shipping details for an order",
         "expand_events_label": "View details",
-        "hide_events_accessibility_label": "Hide order shipping details"
+        "hide_events_accessibility_label": "Hide order shipping details",
+        "hide_events_label": "hide details"
+      },
+      "shipping": {
+        "address": "Shipping address"
       }
     }
   }
