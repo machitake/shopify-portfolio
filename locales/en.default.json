@@ -442,7 +442,9 @@
         "edit_accessibility_label": "edit profile",
         "email_help_text": "The email address used for login cannot be changed",
         "first_name": "Name",
-        "last_name": "Surname"
+        "last_name": "Surname",
+        "phone_number_help_text": "The phone number used to log in cannot be changed",
+        "save": "keep"
       }
     }
   }
