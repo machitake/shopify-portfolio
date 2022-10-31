@@ -1578,6 +1578,9 @@
           "subscription_delivery_frequency": {
             "day": {
               "other": "%{count}Each day"
+            },
+            "month": {
+              "other": "%{count}monthly"
             }
           }
         }
