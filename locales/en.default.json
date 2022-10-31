@@ -1460,7 +1460,9 @@
           "submit": "Send"
         },
         "escape_action": "Show order confirmation ›Display",
-        "escape_confirmation": "I paid for my order."
+        "escape_confirmation": "I paid for my order.",
+        "page_title": "After purchase",
+        "title": "After purchase"
       }
     }
   }
