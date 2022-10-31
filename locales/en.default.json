@@ -163,19 +163,19 @@
       "filter_button": "Narrow down",
       "filters_selected": {
         "one": "{{ count }}pcs selected",
-        "other": "{{ count }} selected"
+        "other": "{{ count }}pcs selected"
       },
       "filter_selected_accessibility": "{{ type }} ({{ count }}filters selected)",
       "show_more": "Show more",
       "show_less": "Show less",
-      "max_price": "The highest price is {{ price }}",
+      "max_price": "Maximum price is{{ price }}is",
       "product_count": {
-        "one": "{{ product_count }} of {{ count }} product",
-        "other": "{{ product_count }} of {{ count }} products"
+        "one": "{{ count }}of items{{ product_count }}",
+        "other": "{{ count }}of items{{ product_count }}"
       },
       "product_count_simple": {
-        "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "one": "{{ count }}products",
+        "other": "{{ count }}products"
       },
       "reset": "Reset",
       "sort_button": "Sort",
