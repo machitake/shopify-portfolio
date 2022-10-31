@@ -1777,7 +1777,10 @@
           "title": "Track with mobile phone"
         },
         "ready_for_pickup_description": "You are ready to receive your order. Please bring your order confirmation with you when you pick it up.",
-        "ready_for_pickup_title": "Ready to receive your order"
+        "ready_for_pickup_title": "Ready to receive your order",
+        "re-order": "Reorder the same item",
+        "resend_gift_cards": "Resend gift card",
+        "shipping_address_map_title": "Google Maps has pinned the following shipping addresses: %{address}"
       }
     }
   }
