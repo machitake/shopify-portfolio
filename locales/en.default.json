@@ -1751,7 +1751,9 @@
         "order_updates_description_missing": "I haven't received any shipping status updates.",
         "order_updates_past_step_prefix": "Completed steps:",
         "order_updates_submit_subscription": "Send",
-        "order_updates_subscribe_to_email_notifications": "Receive shipping status updates by email."
+        "order_updates_subscribe_to_email_notifications": "Receive shipping status updates by email.",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Receive shipping status updates by email or text.",
+        "order_updates_subscribe_to_phone_notifications": "Receive delivery status updates by text."
       }
     }
   }
