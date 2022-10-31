@@ -588,7 +588,9 @@
           "load_more_accessibility_label": "load more locations"
         },
         "payment_details_title": "payment details",
-        "payment_terms": "settlement period"
+        "payment_terms": "settlement period",
+        "permissions_label": "your authority",
+        "permissions_title": "authority"
       },
       "location_selection": {
         "clear_search": "clear search",
