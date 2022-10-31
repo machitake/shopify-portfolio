@@ -511,7 +511,9 @@
         "add_shipping_address_section_accessibility_label": "Add shipping address",
         "billing_address_card_title": "Billing Address",
         "cancel_adding_billing_address_accessibility_label": "Cancel adding billing address",
-        "cancel_adding_shipping_address_accessibility_label": "Cancel adding shipping address"
+        "cancel_adding_shipping_address_accessibility_label": "Cancel adding shipping address",
+        "save_new_billing_address_accessibility_label": "Save billing address",
+        "save_new_shipping_address_accessibility_label": "Save shipping address"
       }
     }
   }
