@@ -692,7 +692,9 @@
       "go_to_store_link": "go to store",
       "loading_message": "Loading",
       "login_prompt": {
-        "continue": "Continue"
+        "continue": "Continue",
+        "privacy": "privacy",
+        "title": "continue login"
       }
     }
   }
