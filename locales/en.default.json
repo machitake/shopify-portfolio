@@ -2059,7 +2059,9 @@
       "pick_up_time": {
         "five_or_more_days": "Usually ready in 5 days or more",
         "four_hours": "Usually ready in 4 hours",
-        "immediately": "Ready to pick up"
+        "immediately": "Ready to pick up",
+        "next_day": "Ready to pick up the next day",
+        "one_hour": "Usually ready in 1 hour"
       }
     }
   }
