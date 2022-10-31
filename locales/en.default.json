@@ -1644,6 +1644,21 @@
           },
           "week": {
             "other": "%{count}week"
+          },
+          "year": {
+            "other": "%{count}Year"
+          }
+        },
+        "recurring_totals": "%{interval}% per{total_price}",
+        "recurring_totals_with_initial_order_shipping_discount": "First payment (%{total_price_with_discount})moreover%%{recurring_total}",
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": "、after that%{total_price}of%{count}installment payment"
+          }
+        },
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "%{total_price}first payment of"
           }
         }
       }
