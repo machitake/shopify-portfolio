@@ -648,6 +648,10 @@
       },
       "failed_address_update": {
         "description": "A problem occurred while updating your address. Please refresh this page or check your internet connection."
+      },
+      "load_orders_error": {
+        "description": "Please try again or come back later.",
+        "retry_button": "Retry"
       }
     }
   }
