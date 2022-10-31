@@ -723,6 +723,10 @@
         "loading_accessibility_label": "Loading items",
         "load_more": "load more",
         "load_more_accessibility_label": "load more items"
+      },
+      "partially_refunded_label": "partially refunded",
+      "payment": {
+        "status_unpaid": "Due date for payment: {{date}}"
       }
     }
   }
