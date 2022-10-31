@@ -1114,7 +1114,10 @@
         "physical_gift_card_duplicate_code": "The physical gift card item contains a duplicate code.",
         "physical_gift_card_invalid_code": "The physical gift card code is invalid.",
         "physical_gift_card_invalid_quantity": "The quantity of physical gift card items must match the number of gift card codes.",
-        "reduction_code_code_not_found": "Please enter a valid coupon code or gift card"
+        "reduction_code_code_not_found": "Please enter a valid coupon code or gift card",
+        "reduction_code_discount_not_found": "Please enter a valid coupon code",
+        "reduction_code_gift_card_code_invalid": "Please enter a valid gift card",
+        "reduction_code_gift_card_unusable": "You cannot use a gift card to purchase another gift card"
       }
     }
   }
