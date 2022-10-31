@@ -1173,7 +1173,14 @@
       "marketing": {
         "accept_marketing_checkbox_label": "Receive news and offers by email",
         "accept_sms_checkbox_label": "Receive news and offers in text",
-        "pending_accept_marketing_checkbox_label": "Check your email for news and offer subscriptions"
+        "pending_accept_marketing_checkbox_label": "Check your email for news and offer subscriptions",
+        "sms": {
+          "disclaimer": {
+            "description_html": "By signing up by text you agree to receive automated marketing messages periodically at the phone number you enter, including cart reminders Consent is not a condition of purchase Reply to STOP to unsubscribe Reply to HELP for assistance Message frequency varies Message and data charges may apply%場合があります。%{privacy_policy_link}When%{terms_of_service_link}display the。",
+            "description_transactional_html": "Receive order receipts and regular shipping status updates by text message Reply to STOP to unsubscribe Reply to HELP for assistance Message frequency varies Message and data charges may apply%があります。%{privacy_policy_modal_link}When%{terms_of_service_modal_link}please look at。",
+            "privacy_policy": "privacy policy"
+          }
+        }
       }
     }
   }
