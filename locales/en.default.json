@@ -972,7 +972,9 @@
         "optional_address2_label": "Building name, room number, etc. (optional)",
         "optional_company_label": "Company (optional)",
         "optional_first_name_label": "First name (optional)",
-        "optional_phone_label": "Phone number (optional)"
+        "optional_phone_label": "Phone number (optional)",
+        "phone_label": "phone number",
+        "phone_placeholder": "phone number"
       }
     }
   }
