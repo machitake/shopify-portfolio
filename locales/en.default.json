@@ -1454,7 +1454,9 @@
       },
       "post_purchase": {
         "components": {
-          "close": "close"
+          "close": "close",
+          "expand": "Show more",
+          "processing": "processing..."
         }
       }
     }
