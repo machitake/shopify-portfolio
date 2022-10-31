@@ -593,7 +593,9 @@
         "no_location_description": "{{company}}You are no longer authorized to place orders for Personal orders can still be placedます。",
         "no_locations_found": "Location not found",
         "no_location_title": "Individual order only",
-        "search": "Search for locations"
+        "search": "Search for locations",
+        "selection_cancel_button": "Cancel",
+        "selection_confirmation_button": "Select location"
       }
     }
   }
