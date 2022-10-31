@@ -1769,6 +1769,10 @@
         "pick_up_in_store_marker": {
           "current": "Current location of the product",
           "shipping": "Pick-up location"
+        },
+        "print_link_label": "Print receipt",
+        "qr_code": {
+          "send_link_to_phone": "Or send a link to your mobile phone"
         }
       }
     }
