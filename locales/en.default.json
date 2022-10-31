@@ -1855,7 +1855,12 @@
           "preview_bar": "We are previewing what you see when you opt in to email read tracking."
         },
         "opt_out": {
-          "opted_out_html": "<b>Opted out of email open tracking。<\/b>"
+          "opted_out_html": "<b>Opted out of email open tracking。<\/b>",
+          "opt_in_html": "for opening tracking<a style='text-decoration:underline;' href='%{link}'>opt in<\/a>To do。",
+          "preview_bar": "We are previewing what you see when you opt out of email read tracking."
+        },
+        "track": {
+          "status_html": "<b>Email open tracking reported。<\/b>"
         }
       }
     }
