@@ -1992,7 +1992,9 @@
         },
         "cash_on_delivery": "Cash on delivery",
         "financial_status": {
-          "authorized": "Authorized"
+          "authorized": "Authorized",
+          "expired": "Expired",
+          "paid": "Paid"
         }
       }
     }
