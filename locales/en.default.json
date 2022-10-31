@@ -1765,7 +1765,11 @@
         "payment_information_title": "Payment information",
         "payment_method_draft_order": "Deadline after order is confirmed",
         "picked_up_description_html": "% of your order{date}% to{location_name}was picked up at。",
-        "picked_up_title": "The order has been received"
+        "picked_up_title": "The order has been received",
+        "pick_up_in_store_marker": {
+          "current": "Current location of the product",
+          "shipping": "Pick-up location"
+        }
       }
     }
   }
