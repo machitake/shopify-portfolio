@@ -1241,7 +1241,9 @@
         "gift_card_ending": "ending with %{last_characters}gift card for",
         "gift_card_has_been_applied": "Gift card applied",
         "gift_card_has_been_removed": "The gift card has been deleted",
-        "gift_card_label": "gift card"
+        "gift_card_label": "gift card",
+        "gift_card_savings_notice": "%{gift_card_amount}after gift card",
+        "gift_card_subscriptions_notice": "Gift cards apply only to first payment"
       }
     }
   }
