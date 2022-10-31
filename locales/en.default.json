@@ -896,7 +896,9 @@
     "addresses": {
       "confirm": "Are you sure you want to delete this address?",
       "county": "county",
-      "emirate": "Emirates"
+      "emirate": "Emirates",
+      "governorate": "Administrative district",
+      "pincode": "PIN code"
     }
   }
 }
