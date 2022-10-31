@@ -1137,7 +1137,9 @@
         "checkout_context": {
           "step_one": "%{shop_name} - Payment"
         },
-        "choose_billing_address": "Please select a billing address"
+        "choose_billing_address": "Please select a billing address",
+        "choose_payment_method": "Please select a payment method",
+        "choose_shipping_method": "Please select a delivery method"
       }
     }
   }
