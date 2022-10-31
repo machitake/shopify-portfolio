@@ -720,7 +720,9 @@
       "no_data": "None",
       "not_applicable": "N\/A",
       "pagination": {
-        "loading_accessibility_label": "Loading items"
+        "loading_accessibility_label": "Loading items",
+        "load_more": "load more",
+        "load_more_accessibility_label": "load more items"
       }
     }
   }
