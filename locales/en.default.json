@@ -394,7 +394,7 @@
       "success": "We have sent you an email with a link to update your password."
     },
     "register": {
-      "title": "Create account",
+      "title": "Create an account",
       "first_name": "Name",
       "last_name": "Surname",
       "email": "Email",
@@ -404,7 +404,7 @@
     "reset_password": {
       "title": "Reset account password",
       "subtext": "Enter a new password for {{ email }}",
-      "password": "Password",
+      "password": "password",
       "password_confirm": "Confirm password",
       "submit": "Reset password"
     }
