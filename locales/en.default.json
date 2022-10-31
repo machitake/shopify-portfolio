@@ -967,7 +967,8 @@
         "first_name_label": "Name",
         "governorate_label": "Administrative district",
         "governorate_placeholder": "Administrative district",
-        "last_name_label": "Surname"
+        "last_name_label": "Surname",
+        "new_address_label": "Use a new address"
       }
     }
   }
