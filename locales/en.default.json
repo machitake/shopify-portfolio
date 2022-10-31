@@ -898,7 +898,9 @@
       "county": "county",
       "emirate": "Emirates",
       "governorate": "Administrative district",
-      "pincode": "PIN code"
+      "pincode": "PIN code",
+      "postal_code": "Postal code",
+      "postcode": "Postal code"
     }
   }
 }
