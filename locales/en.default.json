@@ -1902,7 +1902,10 @@
       "gift_card_expired": "The gift card has expired",
       "invalid": "Invalid",
       "invalid_email": "Must be a valid email address",
-      "invalid_expiry_year": "Is not a valid expiration date"
+      "invalid_expiry_year": "Is not a valid expiration date",
+      "invalid_for_country": "teeth%{country}is not valid in",
+      "invalid_for_country_and_province": "teeth%{province}When%{country}is not valid in",
+      "invalid_province_in_country": "teeth%{country}is not valid in the territory of"
     }
   }
 }
