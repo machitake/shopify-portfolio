@@ -223,10 +223,10 @@
   "sections": {
     "header": {
       "announcement": "Announcement",
-      "menu": "Menu",
+      "menu": "menu",
       "cart_count": {
-        "one": "{{ count }} item",
-        "other": "{{ count }} items"
+        "one": "{{ count }}items",
+        "other": "{{ count }}items"
       }
     },
     "cart": {
