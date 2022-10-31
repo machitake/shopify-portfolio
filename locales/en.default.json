@@ -496,7 +496,13 @@
       "loading_edit_form_accessibility_message": "Loading edit address form",
       "loading_finished_accessibility_message": "form loaded",
       "save_accessibility_label": "address ({{address}} save the",
-      "section_title_accessibility_label": "Add an address"
+      "section_title_accessibility_label": "Add an address",
+      "update_success_notification": "Address updated"
+    },
+    "B2B": {
+      "account_information": {
+        "company_card_name_label": "company name"
+      }
     }
   }
 }
