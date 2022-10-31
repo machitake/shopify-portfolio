@@ -543,7 +543,14 @@
             "title": "unpaid money"
           },
           "paid": {
-            "description": "This order has been paid in full."
+            "description": "This order has been paid in full.",
+            "title_with_date": "Paid{{date}}"
+          },
+          "pending": {
+            "banner_due": {
+              "one": "payment deadline{{count}}is",
+              "other": "payment deadline{{count}}it's day"
+            }
           }
         }
       }
