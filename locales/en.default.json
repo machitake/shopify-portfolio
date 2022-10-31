@@ -849,7 +849,9 @@
         "company_tracking_number": "{{company}}Tracking number:",
         "confirmed_description": "Your order has been received.",
         "confirmed_label": "Verified",
-        "confirmed_title": "Order Confirmed"
+        "confirmed_title": "Order Confirmed",
+        "delivered_description": "This package has been delivered.",
+        "delivered_label": "Delivered"
       }
     }
   }
