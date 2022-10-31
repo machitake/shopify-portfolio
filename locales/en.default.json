@@ -2004,7 +2004,9 @@
         },
         "fulfillment_status": {
           "complete": "Done",
-          "fulfilled": "Shipped"
+          "fulfilled": "Shipped",
+          "partial": "Partially",
+          "restocked": "Inventory has been replenished"
         }
       }
     }
