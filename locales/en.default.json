@@ -535,6 +535,10 @@
             "in_review": {
               "description": "Payment details will be determined when the order is confirmed.",
               "title": "unpaid"
+            },
+            "submitted": {
+              "description": "Please make a payment to confirm this order.",
+              "title": "Make payment and confirm"
             }
           }
         }
