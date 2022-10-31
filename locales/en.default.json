@@ -1365,7 +1365,9 @@
         "google": {
           "connect": "Click to link your Google Pay account",
           "error_authorizing": "An error occurred while authorizing payment"
-        }
+        },
+        "ideal_label": "iDEAL",
+        "klarna_label": "Klarna"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
