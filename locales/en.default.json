@@ -1501,7 +1501,8 @@
         "label": "Save information for your next purchase",
         "label_address_payment_and_faster_checkouts": "Use Shop Pay to enter your address and payment information for a quick checkout.",
         "label_faster_checkouts_and_thousand_shops": "Store your info with Shop Pay and checkout faster at over 1 million stores.",
-        "mobile_phone_icon_alt": "mobile phone"
+        "mobile_phone_icon_alt": "mobile phone",
+        "mobile_phone_number": "Cellphone number"
       }
     }
   }
