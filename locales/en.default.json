@@ -1143,7 +1143,10 @@
         "close_modal_label": "close",
         "close_notice_label": "close",
         "complete_purchase_button_label": "Your order completed",
-        "contact_us_html": "Please contact us for more details"
+        "contact_us_html": "Please contact us for more details",
+        "continue_button_label": "to continue",
+        "continue_to_payment_method": "Proceed to payment",
+        "continue_to_review": "Order Confirmation"
       }
     }
   }
