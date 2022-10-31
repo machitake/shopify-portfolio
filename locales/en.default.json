@@ -1810,7 +1810,10 @@
         "thank_you_title": "Your order has been confirmed",
         "thank_you_title_payment": "Payment confirmed",
         "thank_you_title_review": "Your order has been submitted for review",
-        "title": "Thank you for your purchase!"
+        "title": "Thank you for your purchase!",
+        "tracking_number": "Tracking number:",
+        "track_shipment": "Check delivery status",
+        "unfulfilled_items_description": "We are currently preparing to ship these items."
       }
     }
   }
