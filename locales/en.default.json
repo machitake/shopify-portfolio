@@ -957,7 +957,11 @@
         "country_label": "Country\/Region",
         "county_label": "county",
         "county_placeholder": "county",
-        "delivery_option_title": "Delivery method"
+        "delivery_option_title": "Delivery method",
+        "email_label": "Email",
+        "email_or_phone_label": "Email address or mobile phone number",
+        "email_or_phone_placeholder": "Email address or mobile phone number",
+        "email_placeholder": "Email"
       }
     }
   }
