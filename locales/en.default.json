@@ -1365,7 +1365,9 @@
         "fraud_payment_errors": {
           "address_mismatch": "The address and zip code do not match.",
           "cannot_process": "The transaction cannot be processed.",
-          "card_declined": "Card rejected"
+          "card_declined": "Card rejected",
+          "no_match": "Does not match",
+          "transaction_declined": "This transaction was rejected"
         }
       }
     }
