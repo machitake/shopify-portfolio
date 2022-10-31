@@ -72,8 +72,8 @@
       "external": "Open an external website."
     },
     "loading": "Loading…",
-    "total_reviews": "total reviews",
-    "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars",
+    "total_reviews": "total number of reviews",
+    "star_reviews_info": "{{ rating_max }}in the stars{{ rating_value }}one",
     "collapsible_content_title": "collapsible content"
   },
   "blogs": {
