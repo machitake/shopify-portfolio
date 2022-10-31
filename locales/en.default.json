@@ -1848,6 +1848,10 @@
       "open_tracking": {
         "no_longer_track": {
           "status_html": "<b>Shopify can no longer track whether emails are openedん。<\/b>"
+        },
+        "opt_in": {
+          "opted_in_html": "<b>I opted in to email open tracking。<\/b>",
+          "opt_out_html": "If you don't want to share this information, use email open tracking.を<a style='text-decoration:underline;' href='%{link}'>opt out<\/a>can。"
         }
       }
     }
