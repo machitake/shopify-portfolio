@@ -1367,7 +1367,10 @@
           "error_authorizing": "An error occurred while authorizing payment"
         },
         "ideal_label": "iDEAL",
-        "klarna_label": "Klarna"
+        "klarna_label": "Klarna",
+        "klarna_pay_later_label": "Postpaid with Klarna",
+        "klarna_pay_now_label": "Pay now with Klarna",
+        "masked_digits_label": "•••• %{last_digits}"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
