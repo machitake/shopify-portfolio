@@ -934,6 +934,14 @@
       },
       "apple_pay": {
         "button_html": "How to buy%%{logo}"
+      },
+      "change_country": {
+        "cart_updated_based_on_country": "The cart has been updated based on the country of delivery."
+      },
+      "change_currency": {
+        "change_currency_link": "%{currency_name}change to",
+        "credit_card_will_be_charged_html": "%{amount}will be charged to your credit card。",
+        "currency_button_label": "%{currency} (%{currency_symbol})"
       }
     }
   }
