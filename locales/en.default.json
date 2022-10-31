@@ -1986,8 +1986,11 @@
         "cancel_reason": {
           "customer": "Customer changed\/canceled order",
           "declined": "Payment refused",
-          "fraud": "Scam orders"
-        }
+          "fraud": "Scam orders",
+          "inventory": "Product is not available",
+          "other": "Other"
+        },
+        "cash_on_delivery": "Cash on delivery"
       }
     }
   }
