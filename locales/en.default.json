@@ -1930,6 +1930,9 @@
       "boolean": {
         "false_label": "No",
         "true_label": "yes"
+      },
+      "price": {
+        "label": "price"
       }
     }
   }
