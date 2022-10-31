@@ -1377,7 +1377,10 @@
         "name_on_card_placeholder": "Cardholder",
         "no_js_credit_card_fields_redirect_hint": "You will be redirected to add your payment information.",
         "no_method_error": "Currently, this store cannot accept payments.",
-        "no_real_orders_dev_store": "This store cannot accept actual orders or actual payments."
+        "no_real_orders_dev_store": "This store cannot accept actual orders or actual payments.",
+        "no_taxes_banner_content": "There is no tax on this order. Once you collect the payment, you will not be able to add taxes.",
+        "offsite_gateway_redirect_hint": "“%{button_label}”To make a secure payment after clicking %、%{gateway_label}will be redirected to。",
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} total %{total_shop_price}"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
