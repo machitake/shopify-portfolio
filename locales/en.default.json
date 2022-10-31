@@ -1376,7 +1376,9 @@
         "payment_processing": "The payment could not be processed due to technical reasons. Please try again or use a different payment method.",
         "payment_processing_no_retry": "The payment could not be processed for technical reasons. Please try another payment method.",
         "paypal_zero_amount": "%{amount}PayPal cannot be used for this order Please check out using a method other than PayPal to verify that your order is correctさい。",
-        "rejected_transaction": "The payment was rejected. Please try again or use a different payment method."
+        "rejected_transaction": "The payment was rejected. Please try again or use a different payment method.",
+        "subscription_agreement_blank": "To purchase a subscription, you need to save your payment details. To continue, confirm that you agree or remove the subscription item from your order.",
+        "three_d_secure_failed": "The payment could not be confirmed. Please try again or use a different payment method."
       }
     }
   }
