@@ -1736,7 +1736,8 @@
         "order_number_label": "Order number",
         "order_status_confirmed_order_local": "We are preparing to deliver your order.",
         "order_status_confirmed_order_with_email": "You will receive an email when your order is ready.",
-        "order_status_confirmed_order_with_email_and_phone_payment": "Ordered%{date}made a payment to。"
+        "order_status_confirmed_order_with_email_and_phone_payment": "Ordered%{date}made a payment to。",
+        "order_status_confirmed_order_with_email_payment": "Ordered%{date}made a payment to。"
       }
     }
   }
