@@ -1523,7 +1523,12 @@
           "shipping_address_title": "Shipping address",
           "shipping_method_title": "Method"
         },
-        "checkout_as_guest": "Buy as a guest"
+        "checkout_as_guest": "Buy as a guest",
+        "review_title": "Order Confirmation"
+      },
+      "shipping": {
+        "arrives_time": "arrival: %{time}",
+        "arrives_time_range": "arrival: %{min_time}–%{max_time}"
       }
     }
   }
