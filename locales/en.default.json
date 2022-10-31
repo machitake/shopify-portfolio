@@ -2029,7 +2029,9 @@
       "challenge": "Challenge",
       "checkpoint": "Checkpoint",
       "collections": "collection",
-      "create_account": "Create an account"
+      "create_account": "Create an account",
+      "order": "order %{name}",
+      "products": "Product"
     }
   }
 }
