@@ -809,7 +809,9 @@
             "due": "Deadline：{{date}}",
             "due_on_fulfillment": "Fulfillment time",
             "due_today": "Due today",
-            "due_without_date": "unpaid"
+            "due_without_date": "unpaid",
+            "overdue": "Overdue",
+            "paid": "Paid"
           }
         }
       }
