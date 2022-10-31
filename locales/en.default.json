@@ -1248,7 +1248,9 @@
         "maximum_discount_code_limit_reached": "The maximum number of coupon codes issued has been reached. Delete existing codes.て<strong style=\"text-transform:uppercase\">%{code}<\/strong> please use。",
         "multiple_shipping_lines_label": "Total delivery",
         "order_name_label": "order %{name}",
-        "order_total_label": "order total"
+        "order_total_label": "order total",
+        "order_total_updated_label": "Total after update",
+        "original_price": "Original price"
       }
     }
   }
