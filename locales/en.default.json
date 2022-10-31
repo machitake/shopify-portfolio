@@ -1781,7 +1781,9 @@
         "re-order": "Reorder the same item",
         "resend_gift_cards": "Resend gift card",
         "shipping_address_map_title": "Google Maps has pinned the following shipping addresses: %{address}",
-        "shipping_address_title": "Shipping address"
+        "shipping_address_title": "Shipping address",
+        "shipping_information_title": "Shipping information",
+        "shipping_method_title": "Shipping method"
       }
     }
   }
