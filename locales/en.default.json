@@ -1156,8 +1156,10 @@
         "expand_notice_label": "See more",
         "forwarding_indicator": {
           "external": "Go to an external website.",
-          "external_and_new_window": "Open an external website in a new window"
-        }
+          "external_and_new_window": "Open an external website in a new window",
+          "new_window": "Open in new window"
+        },
+        "page_title": "Payment"
       }
     }
   }
