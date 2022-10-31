@@ -962,7 +962,9 @@
         "email_or_phone_label": "Email address or mobile phone number",
         "email_or_phone_placeholder": "Email address or mobile phone number",
         "email_placeholder": "Email",
-        "emirate_label": "Emirates"
+        "emirate_label": "Emirates",
+        "emirate_placeholder": "Emirates",
+        "first_name_label": "Name"
       }
     }
   }
