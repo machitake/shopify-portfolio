@@ -1958,7 +1958,9 @@
       },
       "cart": {
         "all_items_in_cart": "%{count}% of{name}is in your cart。",
-        "changed": "I changed the cart"
+        "changed": "I changed the cart",
+        "digital_product_not_available_for_company_locations": "This item cannot be added to B2B orders",
+        "empty_update": "Empty cart cannot be updated"
       }
     }
   }
