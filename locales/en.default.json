@@ -771,7 +771,11 @@
           "status": "Order status"
         },
         "delivered": "Delivered: {{date}}",
-        "empty_state_order_source_description": "{{email}}Only orders by。"
+        "empty_state_order_source_description": "{{email}}Only orders by。",
+        "empty_state_subtitle": "Go to the store and place your order.",
+        "estimated": "scheduled date: {{date}}",
+        "estimated_delivery": "Delivery date: {{date}}",
+        "estimated_shortform": "scheduled date：{{date}}"
       }
     }
   }
