@@ -592,7 +592,8 @@
         "permissions_label": "your authority",
         "permissions_title": "authority",
         "section_title": "location",
-        "shipping_address_required": "Add your shipping address to this location to start your order."
+        "shipping_address_required": "Add your shipping address to this location to start your order.",
+        "tax_details_title": "tax details"
       },
       "location_selection": {
         "clear_search": "clear search",
