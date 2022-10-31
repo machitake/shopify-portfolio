@@ -1038,7 +1038,9 @@
         "pick_up_in_one_hour": "Usually ready in 1 hour",
         "pick_up_in_twenty_four_hours": "Ready usually in 24 hours",
         "pick_up_in_two_hours": "Usually ready in 2 hours",
-        "pick_up_in_two_to_four_days": "Ready usually in 2-4 days"
+        "pick_up_in_two_to_four_days": "Ready usually in 2-4 days",
+        "pick_up_in_two_to_four_hours": "Ready to pick up within 4 hours",
+        "pick_up_in_zero_to_two_hours": "Ready to pick up at the store within 2 hours"
       }
     }
   }
