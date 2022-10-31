@@ -1259,7 +1259,10 @@
         },
         "percent_off_shipping": "%{percent}% off shipping",
         "pickup_label": "Pick up at the store",
-        "price_label": "price"
+        "price_label": "price",
+        "product_change_label": "Change",
+        "product_image_label": "Product image",
+        "quantity_label": "quantity"
       }
     }
   }
