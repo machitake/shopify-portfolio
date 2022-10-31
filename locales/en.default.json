@@ -617,6 +617,12 @@
         "selection_confirmation_button": "Select location",
         "title": "What location would you like to purchase from?",
         "try_new_search": "try a new search"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all": "hide all",
+          "hide_all_accessibility_label": "Hide all orders under review"
+        }
       }
     }
   }
