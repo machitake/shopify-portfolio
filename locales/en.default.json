@@ -621,7 +621,11 @@
       "orders": {
         "draft_order_list": {
           "hide_all": "hide all",
-          "hide_all_accessibility_label": "Hide all orders under review"
+          "hide_all_accessibility_label": "Hide all orders under review",
+          "pagination": {
+            "nav_accessibility_label": "Menu button for the order being confirmed"
+          },
+          "show_all": "Show all"
         }
       }
     }
