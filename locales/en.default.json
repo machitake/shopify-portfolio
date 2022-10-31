@@ -1964,7 +1964,9 @@
         "generic_error": "Cart error",
         "items_changed": "You have changed one or more products.",
         "link_expired": "Broken link",
-        "link_no_longer_exists": "The link no longer exists."
+        "link_no_longer_exists": "The link no longer exists.",
+        "only_n_items_available": "%{count}% of{name}can only add to cart。",
+        "product_sold_out": "'%{name}' is already sold out。"
       }
     }
   }
