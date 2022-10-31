@@ -1984,7 +1984,9 @@
       },
       "order": {
         "cancel_reason": {
-          "customer": "Customer changed\/canceled order"
+          "customer": "Customer changed\/canceled order",
+          "declined": "Payment refused",
+          "fraud": "Scam orders"
         }
       }
     }
