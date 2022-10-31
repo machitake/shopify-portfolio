@@ -1581,6 +1581,12 @@
             },
             "month": {
               "other": "%{count}monthly"
+            },
+            "week": {
+              "other": "%{count}weekly"
+            },
+            "year": {
+              "other": "%{count}yearly"
             }
           }
         }
