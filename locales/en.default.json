@@ -1692,7 +1692,9 @@
         "delivered_local_title": "Your order has been delivered",
         "delivery_information_label": "Delivery information:",
         "estimated_arrival": "Delivery date:",
-        "failed_contact_merchant": "% to arrange delivery{company}contact。"
+        "failed_contact_merchant": "% to arrange delivery{company}contact。",
+        "failed_contact_merchant_no_company": "Please contact us to arrange delivery.",
+        "failed_title": "Your order could not be delivered"
       }
     }
   }
