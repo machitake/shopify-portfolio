@@ -751,7 +751,9 @@
       },
       "show_items": "Show items",
       "subtitle": "Date confirmed: {{date}}",
-      "subtotal": "subtotal"
+      "subtotal": "subtotal",
+      "summary_list_title_accessibility_label": "order item",
+      "summary_title": "Order summary"
     }
   }
 }
