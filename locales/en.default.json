@@ -1994,7 +1994,9 @@
         "financial_status": {
           "authorized": "Authorized",
           "expired": "Expired",
-          "paid": "Paid"
+          "paid": "Paid",
+          "partially_paid": "Partially paid",
+          "partially_refunded": "Partially refunded"
         }
       }
     }
