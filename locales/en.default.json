@@ -197,7 +197,7 @@
         "one": "「{{ terms }}」search result of{{ count }}subject",
         "other": "「{{ terms }}」search result of{{ count }}subject"
       },
-      "title": "Search results",
+      "title": "search results",
       "search_for": "「{{ terms }}」search for"
     },
     "cart": {
