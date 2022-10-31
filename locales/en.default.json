@@ -851,7 +851,9 @@
         "confirmed_label": "Verified",
         "confirmed_title": "Order Confirmed",
         "delivered_description": "This package has been delivered.",
-        "delivered_label": "Delivered"
+        "delivered_label": "Delivered",
+        "estimated_delivery": "Delivery date: {{date}}",
+        "in_review_description": "We will let you know if we need more information or when your order is confirmed."
       }
     }
   }
