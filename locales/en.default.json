@@ -473,7 +473,9 @@
       "edit_section_accessibility_label": "{{address}}edit the",
       "loading_accessibility_message": "Loading Address",
       "loading_addresses_accessibility_message": "Loading Address",
-      "loading_billing_accessibility_message": "Loading billing address"
+      "loading_billing_accessibility_message": "Loading billing address",
+      "loading_finished_accessibility_message": "A new page of addresses has loaded",
+      "loading_shipping_accessibility_message": "Loading shipping address"
     }
   }
 }
