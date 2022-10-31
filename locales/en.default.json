@@ -423,5 +423,16 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "customer_accounts": {
+    "account_information": {
+      "loading_accessibility_message": "Loading account information",
+      "loading_finished_accessibility_message": "Account information loaded",
+      "people": {
+        "pagination": {
+          "loading_accessibility_label": "loading users"
+        }
+      }
+    }
   }
 }
