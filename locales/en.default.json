@@ -1320,8 +1320,10 @@
         "card_expiry_placeholder": "Expiration date (month\/year)",
         "card_fields_container_prefix": "Form container:",
         "card_fields_unavailable_html": {
-          "one": "Credit and debit card payments are currently unavailableん。<br><a href=\"%{current_url}\">refresh this page<\/a>please try again。"
-        }
+          "one": "Credit and debit card payments are currently unavailableん。<br><a href=\"%{current_url}\">refresh this page<\/a>please try again。",
+          "other": "Credit and debit card payments are currently unavailableん。<br><a href=\"%{current_url}\">refresh this page<\/a>Please try another payment method。"
+        },
+        "card_information_notice": "All transactions are encrypted and secure. Credit card information is never stored."
       }
     }
   }
