@@ -775,7 +775,12 @@
         "empty_state_subtitle": "Go to the store and place your order.",
         "estimated": "scheduled date: {{date}}",
         "estimated_delivery": "Delivery date: {{date}}",
-        "estimated_shortform": "scheduled date：{{date}}"
+        "estimated_shortform": "scheduled date：{{date}}",
+        "four_images_accessibility_label": "to order{{lineItemName1}}、{{lineItemName2}}、{{lineItemName3}}、{{lineItemName4}}It is included",
+        "items": {
+          "one": "{{count}}items",
+          "other": "{{count}}items"
+        }
       }
     }
   }
