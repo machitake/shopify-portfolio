@@ -505,7 +505,9 @@
         "company_card_section_accessibility_label": "Company"
       },
       "addresses": {
-        "add_billing_address_button": "Add billing address"
+        "add_billing_address_button": "Add billing address",
+        "add_billing_address_section_accessibility_label": "Add billing address",
+        "add_shipping_address_button": "Add shipping address"
       }
     }
   }
