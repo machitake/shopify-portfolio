@@ -1359,7 +1359,9 @@
         "free_order_notice_html": "your order <strong>free<\/strong> No need to payん。",
         "ftd_vault_credit_card_label": "Store this credit card information in my account for a speedy checkout",
         "generic_incorrect_card_info": "The payment details could not be confirmed. Please check the card details and try again.",
-        "gift_card_balance_label": "Balance:"
+        "gift_card_balance_label": "Balance:",
+        "gift_card_code_label": "Gift card code",
+        "giropay_label": "Giropay"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
