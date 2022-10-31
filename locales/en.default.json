@@ -709,7 +709,9 @@
       "discount": "discount",
       "fully_refunded_label": "Refunded",
       "hide_items": "hide items",
-      "hide_order_summary": "Hide order summary"
+      "hide_order_summary": "Hide order summary",
+      "loading": "Loading order details",
+      "loading_finished_accessibility_message": "Order details loaded"
     }
   }
 }
