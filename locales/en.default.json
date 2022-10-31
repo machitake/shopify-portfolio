@@ -1070,7 +1070,9 @@
         "address_company_too_long": "Company name too long (max 255 characters)",
         "address_country_blank": "Select a country\/region code",
         "address_country_not_supported": "We do not ship to this country or region. Please enter a new shipping address and try again.",
-        "address_first_name_blank": "Please enter your name"
+        "address_first_name_blank": "Please enter your name",
+        "address_first_name_contains_emojis": "First name cannot contain emojis",
+        "address_first_name_contains_html_tags": "Names cannot contain HTML tags."
       }
     }
   }
