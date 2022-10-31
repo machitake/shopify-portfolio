@@ -1164,6 +1164,14 @@
         "print_policies_link_label": "printing",
         "skip_to_content": "Skip to go to content",
         "tooltip_accessibility_label": "Details"
+      },
+      "localized_fields": {
+        "additional_information": {
+          "title": "Additional Information"
+        }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Receive news and offers by email"
       }
     }
   }
