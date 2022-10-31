@@ -871,7 +871,9 @@
         "ready_for_pickup_label": "ready for pick up",
         "request_return": "return request",
         "resume_tracking": "resume tracking",
-        "submitted_description": "Please check your order and payment method."
+        "submitted_description": "Please check your order and payment method.",
+        "submitted_label": "sent",
+        "track_shipment": "Track your luggage"
       }
     }
   }
