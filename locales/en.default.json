@@ -1060,7 +1060,9 @@
         "address_address2_contains_emojis": "Address 2 cannot contain emojis",
         "address_address2_contains_html_tags": "Address 2 cannot contain HTML tags.",
         "address_address2_too_long": "Second line of address is too long (maximum 255 characters)",
-        "address_city_blank": "Please enter the city"
+        "address_city_blank": "Please enter the city",
+        "address_city_contains_emojis": "City names cannot contain emojis",
+        "address_city_contains_html_tags": "City cannot contain HTML tags."
       }
     }
   }
