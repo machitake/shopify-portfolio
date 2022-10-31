@@ -949,7 +949,9 @@
         "address1_label": "Street address",
         "address2_label": "Building name, room number, etc.",
         "address_title": "Street address",
-        "city_label": "Municipality"
+        "city_label": "Municipality",
+        "civic_number_warning": "If applicable, please also enter the street address",
+        "company_label": "Company"
       }
     }
   }
