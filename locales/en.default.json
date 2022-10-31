@@ -539,7 +539,11 @@
             "submitted": {
               "description": "Please make a payment to confirm this order.",
               "title": "Make payment and confirm"
-            }
+            },
+            "title": "unpaid money"
+          },
+          "paid": {
+            "description": "This order has been paid in full."
           }
         }
       }
