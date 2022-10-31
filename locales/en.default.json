@@ -744,7 +744,9 @@
         "hide_events_label": "hide details"
       },
       "shipping": {
-        "address": "Shipping address"
+        "address": "Shipping address",
+        "address_map_marker": "Shipping address",
+        "method": "Shipping method"
       }
     }
   }
