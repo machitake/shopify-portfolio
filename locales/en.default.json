@@ -816,7 +816,13 @@
           }
         },
         "sort_by": "sort by: {{option}}",
-        "sort_currently_sorted_by_accessibility_label": "current sort：{{option}}"
+        "sort_currently_sorted_by_accessibility_label": "current sort：{{option}}",
+        "sort": {
+          "date": {
+            "newest": "new order",
+            "oldest": "old order"
+          }
+        }
       }
     }
   }
