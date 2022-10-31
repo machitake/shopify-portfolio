@@ -1513,7 +1513,9 @@
         "blocks": {
           "billing_address_title": "Invoice",
           "change_billing_address_link_label": "Change billing address",
-          "change_contact_method_link_label": "Change contact information"
+          "change_contact_method_link_label": "Change contact information",
+          "change_link_label": "Change",
+          "change_payment_method_link_label": "Change payment method"
         }
       }
     }
