@@ -1147,7 +1147,9 @@
         "continue_button_label": "to continue",
         "continue_to_payment_method": "Proceed to payment",
         "continue_to_review": "Order Confirmation",
-        "continue_to_shipping_method": "Proceed to select shipping method"
+        "continue_to_shipping_method": "Proceed to select shipping method",
+        "edit_link_label": "Edit",
+        "error_page_title": "error"
       }
     }
   }
