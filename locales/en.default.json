@@ -160,12 +160,12 @@
       "from": "From",
       "filter_and_sort": "Filter and sort",
       "filter_by_label": "Filter:",
-      "filter_button": "Filter",
+      "filter_button": "Narrow down",
       "filters_selected": {
-        "one": "{{ count }} selected",
+        "one": "{{ count }}pcs selected",
         "other": "{{ count }} selected"
       },
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filters selected)",
+      "filter_selected_accessibility": "{{ type }} ({{ count }}filters selected)",
       "show_more": "Show more",
       "show_less": "Show less",
       "max_price": "The highest price is {{ price }}",
@@ -181,7 +181,7 @@
       "sort_button": "Sort",
       "sort_by_label": "Sort by:",
       "to": "To",
-      "clear_filter": "Remove filter"
+      "clear_filter": "Remove filters"
     }
   },
   "templates": {
