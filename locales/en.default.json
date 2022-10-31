@@ -881,6 +881,10 @@
     "payment_methods": {
       "add_payment_method_button": "Add payment method",
       "title": "Payment Method"
+    },
+    "shop_policies": {
+      "legal_notice": "Notation based on Specified Commercial Transaction Law",
+      "privacy_policy": "privacy policy"
     }
   }
 }
