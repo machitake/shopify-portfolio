@@ -57,7 +57,7 @@
   "newsletter": {
     "label": "Email",
     "success": "Thanks for subscribing",
-    "button_label": "Subscribe"
+    "button_label": "register"
   },
   "accessibility": {
     "skip_to_text": "Skip to content",
@@ -297,7 +297,7 @@
   "localization": {
     "country_label": "Country\/Region",
     "language_label": "language",
-    "update_language": "Update language",
+    "update_language": "update language",
     "update_country": "Update country\/region"
   },
   "customer": {
