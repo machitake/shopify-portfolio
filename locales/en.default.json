@@ -634,6 +634,15 @@
         "order_list_column_headers_contact": "contact information",
         "order_list_column_headers_location": "location"
       }
+    },
+    "errors": {
+      "address_deletion_error": {
+        "description": "There was a problem deleting this address. Please try again or refresh the page."
+      },
+      "banner_title": {
+        "one": "{{count}}there are errors",
+        "other": "{{count}}there are errors"
+      }
     }
   }
 }
