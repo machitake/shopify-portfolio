@@ -1504,7 +1504,10 @@
         "mobile_phone_icon_alt": "mobile phone",
         "mobile_phone_number": "Cellphone number",
         "privacy_policy": "privacy policy",
-        "save": "save"
+        "save": "save",
+        "terms_and_privacy_html": "% of Shop Pay by continuing%{privacy_href}and%{terms_href}you agree to。",
+        "terms_of_service": "Terms of service",
+        "title_with_logo_html": "%{shopify_pay}save the information entered in for next time"
       }
     }
   }
