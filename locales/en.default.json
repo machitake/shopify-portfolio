@@ -440,7 +440,9 @@
         "cancel_accessibility_label": "Cancel profile edits",
         "edit": "Edit",
         "edit_accessibility_label": "edit profile",
-        "email_help_text": "The email address used for login cannot be changed"
+        "email_help_text": "The email address used for login cannot be changed",
+        "first_name": "Name",
+        "last_name": "Surname"
       }
     }
   }
