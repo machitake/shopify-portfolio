@@ -734,7 +734,11 @@
       "returns": {
         "expand_events_label": "View details",
         "hide_events_label": "hide details",
-        "print_shipping_label": "print shipping label"
+        "print_shipping_label": "print shipping label",
+        "tracking_number": "tracking number:"
+      },
+      "shipment_timeline": {
+        "expand_events_accessibility_label": "View shipping details for an order"
       }
     }
   }
