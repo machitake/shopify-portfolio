@@ -248,13 +248,13 @@
         "product": "Product",
         "price": "price",
         "total": "Total",
-        "quantity": "Quantity",
+        "quantity": "quantity",
         "image": "Product image"
       },
       "update": "Update",
       "login": {
         "title": "Have an account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in<\/a> to check out faster."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">login<\/a>You can check out quickly by doingす。"
       }
     },
     "footer": {
