@@ -874,7 +874,9 @@
         "submitted_description": "Please check your order and payment method.",
         "submitted_label": "sent",
         "track_shipment": "Track your luggage"
-      }
+      },
+      "status_mark_as_delivered": "Mark as delivered",
+      "status_title": "Order status"
     }
   }
 }
