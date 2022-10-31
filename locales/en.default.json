@@ -395,8 +395,8 @@
     },
     "register": {
       "title": "Create account",
-      "first_name": "First name",
-      "last_name": "Last name",
+      "first_name": "Name",
+      "last_name": "Surname",
       "email": "Email",
       "password": "Password",
       "submit": "Create"
