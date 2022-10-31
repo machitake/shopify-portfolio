@@ -1593,7 +1593,9 @@
         "subscription_local_delivery": "Local delivery subscription",
         "subscription_pickup": "subscription receipt",
         "subscription_shipping": "Shipping method for regular purchases",
-        "two_day_delivery": "Delivery in 2 days (%{time})"
+        "two_day_delivery": "Delivery in 2 days (%{time})",
+        "waiting_on_pickup_location_notice": "Obtaining available pick-up locations ...",
+        "waiting_on_rate_notice": "Loading available shipping charges"
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
