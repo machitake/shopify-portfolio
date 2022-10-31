@@ -1180,6 +1180,9 @@
             "description_transactional_html": "Receive order receipts and regular shipping status updates by text message Reply to STOP to unsubscribe Reply to HELP for assistance Message frequency varies Message and data charges may apply%があります。%{privacy_policy_modal_link}When%{terms_of_service_modal_link}please look at。",
             "privacy_policy": "privacy policy"
           }
+        },
+        "unsubscribe": {
+          "description": "From now on, we will refrain from notifying customers of cart reminders."
         }
       }
     }
