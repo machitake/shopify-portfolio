@@ -806,7 +806,8 @@
             "payment_not_due": "unpaid"
           },
           "table_view": {
-            "due": "Deadline：{{date}}"
+            "due": "Deadline：{{date}}",
+            "due_on_fulfillment": "Fulfillment time"
           }
         }
       }
