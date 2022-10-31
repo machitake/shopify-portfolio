@@ -234,7 +234,7 @@
       "caption": "cart item",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
-      "new_subtotal": "New subtotal",
+      "new_subtotal": "new subtotal",
       "note": "Order special instructions",
       "checkout": "To purchase procedure",
       "empty": "your cart is empty",
@@ -253,7 +253,7 @@
       },
       "update": "Update",
       "login": {
-        "title": "Have an account?",
+        "title": "Already have an account?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">login<\/a>You can check out quickly by doingす。"
       }
     },
