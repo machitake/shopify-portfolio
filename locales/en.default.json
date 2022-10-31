@@ -1671,7 +1671,9 @@
         "attempted_delivery_title": "Attempted to deliver your order",
         "billing_address_title": "Billing Address",
         "breadcrumbs_confirmed": "Verified",
-        "breadcrumbs_in_review": "Confirming"
+        "breadcrumbs_in_review": "Confirming",
+        "cancelled_description": "Your order is %{date}Please feel free to contact us if you have any questionsさい。",
+        "cancelled_page_title": "Canceled order"
       }
     }
   }
