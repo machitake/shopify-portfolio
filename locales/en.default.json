@@ -465,7 +465,12 @@
       "delete_confirmation_description": "Existing orders will not be affected.",
       "delete_confirmation_message": "Do you want to remove the address? Existing orders will not be affected.",
       "delete_confirmation_title": "Are you sure you want to remove the address?",
-      "edit_button_accessibility_label": "{{address}}edit the"
+      "edit_button_accessibility_label": "{{address}}edit the",
+      "edit_modal_title": {
+        "billing": "Edit your billing address",
+        "default": "Edit the address"
+      },
+      "edit_section_accessibility_label": "{{address}}edit the"
     }
   }
 }
