@@ -475,7 +475,11 @@
       "loading_addresses_accessibility_message": "Loading Address",
       "loading_billing_accessibility_message": "Loading billing address",
       "loading_finished_accessibility_message": "A new page of addresses has loaded",
-      "loading_shipping_accessibility_message": "Loading shipping address"
+      "loading_shipping_accessibility_message": "Loading shipping address",
+      "pagination": {
+        "load_more": "load more",
+        "load_more_accessibility_label": "load more addresses"
+      }
     }
   }
 }
