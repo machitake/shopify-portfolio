@@ -459,7 +459,9 @@
       "cancel_deletion_button_accessibility_label": "{{address}}cancel the deletion of",
       "default_address": {
         "title_accessibility_label": "Default Address:{{address}}"
-      }
+      },
+      "delete_button_accessibility_label": "{{address}}delete",
+      "delete_confirmation_button_accessibility_label": "{{address}}delete"
     }
   }
 }
