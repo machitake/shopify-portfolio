@@ -302,9 +302,9 @@
   },
   "customer": {
     "account": {
-      "title": "Account",
+      "title": "account",
       "details": "Account details",
-      "view_addresses": "View addresses",
+      "view_addresses": "Confirm your address",
       "return": "Return to account details"
     },
     "account_fallback": "account",
