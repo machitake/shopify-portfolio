@@ -584,7 +584,10 @@
       },
       "location_selection": {
         "clear_search": "clear search",
-        "continue_to_store": "continue store"
+        "continue_to_store": "continue store",
+        "description": "If you already have items in your cart, changing the location can affect cart prices and quantities.",
+        "list_item_accessibility_label": "{{name}}:{{address}}",
+        "list_item_without_address_accessibility_label": "{{name}}: no address"
       }
     }
   }
