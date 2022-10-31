@@ -1034,7 +1034,9 @@
         "pick_up": "Over-the-counter receipt",
         "pick_up_immediately": "Ready to pick up at the store",
         "pick_up_in_five_or_more_days": "Usually ready in 5 days or more",
-        "pick_up_in_four_hours": "Usually ready in 4 hours"
+        "pick_up_in_four_hours": "Usually ready in 4 hours",
+        "pick_up_in_one_hour": "Usually ready in 1 hour",
+        "pick_up_in_twenty_four_hours": "Ready usually in 24 hours"
       }
     }
   }
