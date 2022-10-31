@@ -1658,8 +1658,10 @@
         },
         "recurring_totals_with_policies": {
           "first_cycles": {
-            "one": "%{total_price}first payment of"
-          }
+            "one": "%{total_price}first payment of",
+            "other": "the first%{count}Each payment is %{total_price}"
+          },
+          "following_cycles": "、after that%{interval}% per{total_price}"
         }
       }
     }
