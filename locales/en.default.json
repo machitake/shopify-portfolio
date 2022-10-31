@@ -1368,7 +1368,9 @@
           "card_declined": "Card rejected",
           "no_match": "Does not match",
           "transaction_declined": "This transaction was rejected"
-        }
+        },
+        "generic_error": "There was a problem during payment processing. Please try again or use a different payment method.",
+        "insufficient_funds": "The settlement was refused due to insufficient funds. Please try again or use a different payment method."
       }
     }
   }
