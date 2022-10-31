@@ -784,7 +784,10 @@
         "list_view": "Show list view",
         "multiple_shipments": "Multiple shipments",
         "no_filtered_results_description": "Remove or adjust filters and confirm orders",
-        "one_images_accessibility_label": "to order{{lineItemName1}}It is included"
+        "one_images_accessibility_label": "to order{{lineItemName1}}It is included",
+        "order_link": "View orders ({{name}})",
+        "order_number": "order ({{name}})",
+        "orders_title": "Verified"
       }
     }
   }
