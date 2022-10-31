@@ -1905,7 +1905,9 @@
       "invalid_expiry_year": "Is not a valid expiration date",
       "invalid_for_country": "teeth%{country}is not valid in",
       "invalid_for_country_and_province": "teeth%{province}When%{country}is not valid in",
-      "invalid_province_in_country": "teeth%{country}is not valid in the territory of"
+      "invalid_province_in_country": "teeth%{country}is not valid in the territory of",
+      "invalid_region_in_country": "teeth%{country}is not valid in the region of",
+      "invalid_state_in_country": "teeth%{country}is not valid in the states of"
     }
   }
 }
