@@ -1828,7 +1828,9 @@
       }
     },
     "checkpoint": {
-      "error": "Captcha authentication failed"
+      "error": "Captcha authentication failed",
+      "message": "Resolve the captcha and continue",
+      "submit_button_text": "Send"
     }
   }
 }
