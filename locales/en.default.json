@@ -1235,7 +1235,9 @@
         "estimated_tax_label": "Scheduled tax payment",
         "expand_order_summary": "Display order details and enter coupons",
         "free_shipping_discount_label": "Free shipping",
-        "free_total_label": "free"
+        "free_total_label": "free",
+        "gift_card_and_discount_label": "Gift card or coupon code",
+        "gift_card_and_discount_placeholder": "Gift card or coupon code"
       }
     }
   }
