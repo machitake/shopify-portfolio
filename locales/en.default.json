@@ -1202,8 +1202,11 @@
         "changes_summary": {
           "added": {
             "other": "%{count}was added"
-          }
-        }
+          },
+          "subtracted": "%{count}has been removed"
+        },
+        "checkout_review_and_pay": "%{order_name}Your order has been updated Please confirm these changes and then pay to confirm your orderさい。",
+        "custom_line_item_description": "order%{order_name}payment amount of"
       }
     }
   }
