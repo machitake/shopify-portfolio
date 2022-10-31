@@ -673,6 +673,12 @@
         "description": "A problem occurred while updating your profile. Please refresh this page or check your internet connection."
       },
       "retry_action_label": "Retry"
+    },
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "Hide account menu",
+        "label": "account"
+      }
     }
   }
 }
