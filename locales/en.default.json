@@ -1721,6 +1721,13 @@
         "login_reorder_link_text": {
           "one": "Buy this product too",
           "other": "Buy these items as well"
+        },
+        "login_title": "Please log in to see all order details",
+        "marker": {
+          "current": "Current location of the product"
+        },
+        "missing_shipping_address_banner": {
+          "text_html": "Use your shipping address to complete this order%%{contact_us}。"
         }
       }
     }
