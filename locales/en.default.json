@@ -811,9 +811,12 @@
             "due_today": "Due today",
             "due_without_date": "unpaid",
             "overdue": "Overdue",
-            "paid": "Paid"
+            "paid": "Paid",
+            "payment_not_due": "unpaid"
           }
-        }
+        },
+        "sort_by": "sort by: {{option}}",
+        "sort_currently_sorted_by_accessibility_label": "current sort：{{option}}"
       }
     }
   }
