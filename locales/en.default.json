@@ -1375,7 +1375,9 @@
         "multibanco_label": "Multibanco",
         "name_on_card_label": "Cardholder",
         "name_on_card_placeholder": "Cardholder",
-        "no_js_credit_card_fields_redirect_hint": "You will be redirected to add your payment information."
+        "no_js_credit_card_fields_redirect_hint": "You will be redirected to add your payment information.",
+        "no_method_error": "Currently, this store cannot accept payments.",
+        "no_real_orders_dev_store": "This store cannot accept actual orders or actual payments."
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
