@@ -251,7 +251,7 @@
         "quantity": "quantity",
         "image": "Product image"
       },
-      "update": "Update",
+      "update": "update",
       "login": {
         "title": "Already have an account?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">login<\/a>You can check out quickly by doingす。"
@@ -271,7 +271,7 @@
       "slider": "Slider"
     },
     "collection_list": {
-      "view_all": "View all"
+      "view_all": "show all"
     },
     "collection_template": {
       "empty": "No products found",
