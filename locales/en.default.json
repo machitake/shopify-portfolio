@@ -984,7 +984,10 @@
         "postcode_placeholder": "Postal code",
         "prefecture_label": "Prefectures",
         "prefecture_placeholder": "Prefectures",
-        "province_label": "Prefectures"
+        "province_label": "Prefectures",
+        "province_placeholder": "Prefectures",
+        "region_label": "area",
+        "region_none": "Unselected"
       }
     }
   }
