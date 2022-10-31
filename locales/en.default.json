@@ -680,7 +680,9 @@
         "label": "account",
         "show_accessibility_label": "Show account menu"
       },
-      "action_menu_accessibility_label": "Other operations"
+      "action_menu_accessibility_label": "Other operations",
+      "contact_email_subject": "{{shopName}}Inquire from the online store of",
+      "contact_link": "Contact Us"
     }
   }
 }
