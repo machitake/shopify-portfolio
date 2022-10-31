@@ -580,7 +580,9 @@
         "contact_list_title": "member",
         "contact_name": "name",
         "contact_permissions": "authority",
-        "contact_phone_number": "phone number"
+        "contact_phone_number": "phone number",
+        "multiple_tax_exemptions": "others{{taxExemptionsCount}}Countries",
+        "net_payment_terms_description": "{{name}}:{{numberOfDays}}Payment deadline within days"
       },
       "location_selection": {
         "clear_search": "clear search",
