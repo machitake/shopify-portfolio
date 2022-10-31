@@ -1129,7 +1129,10 @@
         "autocomplete_selection": "{{number}} Pieces {{total}} in pieces",
         "autocomplete_single_item": "1 available",
         "autocomplete_title": "Candidate",
-        "back_to_cart": "Return to cart"
+        "back_to_cart": "Return to cart",
+        "back_to_contact_information": "Return to information",
+        "back_to_payment_method": "Return to payment",
+        "back_to_shipping_method": "Return to delivery"
       }
     }
   }
