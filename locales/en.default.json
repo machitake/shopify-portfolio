@@ -792,7 +792,14 @@
           "load_more": "load more",
           "load_more_accessibility_label": "load more orders",
           "nav_accessibility_label": "order menu button",
-          "next": "next"
+          "next": "next",
+          "next_accessibility_label": "next order",
+          "previous": "Forward"
+        },
+        "payment_status": {
+          "list_view": {
+            "due": "Due date for payment：{{date}}"
+          }
         }
       }
     }
