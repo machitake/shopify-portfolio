@@ -1042,7 +1042,13 @@
         "pick_up_in_two_to_four_hours": "Ready to pick up within 4 hours",
         "pick_up_in_zero_to_two_hours": "Ready to pick up at the store within 2 hours",
         "pick_up_locations": "Pick-up location",
-        "pick_up_next_day": "Ready to pick up at the store the next day"
+        "pick_up_next_day": "Ready to pick up at the store the next day",
+        "ship": "Shipping",
+        "shipping_address": "Shipping address"
+      },
+      "failed_payment": {
+        "page_title": "The payment could not be processed",
+        "payment_not_processed_text": "Not billed. Please return to the cart and complete the purchase procedure."
       }
     }
   }
