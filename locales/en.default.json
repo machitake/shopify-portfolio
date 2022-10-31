@@ -104,8 +104,8 @@
     "product": {
       "add_to_cart": "Add to cart",
       "choose_options": "Choose options",
-      "choose_product_options": "Choose options for {{ product_name }}",
-      "description": "Description",
+      "choose_product_options": "{{ product_name }}choose an option for",
+      "description": "Description of item",
       "on_sale": "Sale",
       "product_variants": "Product variants",
       "media": {
