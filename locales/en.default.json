@@ -726,8 +726,10 @@
       },
       "partially_refunded_label": "partially refunded",
       "payment": {
-        "status_unpaid": "Due date for payment: {{date}}"
-      }
+        "status_unpaid": "Due date for payment: {{date}}",
+        "title": "settlement"
+      },
+      "refunded_amount": "Refunded"
     }
   }
 }
