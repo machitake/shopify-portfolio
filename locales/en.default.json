@@ -191,14 +191,14 @@
       "products": "Products",
       "results_with_count": {
         "one": "{{ count }} result",
-        "other": "{{ count }} results"
+        "other": "{{ count }}results"
       },
       "results_with_count_and_term": {
-        "one": "{{ count }} result found for “{{ terms }}”",
-        "other": "{{ count }} results found for “{{ terms }}”"
+        "one": "「{{ terms }}」search result of{{ count }}subject",
+        "other": "「{{ terms }}」search result of{{ count }}subject"
       },
       "title": "Search results",
-      "search_for": "Search for “{{ terms }}”"
+      "search_for": "「{{ terms }}」search for"
     },
     "cart": {
       "cart": "cart"
