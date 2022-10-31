@@ -1713,7 +1713,9 @@
         "in_transit_description_days": "Your order is %{number}Arrive within days。",
         "in_transit_description_today": "Your order will arrive today.",
         "in_transit_description_tomorrow": "Your order will arrive the next day.",
-        "in_transit_title": "Your order is being delivered"
+        "in_transit_title": "Your order is being delivered",
+        "let_us_know": "please let me know",
+        "login": "Login"
       }
     }
   }
