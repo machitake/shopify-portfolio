@@ -859,7 +859,9 @@
         "no_tracking_number": "There is no tracking number for this package.",
         "on_its_way_description": "This package is being delivered.",
         "on_its_way_label": "In delivery",
-        "on_its_way_title": "Your product is being delivered"
+        "on_its_way_title": "Your product is being delivered",
+        "out_for_delivery_description": "This package is being delivered.",
+        "out_for_delivery_label": "In delivery"
       }
     }
   }
