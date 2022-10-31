@@ -1733,7 +1733,10 @@
         "non_shippable_title": "Your order is complete",
         "no_tracking_number": "This order does not have a tracking number.",
         "opt_in_message_html": "%{shopify_pay} Your information has been successfully saved inた。",
-        "order_number_label": "Order number"
+        "order_number_label": "Order number",
+        "order_status_confirmed_order_local": "We are preparing to deliver your order.",
+        "order_status_confirmed_order_with_email": "You will receive an email when your order is ready.",
+        "order_status_confirmed_order_with_email_and_phone_payment": "Ordered%{date}made a payment to。"
       }
     }
   }
