@@ -282,7 +282,7 @@
       "load_video": "Load video: {{ description }}"
     },
     "slideshow": {
-      "load_slide": "Load slide",
+      "load_slide": "load slides",
       "previous_slideshow": "Previous slide",
       "next_slideshow": "Next slide",
       "pause_slideshow": "Pause slideshow",
