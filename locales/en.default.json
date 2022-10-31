@@ -479,7 +479,9 @@
       "pagination": {
         "load_more": "load more",
         "load_more_accessibility_label": "load more addresses"
-      }
+      },
+      "save_new_address_accessibility_label": "save address",
+      "title": "Street address"
     }
   }
 }
