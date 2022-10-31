@@ -1819,7 +1819,9 @@
       },
       "tips": {
         "add_tip": "Support the store",
-        "description": "%{shop_name}show support for the team of"
+        "description": "%{shop_name}show support for the team of",
+        "message": "thank you very much.",
+        "preset_label": "%{tip_percent}%"
       }
     }
   }
