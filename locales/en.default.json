@@ -1615,7 +1615,8 @@
         "purchase_options_policy": "Purchasing option policy",
         "refund_policy": "Refund policy",
         "shipping_policy": "Shipping policy",
-        "subscription_policy": "Subscription policy"
+        "subscription_policy": "Subscription policy",
+        "terms_of_sale": "Terms of sale"
       }
     }
   }
