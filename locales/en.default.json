@@ -1535,7 +1535,11 @@
         "delivery_tomorrow": "tomorrow (%{time}) delivery",
         "estimated_delivery_date": {
           "one": "%{count}Business day"
-        }
+        },
+        "estimated_delivery_date_range": "%{minimum}from%{maximum}Business day",
+        "estimated_delivery_time": "%{time}scheduled to be delivered to",
+        "estimated_delivery_time_range": "%{min_time}–%{max_time}scheduled to be delivered to",
+        "estimated_time": "%{time}scheduled to be delivered to"
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
