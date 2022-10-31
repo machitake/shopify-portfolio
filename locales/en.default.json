@@ -1663,6 +1663,11 @@
           },
           "following_cycles": "、after that%{interval}% per{total_price}"
         }
+      },
+      "thank_you": {
+        "attempted_delivery_description_html": "We tried to deliver your order but it was unsuccessful.To arrange another delivery%め、%{contact_us}。",
+        "attempted_delivery_local_description_html": "We were unable to deliver your order% if you would like a different delivery date and time、%{contact_us}Please contact。",
+        "attempted_delivery_local_title": "Absent delivery"
       }
     }
   }
