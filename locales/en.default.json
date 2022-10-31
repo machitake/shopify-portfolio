@@ -1353,7 +1353,9 @@
         "different_billing_address_label": "Use a different billing address",
         "different_credit_card_label": "Please use another credit card",
         "ends_with_label": "trailing number %%{last_digits}",
-        "eps_label": "eps-Überweisung"
+        "eps_label": "eps-Überweisung",
+        "expiry_long": "(date of expiry: %{month}\/%{year})",
+        "expiry_short": "(date of expiry: %{month}\/%{year})"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
@@ -1378,7 +1380,8 @@
         "paypal_zero_amount": "%{amount}PayPal cannot be used for this order Please check out using a method other than PayPal to verify that your order is correctさい。",
         "rejected_transaction": "The payment was rejected. Please try again or use a different payment method.",
         "subscription_agreement_blank": "To purchase a subscription, you need to save your payment details. To continue, confirm that you agree or remove the subscription item from your order.",
-        "three_d_secure_failed": "The payment could not be confirmed. Please try again or use a different payment method."
+        "three_d_secure_failed": "The payment could not be confirmed. Please try again or use a different payment method.",
+        "three_d_secure_failed_duplicate": "Credit card 3D Secure authentication failed because another credit card process is already in progress."
       }
     }
   }
