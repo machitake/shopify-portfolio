@@ -517,7 +517,11 @@
       },
       "draft_order_details": {
         "draft_order_subtitle": "order ({{draftOrderName}}) confirmation date:{{date}}",
-        "loading": "Loading order details"
+        "loading": "Loading order details",
+        "loading_finished_accessibility_message": "Order details loaded",
+        "order_timeline": {
+          "expand_events_accessibility_label": "View draft order details"
+        }
       }
     }
   }
