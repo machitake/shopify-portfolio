@@ -1519,8 +1519,11 @@
           "change_shipping_address_link_label": "Change shipping address",
           "change_shipping_method_link_label": "Change shipping method",
           "contact_method_title": "contact information",
-          "pick_up_in_store_shipping_method_html": "Pick up in store: %{location_name}"
-        }
+          "pick_up_in_store_shipping_method_html": "Pick up in store: %{location_name}",
+          "shipping_address_title": "Shipping address",
+          "shipping_method_title": "Method"
+        },
+        "checkout_as_guest": "Buy as a guest"
       }
     }
   }
