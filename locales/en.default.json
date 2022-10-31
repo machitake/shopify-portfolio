@@ -261,14 +261,14 @@
       "payment": "Payment methods"
     },
     "featured_blog": {
-      "view_all": "View all",
+      "view_all": "show all",
       "onboarding_title": "blog post",
       "onboarding_content": "Provide you with summaries of blog posts"
     },
     "featured_collection": {
       "view_all": "View all",
       "view_all_label": "View all products in the {{ collection_name }} collection",
-      "slider": "Slider"
+      "slider": "slider"
     },
     "collection_list": {
       "view_all": "show all"
