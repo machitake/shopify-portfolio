@@ -1861,6 +1861,9 @@
         },
         "track": {
           "status_html": "<b>Email open tracking reported。<\/b>"
+        },
+        "updated_policy": {
+          "opt_out_html": "If you do not wish to share this information、<a style='text-decoration:underline;' href='%{link}'>unsubscribe<\/a>can。"
         }
       }
     }
