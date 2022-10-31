@@ -1913,7 +1913,11 @@
       "password_mismatch": "must match the password entered",
       "reset_password_html": "This email address is already associated with an account If this account belongs to youたら、<a href=\"\/account\/login#recover\">reset password<\/a>You can also。",
       "too_long": "is too long (at most %{count}characters or less)",
-      "too_short": "is too short (at least %{count}characters or more)"
+      "too_short": "is too short (at least %{count}characters or more)",
+      "verify_email": "an email%{customer_email}Please click the link in the email to verify the email address sent toさい。"
+    },
+    "feed": {
+      "more": "further"
     }
   }
 }
