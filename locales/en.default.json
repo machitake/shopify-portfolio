@@ -2040,7 +2040,13 @@
       "shopping_cart": "Shopping cart"
     },
     "pagination": {
-      "next": "Next"
+      "next": "Next",
+      "previous": "Before"
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Price in ascending order"
+      }
     }
   }
 }
