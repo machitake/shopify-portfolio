@@ -1821,7 +1821,9 @@
         "add_tip": "Support the store",
         "description": "%{shop_name}show support for the team of",
         "message": "thank you very much.",
-        "preset_label": "%{tip_percent}%"
+        "preset_label": "%{tip_percent}%",
+        "presets_description": "Select the tip percentage",
+        "title": "Support the store"
       }
     }
   }
