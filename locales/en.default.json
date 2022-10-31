@@ -1979,7 +1979,13 @@
       "customer": {
         "denylisted_reset_password": "Your account could not be accessed because your current password is not secure. An email will be sent to you to update your password.",
         "invalid_credentials": "The email or password is incorrect.",
-        "no_account_found": "The account was not found."
+        "no_account_found": "The account was not found.",
+        "password_reset_error": "Password reset error"
+      },
+      "order": {
+        "cancel_reason": {
+          "customer": "Customer changed\/canceled order"
+        }
       }
     }
   }
