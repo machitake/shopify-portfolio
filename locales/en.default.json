@@ -1831,6 +1831,12 @@
       "error": "Captcha authentication failed",
       "message": "Resolve the captcha and continue",
       "submit_button_text": "Send"
+    },
+    "collections": {
+      "sorting": {
+        "az": "Alphabetical order, AZ",
+        "best_selling": "best seller"
+      }
     }
   }
 }
