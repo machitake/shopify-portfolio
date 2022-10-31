@@ -1146,7 +1146,8 @@
         "contact_us_html": "Please contact us for more details",
         "continue_button_label": "to continue",
         "continue_to_payment_method": "Proceed to payment",
-        "continue_to_review": "Order Confirmation"
+        "continue_to_review": "Order Confirmation",
+        "continue_to_shipping_method": "Proceed to select shipping method"
       }
     }
   }
