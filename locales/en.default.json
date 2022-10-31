@@ -581,6 +581,10 @@
         "contact_name": "name",
         "contact_permissions": "authority",
         "contact_phone_number": "phone number"
+      },
+      "location_selection": {
+        "clear_search": "clear search",
+        "continue_to_store": "continue store"
       }
     }
   }
