@@ -625,7 +625,9 @@
           "pagination": {
             "nav_accessibility_label": "Menu button for the order being confirmed"
           },
-          "show_all": "Show all"
+          "show_all": "Show all",
+          "show_all_accessibility_label": "View all pending orders",
+          "show_all_orders_in_review": "View all pending orders"
         }
       }
     }
