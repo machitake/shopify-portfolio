@@ -821,8 +821,12 @@
           "date": {
             "newest": "new order",
             "oldest": "old order"
+          },
+          "location": {
+            "ascending": "Location (A-Z)"
           }
-        }
+        },
+        "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders."
       }
     }
   }
