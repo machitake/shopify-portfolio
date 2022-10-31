@@ -62,7 +62,7 @@
   "accessibility": {
     "skip_to_text": "Skip to content",
     "skip_to_product_info": "Skip to product information",
-    "close": "Close",
+    "close": "close",
     "unit_price_separator": "per",
     "vendor": "Vendor:",
     "error": "Error",
@@ -74,7 +74,7 @@
     "loading": "Loading...",
     "total_reviews": "total reviews",
     "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars",
-    "collapsible_content_title": "Collapsible content"
+    "collapsible_content_title": "collapsible content"
   },
   "blogs": {
     "article": {
