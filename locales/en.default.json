@@ -1622,7 +1622,9 @@
       "stock": {
         "continue_shopping_button_label": "to continue",
         "go_back_to_cart_button_label": "Return to cart",
-        "items_unavailable_notice": "Contains out-of-stock items. The shopping cart has been updated."
+        "items_unavailable_notice": "Contains out-of-stock items. The shopping cart has been updated.",
+        "page_title": "Inventory problem",
+        "price_column_header": "price"
       }
     }
   }
