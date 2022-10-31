@@ -1123,7 +1123,9 @@
         "tips_invalid_tip_amount": "%{amount}Please enter an amount not exceeding"
       },
       "general": {
-        "all_rights_reserved": "All rights reserved %{shop_name}"
+        "all_rights_reserved": "All rights reserved %{shop_name}",
+        "authenticate_purchase_button_label": "Authenticate payment",
+        "autocomplete_multi_item": "{{number}} available"
       }
     }
   }
