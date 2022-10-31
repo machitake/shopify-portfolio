@@ -1475,7 +1475,13 @@
         "redirecting_notice": "Please be patient as we will redirect you.",
         "redirecting_page_title": "Redirecting ...",
         "redirecting_title": "Redirecting ...",
-        "title": "Order processing"
+        "title": "Order processing",
+        "wait": {
+          "medium": {
+            "one": "Your order is being processed%%{count}please wait。"
+          },
+          "no_auto_refresh_html": "% if not automatically redirected%{link}。"
+        }
       }
     }
   }
