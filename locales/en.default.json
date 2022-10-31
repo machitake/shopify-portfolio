@@ -1398,7 +1398,9 @@
           }
         },
         "purchase_options_agreement_label": "I understand that one or more of the items in my cart is a postpaid purchase or subscriptionBy continuing%り、%{cancellation_policy_label}You agree to charge your chosen payment method at the price indicated on this page for the number of times and dates until the order is fulfilled or, if permitted, canceled.のとします。",
-        "purchase_options_card_update_agreement_label_html": "By updating your payment method,の<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">cancellation policy<\/a>I authorize payments for subscriptions and postpaid purchases according to。"
+        "purchase_options_card_update_agreement_label_html": "By updating your payment method,の<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">cancellation policy<\/a>I authorize payments for subscriptions and postpaid purchases according to。",
+        "receiver_payment_experience_hint": "We will let you know the details of the payment after your order%。%{due_days}Please make a payment in Multibanco or online within days。",
+        "saved_by_payment_method": "%{payment_method} saved with"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
