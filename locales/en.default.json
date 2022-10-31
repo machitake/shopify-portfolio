@@ -1680,7 +1680,9 @@
         "confirmed": "Verified",
         "confirmed_description": "I received your order. It is currently in preparation. Please see this page for delivery status.",
         "confirmed_title": "Your order has been confirmed",
-        "contact_information_title": "contact info"
+        "contact_information_title": "contact info",
+        "contact_us_html": "Is there something troubling you%%{contact_us}",
+        "contact_us_lowercase": "Contact Us"
       }
     }
   }
