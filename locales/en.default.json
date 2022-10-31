@@ -1171,7 +1171,9 @@
         }
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "Receive news and offers by email"
+        "accept_marketing_checkbox_label": "Receive news and offers by email",
+        "accept_sms_checkbox_label": "Receive news and offers in text",
+        "pending_accept_marketing_checkbox_label": "Check your email for news and offer subscriptions"
       }
     }
   }
