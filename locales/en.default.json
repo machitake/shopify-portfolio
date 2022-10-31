@@ -660,6 +660,10 @@
       },
       "no_access_to_locations": {
         "description": "No access to any location"
+      },
+      "not_found": {
+        "description": "Please check the URL or try again later.",
+        "title": "There was a problem loading this page"
       }
     }
   }
