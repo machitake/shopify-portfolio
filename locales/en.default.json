@@ -1244,7 +1244,9 @@
         "gift_card_label": "gift card",
         "gift_card_savings_notice": "%{gift_card_amount}after gift card",
         "gift_card_subscriptions_notice": "Gift cards apply only to first payment",
-        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> could not be combined with existing discounts There is already a better combinationす。"
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> could not be combined with existing discounts There is already a better combinationす。",
+        "maximum_discount_code_limit_reached": "The maximum number of coupon codes issued has been reached. Delete existing codes.て<strong style=\"text-transform:uppercase\">%{code}<\/strong> please use。",
+        "multiple_shipping_lines_label": "Total delivery"
       }
     }
   }
