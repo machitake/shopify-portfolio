@@ -1009,8 +1009,10 @@
           "other": "These items are not available in your country\/region and will be removed from your cart."
         },
         "title": {
-          "one": "Product is not available"
-        }
+          "one": "Product is not available",
+          "other": "Product is not available"
+        },
+        "unavailable_label": "not available"
       }
     }
   }
