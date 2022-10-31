@@ -1945,7 +1945,13 @@
       }
     },
     "links": {
-      "learn_more": "Click here for details"
+      "learn_more": "Click here for details",
+      "powered_by_shopify": "Powered by Shopify"
+    },
+    "notices": {
+      "address": {
+        "created": "The address was created successfully"
+      }
     }
   }
 }
