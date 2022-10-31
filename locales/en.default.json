@@ -1264,7 +1264,9 @@
         "product_image_label": "Product image",
         "quantity_label": "quantity",
         "recurring_total_label": "Regular total",
-        "recurring_total_tooltip": "Shipping charges, taxes, customs duties and applicable discounts are not included."
+        "recurring_total_tooltip": "Shipping charges, taxes, customs duties and applicable discounts are not included.",
+        "remove_discount_label": "Clear discount",
+        "remove_gift_card_label": "Erase gift card"
       }
     }
   }
