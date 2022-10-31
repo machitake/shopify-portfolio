@@ -1282,7 +1282,14 @@
         "total_already_paid_label": "Paid",
         "total_label": "total",
         "total_outstanding_label": "Amount of payment",
-        "total_updated_label": "Total amount updated:"
+        "total_updated_label": "Total amount updated:",
+        "unit_price": {
+          "content_html": "%{per_unit}%{accessible_separator}%{price}"
+        },
+        "vat_label_html": "%{amount}including taxes of"
+      },
+      "payment": {
+        "account_connected": "Your account has been linked."
       }
     }
   }
