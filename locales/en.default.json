@@ -1968,7 +1968,11 @@
         "only_n_items_available": "%{count}% of{name}can only add to cart。",
         "product_sold_out": "'%{name}' is already sold out。",
         "selling_plan_not_applicable": "Sales plan cannot be applied to variations",
-        "selling_plan_not_available_for_company_locations": "For B2B orders, only one-time purchases are possible."
+        "selling_plan_not_available_for_company_locations": "For B2B orders, only one-time purchases are possible.",
+        "shipping_address_invalid": "There was a problem calculating shipping charges. Please continue to check out and select a shipping fee before completing your order.",
+        "stock_problems_html": "One or more items sold out。<a href='%{link}'>update cart<\/a>。",
+        "too_many_items_in_cart": "No more% in cart{name}cannot add。",
+        "too_many_line_items_error": "% in cart{max}I can't put more than 1 item。"
       }
     }
   }
