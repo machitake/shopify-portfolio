@@ -2049,6 +2049,10 @@
         "price_descending": "Highest price",
         "relevance": "Relevance"
       }
+    },
+    "sentence": {
+      "last_word_connector": ",When",
+      "two_words_connector": "When"
     }
   }
 }
