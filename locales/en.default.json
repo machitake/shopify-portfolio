@@ -1325,7 +1325,9 @@
         },
         "card_information_notice": "All transactions are encrypted and secure. Credit card information is never stored.",
         "card_issue_number_label": "issue number",
-        "card_issue_number_placeholder": "issue number"
+        "card_issue_number_placeholder": "issue number",
+        "card_number_label": "card number",
+        "card_number_placeholder": "card number"
       }
     }
   }
