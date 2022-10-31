@@ -843,7 +843,10 @@
       },
       "order_status": {
         "attempted_delivery_description": "Couldn't deliver.",
-        "canceled_description": "the customer's order{{date}}canceled to。"
+        "canceled_description": "the customer's order{{date}}canceled to。",
+        "canceled_label": "canceled",
+        "canceled_title": "Order canceled",
+        "company_tracking_number": "{{company}}Tracking number:"
       }
     }
   }
