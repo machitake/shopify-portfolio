@@ -216,7 +216,7 @@
       }
     },
     "404": {
-      "title": "Page not found",
+      "title": "The page can not be found",
       "subtext": "404"
     }
   },
@@ -2063,7 +2063,8 @@
         "next_day": "Ready to pick up the next day",
         "one_hour": "Usually ready in 1 hour",
         "twenty_four_hours": "Ready usually in 24 hours",
-        "two_hours": "Usually ready in 2 hours"
+        "two_hours": "Usually ready in 2 hours",
+        "zero_to_two_hours": "Usually ready in 2 hours"
       }
     }
   }
