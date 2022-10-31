@@ -258,7 +258,7 @@
       }
     },
     "footer": {
-      "payment": "Payment methods"
+      "payment": "Payment Method"
     },
     "featured_blog": {
       "view_all": "show all",
@@ -267,7 +267,7 @@
     },
     "featured_collection": {
       "view_all": "View all",
-      "view_all_label": "View all products in the {{ collection_name }} collection",
+      "view_all_label": "{{ collection_name }}View all products in collection",
       "slider": "slider"
     },
     "collection_list": {
