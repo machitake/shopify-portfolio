@@ -1104,7 +1104,9 @@
         "gift_card_disabled": "This gift card can no longer be used",
         "gift_card_expired": "This gift card has expired",
         "gift_cards_not_supported_with_deferred_purchase_options": "Gift cards are not supported for postpaid purchase options.",
-        "handle_email_invalid": "Please enter a valid email address"
+        "handle_email_invalid": "Please enter a valid email address",
+        "handle_phone_invalid": "Please enter a valid phone number",
+        "payment_gateway_incompatible_with_multi_currency": "You must pay by credit card to complete this checkout in your local currency."
       }
     }
   }
