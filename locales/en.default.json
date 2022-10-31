@@ -145,8 +145,8 @@
       "vendor": "Vendor",
       "video_exit_message": "{{ title }}will open with a full screen video in the same window。",
       "view_full_details": "View details",
-      "xr_button": "View in your space",
-      "xr_button_label": "View in your space, loads item in augmented reality window",
+      "xr_button": "Show in space",
+      "xr_button_label": "Display in space and load items into augmented reality window",
       "include_taxes": "(tax included)",
       "shipping_policy_html": "<a href=\"{{ link }}\">Delivery charge<\/a>is calculated at checkout。"
     },
