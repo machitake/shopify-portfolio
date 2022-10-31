@@ -1823,8 +1823,12 @@
         "message": "thank you very much.",
         "preset_label": "%{tip_percent}%",
         "presets_description": "Select the tip percentage",
-        "title": "Support the store"
+        "title": "Support the store",
+        "update_tip": "Update the amount"
       }
+    },
+    "checkpoint": {
+      "error": "Captcha authentication failed"
     }
   }
 }
