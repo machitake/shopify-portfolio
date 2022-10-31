@@ -982,7 +982,9 @@
         "postal_code_placeholder": "Postal code",
         "postcode_label": "Postal code",
         "postcode_placeholder": "Postal code",
-        "prefecture_label": "Prefectures"
+        "prefecture_label": "Prefectures",
+        "prefecture_placeholder": "Prefectures",
+        "province_label": "Prefectures"
       }
     }
   }
