@@ -717,7 +717,11 @@
         "closed": "Hide order summary",
         "open": "View order summary"
       },
-      "no_data": "None"
+      "no_data": "None",
+      "not_applicable": "N\/A",
+      "pagination": {
+        "loading_accessibility_label": "Loading items"
+      }
     }
   }
 }
