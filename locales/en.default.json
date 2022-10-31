@@ -487,7 +487,9 @@
       "auto_complete_close_accessibility_label": "Close candidates",
       "auto_complete_title": "Candidate",
       "billing_address": "Use as billing address",
-      "cancel_accessibility_label": "address ({{address}}) to cancel editing"
+      "cancel_accessibility_label": "address ({{address}}) to cancel editing",
+      "creation_success_notification": "address added",
+      "default_address": "This is the default address"
     }
   }
 }
