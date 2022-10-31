@@ -595,7 +595,9 @@
         "no_location_title": "Individual order only",
         "search": "Search for locations",
         "selection_cancel_button": "Cancel",
-        "selection_confirmation_button": "Select location"
+        "selection_confirmation_button": "Select location",
+        "title": "What location would you like to purchase from?",
+        "try_new_search": "try a new search"
       }
     }
   }
