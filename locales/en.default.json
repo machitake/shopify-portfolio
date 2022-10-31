@@ -1607,6 +1607,10 @@
         "shipping_method_not_available_updated": {
           "one": "Items added cannot be shipped to your location. Please delete the item and check it out or contact the store."
         }
+      },
+      "shop_policies": {
+        "contact_information": "contact info",
+        "legal_notice": "Notation based on Specified Commercial Transaction Law"
       }
     }
   }
