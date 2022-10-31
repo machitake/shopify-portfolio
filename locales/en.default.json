@@ -567,9 +567,12 @@
           "refund": {
             "description_full_refund": "This order has been fully refunded.",
             "description_multiple_refunds": "This order has been partially refunded.",
-            "description_single_refund": "This order has been partially refunded."
+            "description_single_refund": "This order has been partially refunded.",
+            "title": "Refunded",
+            "title_with_date": "{{date}}refunded to"
           }
-        }
+        },
+        "subtitle": "Send date: {{date}}"
       }
     }
   }
