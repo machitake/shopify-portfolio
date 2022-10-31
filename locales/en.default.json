@@ -1696,7 +1696,12 @@
         "failed_contact_merchant_no_company": "Please contact us to arrange delivery.",
         "failed_title": "Your order could not be delivered",
         "failure": "Delivery failure",
-        "first_payment_complete": "First payment completed"
+        "first_payment_complete": "First payment completed",
+        "fulfillment": {
+          "description_label": "Description",
+          "fulfilled_table_title": "Items in this shipment",
+          "product_image_label": "Product image"
+        }
       }
     }
   }
