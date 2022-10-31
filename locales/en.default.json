@@ -450,6 +450,10 @@
       },
       "profile_update_confirmation_message": "Profile updated",
       "title": "account information"
+    },
+    "addresses": {
+      "add_address_banner": "Add an address to use at checkout",
+      "add_button": "add address"
     }
   }
 }
