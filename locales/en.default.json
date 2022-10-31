@@ -1885,7 +1885,9 @@
       "blocked_address": "This location is not supported.",
       "contains_html_tags": "Cannot contain HTML tags",
       "contains_spaces": "Starts or ends with spaces.",
-      "credit_card_session_expired": "Your credit card authority has expired. Please enter your payment information again. Your card will not be charged."
+      "credit_card_session_expired": "Your credit card authority has expired. Please enter your payment information again. Your card will not be charged.",
+      "customer_already_used_once_per_customer_discount_notice": "This discount has reached the maximum number of uses",
+      "discount_disabled": "This discount is not available"
     }
   }
 }
