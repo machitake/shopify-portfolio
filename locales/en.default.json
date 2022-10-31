@@ -900,7 +900,9 @@
       "governorate": "Administrative district",
       "pincode": "PIN code",
       "postal_code": "Postal code",
-      "postcode": "Postal code"
+      "postcode": "Postal code",
+      "prefecture": "Prefectures",
+      "province": "state"
     }
   }
 }
