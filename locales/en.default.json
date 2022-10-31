@@ -1217,7 +1217,10 @@
         "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for items in cart",
         "confirmation_number_label": "Authorization number: %{confirmation_number}",
         "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code already used",
-        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is currently unavailable"
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is currently unavailable",
+        "deferred_payment_info": {
+          "due_on_fulfillment_title": "%{amount_due}payment due at fulfillment"
+        }
       }
     }
   }
