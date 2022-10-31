@@ -2027,7 +2027,9 @@
       "account": "account",
       "blog_or_article_with_error": "Error: %{title}",
       "challenge": "Challenge",
-      "checkpoint": "Checkpoint"
+      "checkpoint": "Checkpoint",
+      "collections": "collection",
+      "create_account": "Create an account"
     }
   }
 }
