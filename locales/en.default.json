@@ -1355,7 +1355,9 @@
         "ends_with_label": "trailing number %%{last_digits}",
         "eps_label": "eps-Überweisung",
         "expiry_long": "(date of expiry: %{month}\/%{year})",
-        "expiry_short": "(date of expiry: %{month}\/%{year})"
+        "expiry_short": "(date of expiry: %{month}\/%{year})",
+        "free_order_notice_html": "your order <strong>free<\/strong> No need to payん。",
+        "ftd_vault_credit_card_label": "Store this credit card information in my account for a speedy checkout"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
