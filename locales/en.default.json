@@ -1673,7 +1673,10 @@
         "breadcrumbs_confirmed": "Verified",
         "breadcrumbs_in_review": "Confirming",
         "cancelled_description": "Your order is %{date}Please feel free to contact us if you have any questionsさい。",
-        "cancelled_page_title": "Canceled order"
+        "cancelled_page_title": "Canceled order",
+        "cancelled_title": "Your order has been cancelled",
+        "company_tracking_number": "%{company}Tracking number:",
+        "confirmation_email_sent_text": "A confirmation email has been sent to %%{email}"
       }
     }
   }
