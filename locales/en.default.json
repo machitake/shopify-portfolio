@@ -699,7 +699,11 @@
       "log_out_link": "Logout",
       "navigation_accessibility_message": "{{sectionName}}moved to",
       "nav_label_accessibility_label": "Main menu",
-      "open_menu_accessibility_label": "open main menu"
+      "open_menu_accessibility_label": "open main menu",
+      "shop_logo_accessibility_label": "{{shopName}}logo of"
+    },
+    "order_details": {
+      "addresses_section_title": "Billing and Shipping"
     }
   }
 }
