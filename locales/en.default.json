@@ -309,7 +309,7 @@
     },
     "account_fallback": "account",
     "activate_account": {
-      "title": "Activate account",
+      "title": "Activate your account",
       "subtext": "Please create a password to activate your account.",
       "password": "password",
       "password_confirm": "Confirm password",
@@ -332,7 +332,7 @@
       "zip": "Postal\/ZIP code",
       "phone": "Phone",
       "set_default": "Set as default address",
-      "add": "Add address",
+      "add": "Add an address",
       "update": "Update address",
       "cancel": "Cancel",
       "edit": "Edit",
