@@ -1132,7 +1132,8 @@
         "back_to_cart": "Return to cart",
         "back_to_contact_information": "Return to information",
         "back_to_payment_method": "Return to payment",
-        "back_to_shipping_method": "Return to delivery"
+        "back_to_shipping_method": "Return to delivery",
+        "breadcrumb": "Breadcrumb trail"
       }
     }
   }
