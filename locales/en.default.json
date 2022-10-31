@@ -1896,7 +1896,10 @@
       "expired": "Expired",
       "full_name_required": "Enter your first and last name",
       "gift_card_already_applied": "The code has already been applied to your payment",
-      "gift_card_currency_mismatch": "%{gift_card_currency}of gift cards are %{checkout_currency}cannot be used to order"
+      "gift_card_currency_mismatch": "%{gift_card_currency}of gift cards are %{checkout_currency}cannot be used to order",
+      "gift_card_depleted": "There is no balance left on this gift card",
+      "gift_card_disabled": "The gift card is invalid",
+      "gift_card_expired": "The gift card has expired"
     }
   }
 }
