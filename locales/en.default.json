@@ -1531,7 +1531,11 @@
         "arrives_time_range": "arrival: %{min_time}–%{max_time}",
         "delivery": "%{time}delivery to",
         "delivery_date_range": "%{min_time}～%{max_time}",
-        "delivery_today": "today (%{time}) delivery"
+        "delivery_today": "today (%{time}) delivery",
+        "delivery_tomorrow": "tomorrow (%{time}) delivery"
+      },
+      "shipping_errors": {
+        "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate."
       }
     }
   }
