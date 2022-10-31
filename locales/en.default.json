@@ -714,8 +714,10 @@
       "loading_finished_accessibility_message": "Order details loaded",
       "location": "location",
       "mobile_summary_toggle_button": {
-        "closed": "Hide order summary"
-      }
+        "closed": "Hide order summary",
+        "open": "View order summary"
+      },
+      "no_data": "None"
     }
   }
 }
