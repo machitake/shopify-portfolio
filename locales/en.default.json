@@ -1380,7 +1380,11 @@
         "no_real_orders_dev_store": "This store cannot accept actual orders or actual payments.",
         "no_taxes_banner_content": "There is no tax on this order. Once you collect the payment, you will not be able to add taxes.",
         "offsite_gateway_redirect_hint": "“%{button_label}”To make a secure payment after clicking %、%{gateway_label}will be redirected to。",
-        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} total %{total_shop_price}"
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} total %{total_shop_price}",
+        "order_covered_by_gift_cards_notice": {
+          "one": "The order is paid by gift card.",
+          "other": "Your order was placed with a gift card."
+        }
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
