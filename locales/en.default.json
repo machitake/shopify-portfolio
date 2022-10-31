@@ -1212,7 +1212,9 @@
       "order_summary": {
         "amount_off_shipping": "%{amount}shipping off",
         "applied_discount_message": "%{amount}has been discounted from the total",
-        "applied_free_shipping_discount_label": "Applied"
+        "applied_free_shipping_discount_label": "Applied",
+        "apply_discount_button_label": "Apply",
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for items in cart"
       }
     }
   }
