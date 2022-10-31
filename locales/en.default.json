@@ -1352,7 +1352,11 @@
         "detected_card_brand": "Detected card brand:{brand}",
         "different_billing_address_label": "Use a different billing address",
         "different_credit_card_label": "Please use another credit card",
-        "ends_with_label": "trailing number %%{last_digits}"
+        "ends_with_label": "trailing number %%{last_digits}",
+        "eps_label": "eps-Überweisung"
+      },
+      "payment_errors": {
+        "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again."
       }
     }
   }
