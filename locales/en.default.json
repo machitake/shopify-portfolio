@@ -827,7 +827,11 @@
             "descending": "Location (Z-A)"
           },
           "order_number": {
-            "ascending": "Order number (ascending)"
+            "ascending": "Order number (ascending)",
+            "descending": "Order number (descending order)"
+          },
+          "order_total": {
+            "ascending": "Order Total (Ascending)"
           }
         },
         "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders."
