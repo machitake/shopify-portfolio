@@ -1631,7 +1631,8 @@
         "removed_from_cart_notice": "Erase from cart",
         "remove_from_cart_button_label": "Remove from cart",
         "sold_out_label": "sold out",
-        "status_column_header": "Status"
+        "status_column_header": "Status",
+        "title": "out of stock"
       }
     }
   }
