@@ -1019,6 +1019,12 @@
         "save_my_information_label": "Save this information for next time",
         "sign_in_link_label": "Login",
         "sign_out_link_label": "Logout"
+      },
+      "customer_payment_methods": {
+        "delete_customer_mandate": {
+          "generic_error": "A problem occurred while processing your request.",
+          "success_message": "Your payment method has been successfully removed"
+        }
       }
     }
   }
