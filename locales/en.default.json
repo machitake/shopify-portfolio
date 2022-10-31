@@ -1339,7 +1339,9 @@
         "card_verification_value_explanation_amex": "The 4-digit code on the front of the card",
         "card_verification_value_explanation_other": "A 3-digit security code on the back of the card",
         "card_verification_value_label": "security code",
-        "card_verification_value_placeholder": "security code"
+        "card_verification_value_placeholder": "security code",
+        "change_currency_section_description": "Select a currency option",
+        "credit_card_start_month": "Issued month"
       }
     }
   }
