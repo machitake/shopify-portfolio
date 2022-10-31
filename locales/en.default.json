@@ -295,8 +295,8 @@
     }
   },
   "localization": {
-    "country_label": "Country\/region",
-    "language_label": "Language",
+    "country_label": "Country\/Region",
+    "language_label": "language",
     "update_language": "Update language",
     "update_country": "Update country\/region"
   },
@@ -411,7 +411,7 @@
   },
   "gift_cards": {
     "issued": {
-      "title": "Here's your {{ value }} gift card for {{ shop }}!",
+      "title": "{{ shop }}available in{{ value }}is a gift card for。",
       "subtext": "Your gift card",
       "gift_card_code": "Gift card code",
       "shop_link": "Continue shopping",
