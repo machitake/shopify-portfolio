@@ -287,11 +287,11 @@
       "next_slideshow": "Next slide",
       "pause_slideshow": "Pause slideshow",
       "play_slideshow": "Play slideshow",
-      "carousel": "Carousel",
+      "carousel": "carousel",
       "slide": "Slide"
     },
     "page": {
-      "title": "Page title"
+      "title": "page title"
     }
   },
   "localization": {
