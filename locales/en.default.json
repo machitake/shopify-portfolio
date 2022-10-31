@@ -1870,7 +1870,11 @@
       },
       "subscribed": {
         "confirmation": "Thank you for subscribing to the mailing list.",
-        "disclaimer": "You can unsubscribe at any time."
+        "disclaimer": "You can unsubscribe at any time.",
+        "unsubscribe": "Unregister"
+      },
+      "unsubscribed": {
+        "confirmation": "I have unsubscribed from the mailing list."
       }
     }
   }
