@@ -1676,7 +1676,9 @@
         "cancelled_page_title": "Canceled order",
         "cancelled_title": "Your order has been cancelled",
         "company_tracking_number": "%{company}Tracking number:",
-        "confirmation_email_sent_text": "A confirmation email has been sent to %%{email}"
+        "confirmation_email_sent_text": "A confirmation email has been sent to %%{email}",
+        "confirmed": "Verified",
+        "confirmed_description": "I received your order. It is currently in preparation. Please see this page for delivery status."
       }
     }
   }
