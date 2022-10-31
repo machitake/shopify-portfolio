@@ -831,10 +831,12 @@
             "descending": "Order number (descending order)"
           },
           "order_total": {
-            "ascending": "Order Total (Ascending)"
+            "ascending": "Order Total (Ascending)",
+            "descending": "Order Total (Descending)"
           }
         },
-        "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders."
+        "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders.",
+        "sort_show_options_accessibility_label": "View sorting options for confirmed orders."
       }
     }
   }
