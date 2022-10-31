@@ -1016,7 +1016,9 @@
       },
       "customer_account": {
         "not_user_label": "%{first_name}isn't it？",
-        "save_my_information_label": "Save this information for next time"
+        "save_my_information_label": "Save this information for next time",
+        "sign_in_link_label": "Login",
+        "sign_out_link_label": "Logout"
       }
     }
   }
