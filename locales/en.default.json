@@ -705,7 +705,9 @@
     "order_details": {
       "addresses_section_title": "Billing and Shipping",
       "card_ending_with": "Last 4 digits{{lastDigits}}",
-      "contact": "contact information"
+      "contact": "contact information",
+      "discount": "discount",
+      "fully_refunded_label": "Refunded"
     }
   }
 }
