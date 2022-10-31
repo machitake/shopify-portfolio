@@ -65,11 +65,11 @@
     "close": "close",
     "unit_price_separator": "per",
     "vendor": "Vendor:",
-    "error": "Error",
+    "error": "error",
     "refresh_page": "Choosing a selection results in a full page refresh.",
     "link_messages": {
       "new_window": "Opens in a new window.",
-      "external": "Opens external website."
+      "external": "Open an external website."
     },
     "loading": "Loading...",
     "total_reviews": "total reviews",
