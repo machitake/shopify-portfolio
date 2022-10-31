@@ -651,7 +651,11 @@
       },
       "load_orders_error": {
         "description": "Please try again or come back later.",
-        "retry_button": "Retry"
+        "retry_button": "Retry",
+        "title": "Unable to load order"
+      },
+      "no_access": {
+        "description": "{{shopName}}You are not registered as a B2B customer at"
       }
     }
   }
