@@ -1620,7 +1620,9 @@
         "terms_of_service": "Terms of service"
       },
       "stock": {
-        "continue_shopping_button_label": "to continue"
+        "continue_shopping_button_label": "to continue",
+        "go_back_to_cart_button_label": "Return to cart",
+        "items_unavailable_notice": "Contains out-of-stock items. The shopping cart has been updated."
       }
     }
   }
