@@ -1280,7 +1280,9 @@
         "tip_label": "Support amount",
         "title": "Order summary",
         "total_already_paid_label": "Paid",
-        "total_label": "total"
+        "total_label": "total",
+        "total_outstanding_label": "Amount of payment",
+        "total_updated_label": "Total amount updated:"
       }
     }
   }
