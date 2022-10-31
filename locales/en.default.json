@@ -1311,7 +1311,9 @@
         "billing_address_description_no_shipping_address": "Please enter an address that matches your card or payment method.",
         "billing_address_not_supported_for_payment_method_error": "The specified payment method is not available for this billing address and currency. Please try another payment method.",
         "billing_address_title": "Billing Address",
-        "card_change_label": "Change"
+        "card_change_label": "Change",
+        "card_expiration_month_label": "Expiration date (month)",
+        "card_expiration_year_label": "Expiration date (year)"
       }
     }
   }
