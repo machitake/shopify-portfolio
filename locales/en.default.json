@@ -1616,7 +1616,11 @@
         "refund_policy": "Refund policy",
         "shipping_policy": "Shipping policy",
         "subscription_policy": "Subscription policy",
-        "terms_of_sale": "Terms of sale"
+        "terms_of_sale": "Terms of sale",
+        "terms_of_service": "Terms of service"
+      },
+      "stock": {
+        "continue_shopping_button_label": "to continue"
       }
     }
   }
