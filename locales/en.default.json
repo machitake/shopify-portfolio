@@ -1214,7 +1214,10 @@
         "applied_discount_message": "%{amount}has been discounted from the total",
         "applied_free_shipping_discount_label": "Applied",
         "apply_discount_button_label": "Apply",
-        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for items in cart"
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for items in cart",
+        "confirmation_number_label": "Authorization number: %{confirmation_number}",
+        "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code already used",
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is currently unavailable"
       }
     }
   }
