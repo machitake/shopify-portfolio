@@ -1182,8 +1182,12 @@
           }
         },
         "unsubscribe": {
-          "description": "From now on, we will refrain from notifying customers of cart reminders."
+          "description": "From now on, we will refrain from notifying customers of cart reminders.",
+          "title": "We have canceled your registration."
         }
+      },
+      "mor_policies": {
+        "privacy_policy": "Merchant of Record Privacy Policy"
       }
     }
   }
