@@ -1448,6 +1448,14 @@
         "express_payment_gateway_label": "Express",
         "gift_card_current_balance_notice": "Current balance %{amount}",
         "manual_payment_gateway_label": "Manual"
+      },
+      "paypal": {
+        "button_html": "method of payment%%{logo}"
+      },
+      "post_purchase": {
+        "components": {
+          "close": "close"
+        }
       }
     }
   }
