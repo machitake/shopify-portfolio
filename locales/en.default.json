@@ -947,7 +947,9 @@
       },
       "contact": {
         "address1_label": "Street address",
-        "address2_label": "Building name, room number, etc."
+        "address2_label": "Building name, room number, etc.",
+        "address_title": "Street address",
+        "city_label": "Municipality"
       }
     }
   }
