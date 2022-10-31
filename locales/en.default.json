@@ -2031,7 +2031,12 @@
       "collections": "collection",
       "create_account": "Create an account",
       "order": "order %{name}",
-      "products": "Product"
+      "products": "Product",
+      "reset_account": "Reset your account",
+      "search_results": {
+        "one": "search: %%{terms}」search results for %{count}subject",
+        "other": "search: %%{terms}」search results for %{count}subject"
+      }
     }
   }
 }
