@@ -655,7 +655,11 @@
         "title": "Unable to load order"
       },
       "no_access": {
-        "description": "{{shopName}}You are not registered as a B2B customer at"
+        "description": "{{shopName}}You are not registered as a B2B customer at",
+        "title": "no access"
+      },
+      "no_access_to_locations": {
+        "description": "No access to any location"
       }
     }
   }
