@@ -2036,7 +2036,11 @@
       "search_results": {
         "one": "search: %%{terms}」search results for %{count}subject",
         "other": "search: %%{terms}」search results for %{count}subject"
-      }
+      },
+      "shopping_cart": "Shopping cart"
+    },
+    "pagination": {
+      "next": "Next"
     }
   }
 }
