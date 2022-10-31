@@ -557,7 +557,9 @@
             },
             "description_authorized": "Your payment method will be charged on the due date, or you can pay now.",
             "description_due_on_fulfillment": "Payment is due when all items in this order have been shipped.",
-            "description_due_on_receipt": "You will receive an invoice when payment is due."
+            "description_due_on_receipt": "You will receive an invoice when payment is due.",
+            "description_overdue": "My payment is late.",
+            "description_partially_paid": "This order has been partially paid and has a balance."
           }
         }
       }
