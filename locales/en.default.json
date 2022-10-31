@@ -1196,6 +1196,14 @@
           "other": "%{product_name}and another item%{count}buy a piece",
           "zero": "%{product_name}To buy"
         }
+      },
+      "order_payment_collection": {
+        "additional_payment_requested": "%{total_outstanding}need to pay for",
+        "changes_summary": {
+          "added": {
+            "other": "%{count}was added"
+          }
+        }
       }
     }
   }
