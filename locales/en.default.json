@@ -902,7 +902,10 @@
       "postal_code": "Postal code",
       "postcode": "Postal code",
       "prefecture": "Prefectures",
-      "province": "state"
+      "province": "state",
+      "region": "area",
+      "state": "state",
+      "state_and_territory": "State\/Territory"
     }
   }
 }
