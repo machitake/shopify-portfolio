@@ -398,8 +398,8 @@
       "first_name": "Name",
       "last_name": "Surname",
       "email": "Email",
-      "password": "Password",
-      "submit": "Create"
+      "password": "password",
+      "submit": "create"
     },
     "reset_password": {
       "title": "Reset account password",
