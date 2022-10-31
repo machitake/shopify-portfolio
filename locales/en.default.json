@@ -1933,6 +1933,12 @@
       },
       "price": {
         "label": "price"
+      },
+      "product_type": {
+        "label": "Product type"
+      },
+      "tags": {
+        "label": "Detailed filter"
       }
     }
   }
