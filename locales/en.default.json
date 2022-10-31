@@ -703,7 +703,9 @@
       "shop_logo_accessibility_label": "{{shopName}}logo of"
     },
     "order_details": {
-      "addresses_section_title": "Billing and Shipping"
+      "addresses_section_title": "Billing and Shipping",
+      "card_ending_with": "Last 4 digits{{lastDigits}}",
+      "contact": "contact information"
     }
   }
 }
