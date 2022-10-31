@@ -1390,7 +1390,11 @@
         },
         "pay_with_payment_method": "%{payment_method} pay with",
         "pending_payment": {
-          "due_notice": "%{amount_due}is due in %{due_date}is。"
+          "due_notice": "%{amount_due}is due in %{due_date}is。",
+          "multibanco": {
+            "amount": "Amount of money",
+            "entity": "entity"
+          }
         }
       },
       "payment_errors": {
