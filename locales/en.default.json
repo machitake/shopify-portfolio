@@ -589,7 +589,9 @@
         "list_item_accessibility_label": "{{name}}:{{address}}",
         "list_item_without_address_accessibility_label": "{{name}}: no address",
         "list_loading_address_accessibility_message": "{{locationName}}Loading addresses for",
-        "list_loading_finished_accessibility_message": "List of locations loaded"
+        "list_loading_finished_accessibility_message": "List of locations loaded",
+        "no_location_description": "{{company}}You are no longer authorized to place orders for Personal orders can still be placedます。",
+        "no_locations_found": "Location not found"
       }
     }
   }
