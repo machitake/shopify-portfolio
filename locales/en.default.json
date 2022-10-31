@@ -1541,7 +1541,9 @@
         "estimated_delivery_time_range": "%{min_time}–%{max_time}scheduled to be delivered to",
         "estimated_time": "%{time}scheduled to be delivered to",
         "estimated_time_range": "%{min_time}～%{max_time}scheduled to be delivered to",
-        "free_rate_label": "free"
+        "free_rate_label": "free",
+        "local_delivery": "Local delivery",
+        "no_pickup_location_notice": "Unable to pick up at least one item"
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
