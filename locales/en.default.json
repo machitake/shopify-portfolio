@@ -230,7 +230,7 @@
       }
     },
     "cart": {
-      "title": "Your cart",
+      "title": "your cart",
       "caption": "cart item",
       "remove_title": "{{ title }}remove the",
       "subtotal": "subtotal",
@@ -241,7 +241,7 @@
       "cart_error": "There was an error while updating your cart. Please try again.",
       "cart_quantity_error_html": "This item is{{ quantity }}You can only add to cart。",
       "taxes_and_shipping_policy_at_checkout_html": "tax and<a href=\"{{ link }}\">Delivery charge<\/a>is calculated at checkout",
-      "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
+      "taxes_included_but_shipping_at_checkout": "Tax included, shipping cost calculated during checkout",
       "taxes_included_and_shipping_policy_html": "tax included。<a href=\"{{ link }}\">Delivery charge<\/a>is calculated at checkout。",
       "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
       "headings": {
