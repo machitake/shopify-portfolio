@@ -2009,7 +2009,12 @@
           "restocked": "Inventory has been replenished",
           "unfulfilled": "undispatched"
         },
-        "not_available": "This order is not available"
+        "not_available": "This order is not available",
+        "transaction_status": {
+          "error": "error",
+          "failure": "Failure",
+          "pending": "on hold"
+        }
       }
     }
   }
