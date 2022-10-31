@@ -994,7 +994,9 @@
         "state_and_territory_placeholder": "State\/Territory",
         "state_label": "state",
         "state_placeholder": "state",
-        "stored_addresses_label": "I saved my address"
+        "stored_addresses_label": "I saved my address",
+        "title": "information",
+        "zip_code_label": "Postal code"
       }
     }
   }
