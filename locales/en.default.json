@@ -578,7 +578,9 @@
       "locations": {
         "contact_email": "Email",
         "contact_list_title": "member",
-        "contact_name": "name"
+        "contact_name": "name",
+        "contact_permissions": "authority",
+        "contact_phone_number": "phone number"
       }
     }
   }
