@@ -1078,7 +1078,9 @@
         "address_last_name_blank": "Please enter your surname",
         "address_last_name_contains_emojis": "Last name cannot contain emojis",
         "address_last_name_contains_html_tags": "Last name cannot contain HTML tags.",
-        "address_last_name_contains_url": "Last name cannot contain a URL"
+        "address_last_name_contains_url": "Last name cannot contain a URL",
+        "address_last_name_too_long": "Last name too long (max 255 characters)",
+        "address_phone_blank": "Please enter a valid phone number"
       }
     }
   }
