@@ -1899,7 +1899,9 @@
       "gift_card_currency_mismatch": "%{gift_card_currency}of gift cards are %{checkout_currency}cannot be used to order",
       "gift_card_depleted": "There is no balance left on this gift card",
       "gift_card_disabled": "The gift card is invalid",
-      "gift_card_expired": "The gift card has expired"
+      "gift_card_expired": "The gift card has expired",
+      "invalid": "Invalid",
+      "invalid_email": "Must be a valid email address"
     }
   }
 }
