@@ -630,7 +630,9 @@
           "show_all_orders_in_review": "View all pending orders",
           "show_less_orders_in_review": "Show less orders under review",
           "title": "on hold"
-        }
+        },
+        "order_list_column_headers_contact": "contact information",
+        "order_list_column_headers_location": "location"
       }
     }
   }
