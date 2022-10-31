@@ -869,7 +869,9 @@
         "preparing_for_shipping_label": "Preparing for delivery",
         "ready_for_pickup_description": "You can now pick up these items.",
         "ready_for_pickup_label": "ready for pick up",
-        "request_return": "return request"
+        "request_return": "return request",
+        "resume_tracking": "resume tracking",
+        "submitted_description": "Please check your order and payment method."
       }
     }
   }
