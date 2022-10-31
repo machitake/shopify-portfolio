@@ -686,7 +686,10 @@
       "delete_confirmation": {
         "cancel": "Cancel",
         "delete": "Delete"
-      }
+      },
+      "document_title": "{{sectionName}} -{{shopName}} - account",
+      "generic_accessibility_label": "{{label}}:{{value}}",
+      "go_to_store_link": "go to store"
     }
   }
 }
