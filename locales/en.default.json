@@ -206,13 +206,13 @@
     "contact": {
       "form": {
         "title": "Contact form",
-        "name": "Name",
+        "name": "name",
         "email": "Email",
         "phone": "Phone number",
         "comment": "comment",
         "send": "Send",
         "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
-        "error_heading": "Please adjust the following:"
+        "error_heading": "Please check the following:"
       }
     },
     "404": {
