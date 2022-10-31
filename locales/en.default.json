@@ -1100,7 +1100,9 @@
         "email_invalid": "Please enter a valid email address",
         "email_or_phone_blank": "Please enter your email address or mobile number",
         "gift_card_currency_mismatch": "% available for this order{checkout_currency}gift card only",
-        "gift_card_depleted": "This gift card has no balance"
+        "gift_card_depleted": "This gift card has no balance",
+        "gift_card_disabled": "This gift card can no longer be used",
+        "gift_card_expired": "This gift card has expired"
       }
     }
   }
