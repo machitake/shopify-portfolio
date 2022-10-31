@@ -989,7 +989,10 @@
         "region_label": "area",
         "region_none": "Unselected",
         "region_placeholder": "area",
-        "shipping_address_title": "Shipping address"
+        "shipping_address_title": "Shipping address",
+        "state_and_territory_label": "State\/Territory",
+        "state_and_territory_placeholder": "State\/Territory",
+        "state_label": "state"
       }
     }
   }
