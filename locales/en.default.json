@@ -2057,7 +2057,9 @@
     },
     "store_availability": {
       "pick_up_time": {
-        "five_or_more_days": "Usually ready in 5 days or more"
+        "five_or_more_days": "Usually ready in 5 days or more",
+        "four_hours": "Usually ready in 4 hours",
+        "immediately": "Ready to pick up"
       }
     }
   }
