@@ -987,7 +987,9 @@
         "province_label": "Prefectures",
         "province_placeholder": "Prefectures",
         "region_label": "area",
-        "region_none": "Unselected"
+        "region_none": "Unselected",
+        "region_placeholder": "area",
+        "shipping_address_title": "Shipping address"
       }
     }
   }
