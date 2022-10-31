@@ -1223,7 +1223,9 @@
           "paid_today": "Total Payments (Today)",
           "title": "%{amount_due}is due in %{due_at}is"
         },
-        "description_label": "Details"
+        "description_label": "Details",
+        "discount_and_gift_card_savings_notice": "%{discount_amount}Discount and %{gift_card_amount}after gift card",
+        "discount_has_been_applied": "Discount applied"
       }
     }
   }
