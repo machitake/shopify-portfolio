@@ -2016,6 +2016,11 @@
           "pending": "on hold",
           "success": "success"
         }
+      },
+      "tags": {
+        "add_articles": "tag (%{tag}) to narrow your search to articles with",
+        "add_products": "tag %{tag}) to narrow the selection to products that match",
+        "remove_products": "tag (%{tag}) is removed"
       }
     }
   }
