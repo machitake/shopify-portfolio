@@ -461,7 +461,9 @@
         "title_accessibility_label": "Default Address:{{address}}"
       },
       "delete_button_accessibility_label": "{{address}}delete",
-      "delete_confirmation_button_accessibility_label": "{{address}}delete"
+      "delete_confirmation_button_accessibility_label": "{{address}}delete",
+      "delete_confirmation_description": "Existing orders will not be affected.",
+      "delete_confirmation_message": "Do you want to remove the address? Existing orders will not be affected."
     }
   }
 }
