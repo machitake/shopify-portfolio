@@ -262,8 +262,8 @@
     },
     "featured_blog": {
       "view_all": "View all",
-      "onboarding_title": "Blog post",
-      "onboarding_content": "Give your customers a summary of your blog post"
+      "onboarding_title": "blog post",
+      "onboarding_content": "Provide you with summaries of blog posts"
     },
     "featured_collection": {
       "view_all": "View all",
