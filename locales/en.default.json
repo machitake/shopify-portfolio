@@ -66,12 +66,12 @@
     "unit_price_separator": "per",
     "vendor": "Vendor:",
     "error": "error",
-    "refresh_page": "Choosing a selection results in a full page refresh.",
+    "refresh_page": "When you select the selection result, the page will be completely refreshed.",
     "link_messages": {
       "new_window": "Opens in a new window.",
       "external": "Open an external website."
     },
-    "loading": "Loading...",
+    "loading": "Loading…",
     "total_reviews": "total reviews",
     "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars",
     "collapsible_content_title": "collapsible content"
