@@ -1463,6 +1463,10 @@
         "escape_confirmation": "I paid for my order.",
         "page_title": "After purchase",
         "title": "After purchase"
+      },
+      "processing": {
+        "complete_your_purchase_title": "Complete your purchase",
+        "complete_your_purchase_title_error": "Please enter your payment information correctly"
       }
     }
   }
