@@ -1225,7 +1225,9 @@
         },
         "description_label": "Details",
         "discount_and_gift_card_savings_notice": "%{discount_amount}Discount and %{gift_card_amount}after gift card",
-        "discount_has_been_applied": "Discount applied"
+        "discount_has_been_applied": "Discount applied",
+        "discount_has_been_removed": "Discount removed",
+        "discount_label": "Coupon code"
       }
     }
   }
