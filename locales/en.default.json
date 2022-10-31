@@ -482,6 +482,10 @@
       },
       "save_new_address_accessibility_label": "save address",
       "title": "Street address"
+    },
+    "address_form": {
+      "auto_complete_close_accessibility_label": "Close candidates",
+      "auto_complete_title": "Candidate"
     }
   }
 }
