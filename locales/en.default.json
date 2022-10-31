@@ -444,7 +444,9 @@
         "first_name": "Name",
         "last_name": "Surname",
         "phone_number_help_text": "The phone number used to log in cannot be changed",
-        "save": "keep"
+        "save": "keep",
+        "save_accessibility_label": "save profile",
+        "title": "profile"
       }
     }
   }
