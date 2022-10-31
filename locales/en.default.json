@@ -415,7 +415,7 @@
       "subtext": "Your gift card",
       "gift_card_code": "Gift card code",
       "shop_link": "Continue shopping",
-      "remaining_html": "Remaining {{ balance }}",
+      "remaining_html": "Balance: {{ balance }}",
       "add_to_apple_wallet": "Add to Apple Wallet",
       "qr_image_alt": "QR code — scan to redeem gift card",
       "copy_code": "copy the code",
