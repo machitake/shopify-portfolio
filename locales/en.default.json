@@ -2022,6 +2022,10 @@
         "add_products": "tag %{tag}) to narrow the selection to products that match",
         "remove_products": "tag (%{tag}) is removed"
       }
+    },
+    "page_titles": {
+      "account": "account",
+      "blog_or_article_with_error": "Error: %{title}"
     }
   }
 }
