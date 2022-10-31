@@ -1349,7 +1349,10 @@
         "delete_customer_mandate_modal_body": "If you remove this card, you will need to add it again before you can use it for payments.",
         "delete_customer_mandate_modal_cancel": "Cancel",
         "delete_customer_mandate_modal_confirm": "take out card",
-        "detected_card_brand": "Detected card brand:{brand}"
+        "detected_card_brand": "Detected card brand:{brand}",
+        "different_billing_address_label": "Use a different billing address",
+        "different_credit_card_label": "Please use another credit card",
+        "ends_with_label": "trailing number %%{last_digits}"
       }
     }
   }
