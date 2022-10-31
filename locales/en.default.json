@@ -1298,8 +1298,11 @@
         "amazon_payments_logout": "Log out of Amazon Pay",
         "amount_left_to_pay_label": "Due date for payment:",
         "apple": {
-          "connect": "Click to link your Apple Pay account"
-        }
+          "connect": "Click to link your Apple Pay account",
+          "not_available": "Apple Pay is not available in this browser. You must use Safari on your Apple device to link your Apple Pay account."
+        },
+        "apple_pay_payment_error": "The payment could not be completed. Please try again or use a different payment method.",
+        "apply_gift_card_button_label": "Apply"
       }
     }
   }
