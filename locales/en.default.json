@@ -274,9 +274,9 @@
       "view_all": "show all"
     },
     "collection_template": {
-      "empty": "No products found",
+      "empty": "Product not found",
       "title": "Collection",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all<\/a>"
+      "use_fewer_filters_html": "reduce the number of filters orは<a class=\"{{ class }}\" href=\"{{ link }}\">delete all<\/a>"
     },
     "video": {
       "load_video": "Load video: {{ description }}"
