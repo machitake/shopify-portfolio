@@ -329,7 +329,7 @@
       "city": "city",
       "country": "Country\/Region",
       "province": "Prefectures",
-      "zip": "Postal\/ZIP code",
+      "zip": "Postal code",
       "phone": "phone number",
       "set_default": "Set as default address",
       "add": "Add an address",
@@ -339,7 +339,7 @@
       "delete": "Delete",
       "delete_confirm": "Are you sure you want to remove this address?"
     },
-    "log_in": "Log in",
+    "log_in": "Login",
     "log_out": "Log out",
     "login_page": {
       "cancel": "Cancel",
