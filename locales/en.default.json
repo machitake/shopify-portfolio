@@ -1471,7 +1471,8 @@
         "continue_to_payment_gateway_button_label_error": "Please update your payment information",
         "continue_to_payment_gateway_notice": "Proceed to payment and enter your payment information.",
         "continue_to_payment_gateway_notice_error": "The payment information could not be confirmed.",
-        "page_title": "Processing your order"
+        "page_title": "Processing your order",
+        "redirecting_notice": "Please be patient as we will redirect you."
       }
     }
   }
