@@ -921,7 +921,13 @@
     },
     "challenge": {
       "error": "Your answer is incorrect. please try again.",
-      "message": "To continue, tell me you are not a robot."
+      "message": "To continue, tell me you are not a robot.",
+      "submit_button_text": "Send"
+    },
+    "checkout": {
+      "alternative_payment_method_banner": {
+        "express_checkout": "Express checkout"
+      }
     }
   }
 }
