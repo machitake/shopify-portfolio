@@ -759,7 +759,13 @@
       "unit_price": "({{price}}\/unit)"
     },
     "orders": {
-      "list_layout_accessibility_label": "layout options"
+      "list_layout_accessibility_label": "layout options",
+      "list_title": "order",
+      "order_list": {
+        "column_headers": {
+          "delivery_date": "delivery date"
+        }
+      }
     }
   }
 }
