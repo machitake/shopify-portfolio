@@ -1329,7 +1329,9 @@
         "card_number_label": "card number",
         "card_number_placeholder": "card number",
         "card_pay_with": "method of payment:",
-        "card_security_notice": "All transactions are secure and encrypted."
+        "card_security_notice": "All transactions are secure and encrypted.",
+        "card_security_vault_notice": "Detailed information is required for future payments. All transactions are encrypted and secure.",
+        "card_start_label": "Issue date (month\/year)"
       }
     }
   }
