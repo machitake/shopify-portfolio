@@ -576,7 +576,9 @@
         "title": "order ({{name}})"
       },
       "locations": {
-        "contact_email": "Email"
+        "contact_email": "Email",
+        "contact_list_title": "member",
+        "contact_name": "name"
       }
     }
   }
