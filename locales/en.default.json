@@ -1187,7 +1187,15 @@
         }
       },
       "mor_policies": {
-        "privacy_policy": "Merchant of Record Privacy Policy"
+        "privacy_policy": "Merchant of Record Privacy Policy",
+        "terms_and_conditions": "Terms of use for the Merchant of Record who is ultimately responsible"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "one": "%{product_name}and another item%{count}buy a piece",
+          "other": "%{product_name}and another item%{count}buy a piece",
+          "zero": "%{product_name}To buy"
+        }
       }
     }
   }
