@@ -1703,7 +1703,10 @@
           "product_image_label": "Product image",
           "quantity_label": "quantity",
           "unfulfilled_table_title": "Items in preparation for shipping"
-        }
+        },
+        "gift_card_confirmation_by_email": "Gift cards will be sent in text. If you did not receive your gift card, please send it again or contact us.",
+        "gift_card_confirmation_by_text": "Gift cards will be sent in text. If you did not receive your gift card, please send it again or contact us.",
+        "gift_card_sent_confirmation": "Gift card sent"
       }
     }
   }
