@@ -1387,7 +1387,9 @@
       },
       "payment_gateway": {
         "bank_deposit_label": "Bank transfer",
-        "cash_on_delivery_label": "Cash on delivery"
+        "cash_on_delivery_label": "Cash on delivery",
+        "credit_card_label": "credit card",
+        "money_order_label": "Postal money order"
       }
     }
   }
