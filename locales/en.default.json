@@ -371,7 +371,7 @@
       "quantity": "quantity",
       "total": "total",
       "fulfilled_at_html": "Date of shipment: {{ date }}",
-      "track_shipment": "Track shipment",
+      "track_shipment": "track a parcel",
       "tracking_url": "tracking link",
       "tracking_company": "Delivery company",
       "tracking_number": "tracking number",
@@ -389,9 +389,9 @@
       "none": "No orders yet."
     },
     "recover_password": {
-      "title": "Reset your password",
+      "title": "Reset password",
       "subtext": "We will send you an email to reset your password",
-      "success": "We've sent you an email with a link to update your password."
+      "success": "We have sent you an email with a link to update your password."
     },
     "register": {
       "title": "Create account",
