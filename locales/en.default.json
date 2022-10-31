@@ -853,7 +853,9 @@
         "delivered_description": "This package has been delivered.",
         "delivered_label": "Delivered",
         "estimated_delivery": "Delivery date: {{date}}",
-        "in_review_description": "We will let you know if we need more information or when your order is confirmed."
+        "in_review_description": "We will let you know if we need more information or when your order is confirmed.",
+        "in_review_label": "Confirming",
+        "in_review_title": "Confirming your order"
       }
     }
   }
