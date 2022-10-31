@@ -1370,7 +1370,9 @@
           "transaction_declined": "This transaction was rejected"
         },
         "generic_error": "There was a problem during payment processing. Please try again or use a different payment method.",
-        "insufficient_funds": "The settlement was refused due to insufficient funds. Please try again or use a different payment method."
+        "insufficient_funds": "The settlement was refused due to insufficient funds. Please try again or use a different payment method.",
+        "order_total_changed": "The payment could not be processed because the total number of orders has changed. Please check the total number of orders and try again.",
+        "pay_later_failed": "An error occurred while processing the payment with Pay later. Please select a different payment method and try again."
       }
     }
   }
