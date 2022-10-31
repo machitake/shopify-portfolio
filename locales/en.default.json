@@ -345,12 +345,12 @@
       "cancel": "Cancel",
       "create_account": "Create an account",
       "email": "Email",
-      "forgot_password": "Forgot your password?",
+      "forgot_password": "Did you forget your password?",
       "guest_continue": "Continue",
-      "guest_title": "Continue as a guest",
-      "password": "Password",
+      "guest_title": "continue as guest",
+      "password": "password",
       "title": "Login",
-      "sign_in": "Sign in",
+      "sign_in": "Login",
       "submit": "Submit"
     },
     "order": {
