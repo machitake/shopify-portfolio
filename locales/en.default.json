@@ -1966,7 +1966,9 @@
         "link_expired": "Broken link",
         "link_no_longer_exists": "The link no longer exists.",
         "only_n_items_available": "%{count}% of{name}can only add to cart。",
-        "product_sold_out": "'%{name}' is already sold out。"
+        "product_sold_out": "'%{name}' is already sold out。",
+        "selling_plan_not_applicable": "Sales plan cannot be applied to variations",
+        "selling_plan_not_available_for_company_locations": "For B2B orders, only one-time purchases are possible."
       }
     }
   }
