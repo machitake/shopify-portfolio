@@ -689,7 +689,11 @@
       },
       "document_title": "{{sectionName}} -{{shopName}} - account",
       "generic_accessibility_label": "{{label}}:{{value}}",
-      "go_to_store_link": "go to store"
+      "go_to_store_link": "go to store",
+      "loading_message": "Loading",
+      "login_prompt": {
+        "continue": "Continue"
+      }
     }
   }
 }
