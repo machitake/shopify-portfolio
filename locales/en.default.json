@@ -1384,6 +1384,13 @@
         "order_covered_by_gift_cards_notice": {
           "one": "The order is paid by gift card.",
           "other": "Your order was placed with a gift card."
+        },
+        "paypal": {
+          "connect": "Click to link your PayPal account"
+        },
+        "pay_with_payment_method": "%{payment_method} pay with",
+        "pending_payment": {
+          "due_notice": "%{amount_due}is due in %{due_date}is。"
         }
       },
       "payment_errors": {
