@@ -56,7 +56,7 @@
   },
   "newsletter": {
     "label": "Email",
-    "success": "Thanks for subscribing",
+    "success": "Thank you for your registration",
     "button_label": "register"
   },
   "accessibility": {
@@ -97,8 +97,8 @@
     }
   },
   "onboarding": {
-    "product_title": "Example product title",
-    "collection_title": "Your collection's name"
+    "product_title": "Product name example",
+    "collection_title": "Collection name"
   },
   "products": {
     "product": {
