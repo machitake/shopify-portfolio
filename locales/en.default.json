@@ -1694,7 +1694,9 @@
         "estimated_arrival": "Delivery date:",
         "failed_contact_merchant": "% to arrange delivery{company}contact。",
         "failed_contact_merchant_no_company": "Please contact us to arrange delivery.",
-        "failed_title": "Your order could not be delivered"
+        "failed_title": "Your order could not be delivered",
+        "failure": "Delivery failure",
+        "first_payment_complete": "First payment completed"
       }
     }
   }
