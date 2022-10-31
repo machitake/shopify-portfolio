@@ -430,7 +430,8 @@
       "loading_finished_accessibility_message": "Account information loaded",
       "people": {
         "pagination": {
-          "loading_accessibility_label": "loading users"
+          "loading_accessibility_label": "loading users",
+          "load_more": "load more"
         }
       }
     }
