@@ -1384,6 +1384,10 @@
         "subscription_agreement_blank": "To purchase a subscription, you need to save your payment details. To continue, confirm that you agree or remove the subscription item from your order.",
         "three_d_secure_failed": "The payment could not be confirmed. Please try again or use a different payment method.",
         "three_d_secure_failed_duplicate": "Credit card 3D Secure authentication failed because another credit card process is already in progress."
+      },
+      "payment_gateway": {
+        "bank_deposit_label": "Bank transfer",
+        "cash_on_delivery_label": "Cash on delivery"
       }
     }
   }
