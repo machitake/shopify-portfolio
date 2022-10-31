@@ -1690,7 +1690,9 @@
         "delivered_description_html": "Your order has been delivered to the address you entered.%は、%{contact_us}。",
         "delivered_local_description_html": "% if you haven't received your order yet{let_us_know}。",
         "delivered_local_title": "Your order has been delivered",
-        "delivery_information_label": "Delivery information:"
+        "delivery_information_label": "Delivery information:",
+        "estimated_arrival": "Delivery date:",
+        "failed_contact_merchant": "% to arrange delivery{company}contact。"
       }
     }
   }
