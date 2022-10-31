@@ -1484,7 +1484,15 @@
           "refresh_this_page": "Please refresh this page",
           "short": "Your order is being processed."
         },
-        "your_order_has_been_received_title": "Thank you for your order."
+        "your_order_has_been_received_title": "Thank you for your order.",
+        "you_will_not_be_charged": "Not billed yet",
+        "you_will_receive_confirmation": "We are receiving a lot of orders right now. You will be notified by email or text as soon as your order is confirmed. If you do not receive a call within an hour, please let us know."
+      },
+      "remember_me": {
+        "description_html": "The next time you check out at a store that uses Shopify, you'll receive a text message with your authorization code to facilitate a secure purchase with Shop Pay.ます。",
+        "errors": {
+          "optin": "Shop Pay is not available"
+        }
       }
     }
   }
