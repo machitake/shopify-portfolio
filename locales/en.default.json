@@ -208,10 +208,10 @@
         "title": "Contact form",
         "name": "name",
         "email": "Email",
-        "phone": "Phone number",
+        "phone": "phone number",
         "comment": "comment",
         "send": "Send",
-        "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "post_success": "Thank you for your inquiry. We will get back to you as soon as possible.",
         "error_heading": "Please check the following:"
       }
     },
