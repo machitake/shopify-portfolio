@@ -905,7 +905,11 @@
       "province": "state",
       "region": "area",
       "state": "state",
-      "state_and_territory": "State\/Territory"
+      "state_and_territory": "State\/Territory",
+      "zip_code": "Postal code"
+    },
+    "attributes": {
+      "body": "body"
     }
   }
 }
