@@ -1787,7 +1787,16 @@
         "shopify_pay": {
           "order_completed_html": "%{shopify_pay} Order completed with"
         },
-        "shop_phone_description": "You will receive a text with a link to the Shop app to track your order."
+        "shop_phone_description": "You will receive a text with a link to the Shop app to track your order.",
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "description": "When your order is shipped, Shop will send you real-time shipping status.",
+            "title": "scan with mobile phone"
+          },
+          "sms": {
+            "title": "Or send a link to your mobile phone"
+          }
+        }
       }
     }
   }
