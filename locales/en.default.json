@@ -1480,7 +1480,8 @@
           "medium": {
             "one": "Your order is being processed%%{count}please wait。"
           },
-          "no_auto_refresh_html": "% if not automatically redirected%{link}。"
+          "no_auto_refresh_html": "% if not automatically redirected%{link}。",
+          "refresh_this_page": "Please refresh this page"
         }
       }
     }
