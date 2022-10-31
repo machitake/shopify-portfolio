@@ -1125,7 +1125,8 @@
       "general": {
         "all_rights_reserved": "All rights reserved %{shop_name}",
         "authenticate_purchase_button_label": "Authenticate payment",
-        "autocomplete_multi_item": "{{number}} available"
+        "autocomplete_multi_item": "{{number}} available",
+        "autocomplete_selection": "{{number}} Pieces {{total}} in pieces"
       }
     }
   }
