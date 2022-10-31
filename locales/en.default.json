@@ -840,6 +840,10 @@
         "sort_title": "sort",
         "three_images_accessibility_label": "to order{{lineItemName1}}、{{lineItemName2}}、{{lineItemName3}}It is included",
         "two_images_accessibility_label": "to order{{lineItemName1}}When{{lineItemName2}}It is included"
+      },
+      "order_status": {
+        "attempted_delivery_description": "Couldn't deliver.",
+        "canceled_description": "the customer's order{{date}}canceled to。"
       }
     }
   }
