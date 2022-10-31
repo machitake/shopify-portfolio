@@ -1532,13 +1532,20 @@
         "delivery": "%{time}delivery to",
         "delivery_date_range": "%{min_time}～%{max_time}",
         "delivery_today": "today (%{time}) delivery",
-        "delivery_tomorrow": "tomorrow (%{time}) delivery"
+        "delivery_tomorrow": "tomorrow (%{time}) delivery",
+        "estimated_delivery_date": {
+          "one": "%{count}Business day"
+        }
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
         "shipping_method_not_available": "The cart has been updated and the added items cannot be delivered to your address. Please delete the item to complete the order.",
         "shipping_method_not_available_generic": {
-          "one": "This order cannot be shipped to the address you entered. Please check your address to make sure all fields are entered correctly and try again."
+          "one": "This order cannot be shipped to the address you entered. Please check your address to make sure all fields are entered correctly and try again.",
+          "other": "Some items in your cart cannot be shipped to the address you entered. Please check your address to make sure all fields are entered correctly and try again."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "Items added cannot be shipped to your location. Please delete the item and check it out or contact the store."
         }
       }
     }
