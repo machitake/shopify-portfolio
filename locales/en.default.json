@@ -418,9 +418,9 @@
       "remaining_html": "Remaining {{ balance }}",
       "add_to_apple_wallet": "Add to Apple Wallet",
       "qr_image_alt": "QR code — scan to redeem gift card",
-      "copy_code": "Copy code",
+      "copy_code": "copy the code",
       "expired": "Expired",
-      "copy_code_success": "Code copied successfully",
+      "copy_code_success": "code successfully copied",
       "print_gift_card": "Print"
     }
   },
