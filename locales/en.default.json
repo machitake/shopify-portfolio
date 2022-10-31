@@ -1254,7 +1254,8 @@
         "paid_label": "Paid",
         "partial_total_label": "total",
         "payment_terms_totals": {
-          "due_later_checkout_to_draft": "Total payment (at a later date)"
+          "due_later_checkout_to_draft": "Total payment (at a later date)",
+          "due_on_fulfillment": "Total payment at fulfillment"
         }
       }
     }
