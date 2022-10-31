@@ -1715,7 +1715,9 @@
         "in_transit_description_tomorrow": "Your order will arrive the next day.",
         "in_transit_title": "Your order is being delivered",
         "let_us_know": "please let me know",
-        "login": "Login"
+        "login": "Login",
+        "login_description": "You will find your order number on the receipt you received by email.",
+        "login_not_customer_html": "%{name}Please click here%%{link}"
       }
     }
   }
