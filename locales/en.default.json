@@ -522,7 +522,13 @@
         "order_timeline": {
           "expand_events_accessibility_label": "View draft order details",
           "expand_events_label": "View details",
-          "hide_events_accessibility_label": "Hide draft order details"
+          "hide_events_accessibility_label": "Hide draft order details",
+          "hide_events_label": "hide details"
+        },
+        "payment_status": {
+          "canceled": {
+            "description": "No charges will be made."
+          }
         }
       }
     }
