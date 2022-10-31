@@ -1356,7 +1356,9 @@
         "eps_label": "eps-Überweisung"
       },
       "payment_errors": {
-        "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again."
+        "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
+        "credit_card_processing": "The payment could not be processed due to technical reasons. Please try again in a few minutes or use a different payment method.",
+        "deferred_amount_changed": "The payment could not be processed because the postpaid payment amount has changed. Please check your order and try again."
       }
     }
   }
