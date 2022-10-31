@@ -1763,7 +1763,9 @@
         "page_title": "thank you%%{display_name}!",
         "page_title_no_name": "Thank you very much. Customer!",
         "payment_information_title": "Payment information",
-        "payment_method_draft_order": "Deadline after order is confirmed"
+        "payment_method_draft_order": "Deadline after order is confirmed",
+        "picked_up_description_html": "% of your order{date}% to{location_name}was picked up at。",
+        "picked_up_title": "The order has been received"
       }
     }
   }
