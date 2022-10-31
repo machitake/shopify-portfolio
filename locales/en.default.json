@@ -1313,7 +1313,9 @@
         "billing_address_title": "Billing Address",
         "card_change_label": "Change",
         "card_expiration_month_label": "Expiration date (month)",
-        "card_expiration_year_label": "Expiration date (year)"
+        "card_expiration_year_label": "Expiration date (year)",
+        "card_expired": "Expired",
+        "card_expiry_date_explanation": "Card expiration date input format:month (two-digit display)\/year (last two digits)"
       }
     }
   }
