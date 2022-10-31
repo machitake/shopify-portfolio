@@ -1361,7 +1361,11 @@
         "generic_incorrect_card_info": "The payment details could not be confirmed. Please check the card details and try again.",
         "gift_card_balance_label": "Balance:",
         "gift_card_code_label": "Gift card code",
-        "giropay_label": "Giropay"
+        "giropay_label": "Giropay",
+        "google": {
+          "connect": "Click to link your Google Pay account",
+          "error_authorizing": "An error occurred while authorizing payment"
+        }
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
