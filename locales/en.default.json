@@ -550,7 +550,12 @@
             "banner_due": {
               "one": "payment deadline{{count}}is",
               "other": "payment deadline{{count}}it's day"
-            }
+            },
+            "banner_overdue": {
+              "one": "The payment is{{count}}I'm late",
+              "other": "The payment is{{count}}I'm late"
+            },
+            "description_authorized": "Your payment method will be charged on the due date, or you can pay now."
           }
         }
       }
