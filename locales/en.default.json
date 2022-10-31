@@ -1472,7 +1472,10 @@
         "continue_to_payment_gateway_notice": "Proceed to payment and enter your payment information.",
         "continue_to_payment_gateway_notice_error": "The payment information could not be confirmed.",
         "page_title": "Processing your order",
-        "redirecting_notice": "Please be patient as we will redirect you."
+        "redirecting_notice": "Please be patient as we will redirect you.",
+        "redirecting_page_title": "Redirecting ...",
+        "redirecting_title": "Redirecting ...",
+        "title": "Order processing"
       }
     }
   }
