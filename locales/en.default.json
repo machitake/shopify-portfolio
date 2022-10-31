@@ -178,8 +178,8 @@
         "other": "{{ count }}products"
       },
       "reset": "reset",
-      "sort_button": "Sort",
-      "sort_by_label": "Sort by:",
+      "sort_button": "sort",
+      "sort_by_label": "sort by:",
       "to": "To",
       "clear_filter": "Remove filters"
     }
