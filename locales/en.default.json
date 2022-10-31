@@ -664,6 +664,10 @@
       "not_found": {
         "description": "Please check the URL or try again later.",
         "title": "There was a problem loading this page"
+      },
+      "order_not_found": {
+        "description": "Either this order does not exist or you do not have permission to view the order.",
+        "title": "Order not found"
       }
     }
   }
