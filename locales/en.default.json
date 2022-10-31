@@ -953,7 +953,9 @@
         "civic_number_warning": "If applicable, please also enter the street address",
         "company_label": "Company",
         "contact_method_title": "contact info",
-        "country_code": "Country\/region code"
+        "country_code": "Country\/region code",
+        "country_label": "Country\/Region",
+        "county_label": "county"
       }
     }
   }
