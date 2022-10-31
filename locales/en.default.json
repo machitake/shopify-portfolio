@@ -1374,7 +1374,9 @@
         "order_total_changed": "The payment could not be processed because the total number of orders has changed. Please check the total number of orders and try again.",
         "pay_later_failed": "An error occurred while processing the payment with Pay later. Please select a different payment method and try again.",
         "payment_processing": "The payment could not be processed due to technical reasons. Please try again or use a different payment method.",
-        "payment_processing_no_retry": "The payment could not be processed for technical reasons. Please try another payment method."
+        "payment_processing_no_retry": "The payment could not be processed for technical reasons. Please try another payment method.",
+        "paypal_zero_amount": "%{amount}PayPal cannot be used for this order Please check out using a method other than PayPal to verify that your order is correctさい。",
+        "rejected_transaction": "The payment was rejected. Please try again or use a different payment method."
       }
     }
   }
