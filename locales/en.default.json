@@ -317,7 +317,7 @@
       "cancel": "decline the invitation"
     },
     "addresses": {
-      "title": "Addresses",
+      "title": "Street address",
       "default": "Default",
       "add_new": "add new address",
       "edit_address": "Edit the address",
@@ -333,7 +333,7 @@
       "phone": "phone number",
       "set_default": "Set as default address",
       "add": "Add an address",
-      "update": "Update address",
+      "update": "update address",
       "cancel": "Cancel",
       "edit": "Edit",
       "delete": "Delete",
