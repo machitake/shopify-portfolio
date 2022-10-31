@@ -1816,6 +1816,10 @@
         "unfulfilled_items_description": "We are currently preparing to ship these items.",
         "updated_time": "%{time_ago}Updated before",
         "view_business_customer_account": "View your account"
+      },
+      "tips": {
+        "add_tip": "Support the store",
+        "description": "%{shop_name}show support for the team of"
       }
     }
   }
