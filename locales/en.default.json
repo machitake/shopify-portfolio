@@ -863,7 +863,9 @@
         "out_for_delivery_description": "This package is being delivered.",
         "out_for_delivery_label": "In delivery",
         "out_for_delivery_title": "Your parcel is being delivered",
-        "picked_up_description": "We have received these items."
+        "picked_up_description": "We have received these items.",
+        "picked_up_label": "Picked up at store",
+        "preparing_for_shipping_description": "These items are currently being prepared for shipment."
       }
     }
   }
