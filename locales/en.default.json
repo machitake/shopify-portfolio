@@ -1901,7 +1901,8 @@
       "gift_card_disabled": "The gift card is invalid",
       "gift_card_expired": "The gift card has expired",
       "invalid": "Invalid",
-      "invalid_email": "Must be a valid email address"
+      "invalid_email": "Must be a valid email address",
+      "invalid_expiry_year": "Is not a valid expiration date"
     }
   }
 }
