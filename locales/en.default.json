@@ -1262,7 +1262,9 @@
         "price_label": "price",
         "product_change_label": "Change",
         "product_image_label": "Product image",
-        "quantity_label": "quantity"
+        "quantity_label": "quantity",
+        "recurring_total_label": "Regular total",
+        "recurring_total_tooltip": "Shipping charges, taxes, customs duties and applicable discounts are not included."
       }
     }
   }
