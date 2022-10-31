@@ -1910,7 +1910,10 @@
       "invalid_state_in_country": "teeth%{country}is not valid in the states of",
       "less_than_or_equal_to": "teeth%{count}Must be less than or equal to",
       "not_supported": "Is not supported",
-      "password_mismatch": "must match the password entered"
+      "password_mismatch": "must match the password entered",
+      "reset_password_html": "This email address is already associated with an account If this account belongs to youたら、<a href=\"\/account\/login#recover\">reset password<\/a>You can also。",
+      "too_long": "is too long (at most %{count}characters or less)",
+      "too_short": "is too short (at least %{count}characters or more)"
     }
   }
 }
