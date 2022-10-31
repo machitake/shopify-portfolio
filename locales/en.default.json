@@ -1341,7 +1341,9 @@
         "card_verification_value_label": "security code",
         "card_verification_value_placeholder": "security code",
         "change_currency_section_description": "Select a currency option",
-        "credit_card_start_month": "Issued month"
+        "credit_card_start_month": "Issued month",
+        "credit_card_start_year": "Year of issue",
+        "credit_card_vaulting_sign_in_banner_button_label": "Login"
       }
     }
   }
