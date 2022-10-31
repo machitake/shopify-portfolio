@@ -1062,7 +1062,9 @@
         "address_address2_too_long": "Second line of address is too long (maximum 255 characters)",
         "address_city_blank": "Please enter the city",
         "address_city_contains_emojis": "City names cannot contain emojis",
-        "address_city_contains_html_tags": "City cannot contain HTML tags."
+        "address_city_contains_html_tags": "City cannot contain HTML tags.",
+        "address_city_too_long": "City name too long (maximum 255 characters)",
+        "address_company_blank": "Please enter the company name"
       }
     }
   }
