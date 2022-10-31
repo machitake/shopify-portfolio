@@ -1559,7 +1559,9 @@
         "shipping_line_delivery_phone_label": "Cellphone number",
         "shipping_line_phone": "The courier may use your phone number to contact you.",
         "shipping_line_phone_label": "Mobile phone number (required)",
-        "shipping_method_one_time_purchase_group_title": "One-time purchase"
+        "shipping_method_one_time_purchase_group_title": "One-time purchase",
+        "shipping_method_subscription_group_title": "subscription",
+        "shipping_rate_discounted_amount": "Original value: %{original_amount}. New price: %{amount}"
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
