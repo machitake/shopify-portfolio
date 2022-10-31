@@ -1055,7 +1055,8 @@
       },
       "field_errors": {
         "address_address1_blank": "Please enter your address",
-        "address_address1_contains_emojis": "Address 1 cannot contain emojis"
+        "address_address1_contains_emojis": "Address 1 cannot contain emojis",
+        "address_address1_contains_html_tags": "Address 1 cannot contain HTML tags."
       }
     }
   }
