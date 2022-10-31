@@ -1302,7 +1302,8 @@
           "not_available": "Apple Pay is not available in this browser. You must use Safari on your Apple device to link your Apple Pay account."
         },
         "apple_pay_payment_error": "The payment could not be completed. Please try again or use a different payment method.",
-        "apply_gift_card_button_label": "Apply"
+        "apply_gift_card_button_label": "Apply",
+        "bancontact_label": "Bancontact"
       }
     }
   }
