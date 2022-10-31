@@ -1230,7 +1230,8 @@
         "discount_label": "Coupon code",
         "discount_requires_customer_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Enter your shipping information to apply the coupon code",
         "discount_savings_notice": "%{discount_amount}After discount",
-        "discount_title": "discount"
+        "discount_title": "discount",
+        "estimated_taxes_label": "Assumed tax amount"
       }
     }
   }
