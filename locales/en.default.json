@@ -471,7 +471,9 @@
         "default": "Edit the address"
       },
       "edit_section_accessibility_label": "{{address}}edit the",
-      "loading_accessibility_message": "Loading Address"
+      "loading_accessibility_message": "Loading Address",
+      "loading_addresses_accessibility_message": "Loading Address",
+      "loading_billing_accessibility_message": "Loading billing address"
     }
   }
 }
