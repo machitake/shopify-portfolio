@@ -968,7 +968,9 @@
         "governorate_label": "Administrative district",
         "governorate_placeholder": "Administrative district",
         "last_name_label": "Surname",
-        "new_address_label": "Use a new address"
+        "new_address_label": "Use a new address",
+        "optional_address2_label": "Building name, room number, etc. (optional)",
+        "optional_company_label": "Company (optional)"
       }
     }
   }
