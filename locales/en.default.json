@@ -836,7 +836,10 @@
           }
         },
         "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders.",
-        "sort_show_options_accessibility_label": "View sorting options for confirmed orders."
+        "sort_show_options_accessibility_label": "View sorting options for confirmed orders.",
+        "sort_title": "sort",
+        "three_images_accessibility_label": "to order{{lineItemName1}}、{{lineItemName2}}、{{lineItemName3}}It is included",
+        "two_images_accessibility_label": "to order{{lineItemName1}}When{{lineItemName2}}It is included"
       }
     }
   }
