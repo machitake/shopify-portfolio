@@ -1233,7 +1233,9 @@
         "discount_title": "discount",
         "estimated_taxes_label": "Assumed tax amount",
         "estimated_tax_label": "Scheduled tax payment",
-        "expand_order_summary": "Display order details and enter coupons"
+        "expand_order_summary": "Display order details and enter coupons",
+        "free_shipping_discount_label": "Free shipping",
+        "free_total_label": "free"
       }
     }
   }
