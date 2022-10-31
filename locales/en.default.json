@@ -1610,7 +1610,9 @@
       },
       "shop_policies": {
         "contact_information": "contact info",
-        "legal_notice": "Notation based on Specified Commercial Transaction Law"
+        "legal_notice": "Notation based on Specified Commercial Transaction Law",
+        "privacy_policy": "privacy policy",
+        "purchase_options_policy": "Purchasing option policy"
       }
     }
   }
