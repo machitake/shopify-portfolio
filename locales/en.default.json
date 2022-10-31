@@ -1153,7 +1153,11 @@
         "errors": {
           "session_identifier_not_unique_error": "Something went wrong with your order. Please check out again."
         },
-        "expand_notice_label": "See more"
+        "expand_notice_label": "See more",
+        "forwarding_indicator": {
+          "external": "Go to an external website.",
+          "external_and_new_window": "Open an external website in a new window"
+        }
       }
     }
   }
