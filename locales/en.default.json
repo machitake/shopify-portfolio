@@ -1874,7 +1874,9 @@
         "unsubscribe": "Unregister"
       },
       "unsubscribed": {
-        "confirmation": "I have unsubscribed from the mailing list."
+        "confirmation": "I have unsubscribed from the mailing list.",
+        "disclaimer": "We have accepted the registration to stop mail delivery. Thank you for subscribing.",
+        "preview": "We're previewing what you'll see when you unsubscribe."
       }
     }
   }
