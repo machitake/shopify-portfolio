@@ -1612,7 +1612,10 @@
         "contact_information": "contact info",
         "legal_notice": "Notation based on Specified Commercial Transaction Law",
         "privacy_policy": "privacy policy",
-        "purchase_options_policy": "Purchasing option policy"
+        "purchase_options_policy": "Purchasing option policy",
+        "refund_policy": "Refund policy",
+        "shipping_policy": "Shipping policy",
+        "subscription_policy": "Subscription policy"
       }
     }
   }
