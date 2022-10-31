@@ -780,7 +780,9 @@
         "items": {
           "one": "{{count}}items",
           "other": "{{count}}items"
-        }
+        },
+        "list_view": "Show list view",
+        "multiple_shipments": "Multiple shipments"
       }
     }
   }
