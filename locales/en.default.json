@@ -1090,7 +1090,9 @@
         "credit_card_expiry_invalid": "Please enter a valid card expiration date",
         "credit_card_month_invalid": "Please enter a valid card expiration month",
         "credit_card_name_blank": "Please enter the name exactly as it appears on the card",
-        "credit_card_name_invalid": "Please enter the name exactly as it appears on the card"
+        "credit_card_name_invalid": "Please enter the name exactly as it appears on the card",
+        "credit_card_number_invalid": "Please enter a valid card number",
+        "credit_card_start_invalid": "Please enter a valid card start date"
       }
     }
   }
