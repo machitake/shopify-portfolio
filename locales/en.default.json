@@ -1757,7 +1757,9 @@
         "order_updates_title": "Update order",
         "order_updates_upcoming_step_prefix": "Upcoming steps:",
         "other_options": "Other options",
-        "out_for_delivery_description_html": "Your order is being delivered.It will arrive today.If you do not receive your order within 2 days%は、%{contact_us}。"
+        "out_for_delivery_description_html": "Your order is being delivered.It will arrive today.If you do not receive your order within 2 days%は、%{contact_us}。",
+        "out_for_delivery_local_description_html": "Goods will arrive soon。",
+        "out_for_delivery_local_title": "The order is being delivered"
       }
     }
   }
