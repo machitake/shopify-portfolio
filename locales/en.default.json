@@ -755,7 +755,11 @@
       "summary_list_title_accessibility_label": "order item",
       "summary_title": "Order summary",
       "summary_totals_title_accessibility_label": "order total",
-      "title": "order ({{name}})"
+      "title": "order ({{name}})",
+      "unit_price": "({{price}}\/unit)"
+    },
+    "orders": {
+      "list_layout_accessibility_label": "layout options"
     }
   }
 }
