@@ -799,7 +799,9 @@
         "payment_status": {
           "list_view": {
             "due": "Due date for payment：{{date}}",
-            "due_on_fulfillment": "Payment is due at fulfillment"
+            "due_on_fulfillment": "Payment is due at fulfillment",
+            "due_today": "payment is due today",
+            "due_without_date": "Payment date"
           }
         }
       }
