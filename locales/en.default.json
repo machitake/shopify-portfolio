@@ -1456,8 +1456,11 @@
         "components": {
           "close": "close",
           "expand": "Show more",
-          "processing": "processing..."
-        }
+          "processing": "processing...",
+          "submit": "Send"
+        },
+        "escape_action": "Show order confirmation ›Display",
+        "escape_confirmation": "I paid for my order."
       }
     }
   }
