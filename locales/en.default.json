@@ -1709,7 +1709,9 @@
         "gift_card_sent_confirmation": "Gift card sent",
         "gift_card_title": "gift card",
         "in_store_purchase": "In-store purchase",
-        "in_transit": "In delivery"
+        "in_transit": "In delivery",
+        "in_transit_description_days": "Your order is %{number}Arrive within days。",
+        "in_transit_description_today": "Your order will arrive today."
       }
     }
   }
