@@ -877,6 +877,10 @@
       },
       "status_mark_as_delivered": "Mark as delivered",
       "status_title": "Order status"
+    },
+    "payment_methods": {
+      "add_payment_method_button": "Add payment method",
+      "title": "Payment Method"
     }
   }
 }
