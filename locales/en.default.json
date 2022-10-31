@@ -1589,7 +1589,9 @@
               "other": "%{count}yearly"
             }
           }
-        }
+        },
+        "subscription_local_delivery": "Local delivery subscription",
+        "subscription_pickup": "subscription receipt"
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
