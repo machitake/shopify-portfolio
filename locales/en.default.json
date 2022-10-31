@@ -1890,7 +1890,9 @@
       "discount_disabled": "This discount is not available",
       "discount_expired": "This discount has expired",
       "discount_limit_reached": "This discount has reached the maximum number of uses",
-      "discount_not_found": "No discount was found that matches the code you entered"
+      "discount_not_found": "No discount was found that matches the code you entered",
+      "email_domain_invalid": "Provider is not supported",
+      "empty": "Cannot be blank"
     }
   }
 }
