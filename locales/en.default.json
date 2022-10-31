@@ -340,7 +340,7 @@
       "delete_confirm": "Are you sure you want to remove this address?"
     },
     "log_in": "Login",
-    "log_out": "Log out",
+    "log_out": "Logout",
     "login_page": {
       "cancel": "Cancel",
       "create_account": "Create an account",
@@ -355,9 +355,9 @@
     },
     "order": {
       "title": "Order {{ name }}",
-      "date_html": "Placed on {{ date }}",
-      "cancelled_html": "Order Cancelled on {{ date }}",
-      "cancelled_reason": "Reason: {{ reason }}",
+      "date_html": "Order date:{{ date }}",
+      "cancelled_html": "Order Cancellation Date:{{ date }}",
+      "cancelled_reason": "Reason for cancellation:{{ reason }}",
       "billing_address": "Billing Address",
       "payment_status": "Payment Status",
       "shipping_address": "Shipping Address",
@@ -370,7 +370,7 @@
       "price": "Price",
       "quantity": "Quantity",
       "total": "Total",
-      "fulfilled_at_html": "Fulfilled {{ date }}",
+      "fulfilled_at_html": "Date of shipment: {{ date }}",
       "track_shipment": "Track shipment",
       "tracking_url": "Tracking link",
       "tracking_company": "Carrier",
