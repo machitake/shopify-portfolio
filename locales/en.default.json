@@ -918,6 +918,10 @@
     },
     "cart": {
       "discounts_with_count": "%{count}discount applied"
+    },
+    "challenge": {
+      "error": "Your answer is incorrect. please try again.",
+      "message": "To continue, tell me you are not a robot."
     }
   }
 }
