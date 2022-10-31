@@ -1796,7 +1796,10 @@
           "sms": {
             "title": "Or send a link to your mobile phone"
           }
-        }
+        },
+        "thank_you_confirmed_order_with_draft": "We will let you know if we need more information or when your order is confirmed.",
+        "thank_you_confirmed_order_with_email": "You will soon receive a confirmation email with your order number.",
+        "thank_you_confirmed_order_with_email_and_phone": "You will soon receive a confirmation email and text with your order number."
       }
     }
   }
