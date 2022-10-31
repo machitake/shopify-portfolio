@@ -1013,6 +1013,10 @@
           "other": "Product is not available"
         },
         "unavailable_label": "not available"
+      },
+      "customer_account": {
+        "not_user_label": "%{first_name}isn't it？",
+        "save_my_information_label": "Save this information for next time"
       }
     }
   }
