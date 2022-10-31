@@ -1998,7 +1998,9 @@
           "partially_paid": "Partially paid",
           "partially_refunded": "Partially refunded",
           "pending": "on hold",
-          "refunded": "Refunded"
+          "refunded": "Refunded",
+          "unpaid": "unpaid",
+          "voided": "Invalid"
         }
       }
     }
