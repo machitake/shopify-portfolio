@@ -470,7 +470,8 @@
         "billing": "Edit your billing address",
         "default": "Edit the address"
       },
-      "edit_section_accessibility_label": "{{address}}edit the"
+      "edit_section_accessibility_label": "{{address}}edit the",
+      "loading_accessibility_message": "Loading Address"
     }
   }
 }
