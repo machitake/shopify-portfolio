@@ -801,7 +801,12 @@
             "due": "Due date for payment：{{date}}",
             "due_on_fulfillment": "Payment is due at fulfillment",
             "due_today": "payment is due today",
-            "due_without_date": "Payment date"
+            "due_without_date": "Payment date",
+            "overdue": "overdue payment",
+            "payment_not_due": "unpaid"
+          },
+          "table_view": {
+            "due": "Deadline：{{date}}"
           }
         }
       }
