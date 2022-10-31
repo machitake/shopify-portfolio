@@ -367,7 +367,7 @@
       "tax": "Tax",
       "product": "Product",
       "sku": "SKU",
-      "price": "Price",
+      "price": "commodity price",
       "quantity": "Quantity",
       "total": "Total",
       "fulfilled_at_html": "Date of shipment: {{ date }}",
