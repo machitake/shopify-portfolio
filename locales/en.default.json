@@ -1837,7 +1837,9 @@
         "az": "Alphabetical order, AZ",
         "best_selling": "best seller",
         "date_ascending": "Oldest product order",
-        "date_descending": "New arrival order"
+        "date_descending": "New arrival order",
+        "manual": "recommendation",
+        "price_ascending": "Price in ascending order"
       }
     }
   }
