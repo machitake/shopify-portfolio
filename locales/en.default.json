@@ -1669,7 +1669,9 @@
         "attempted_delivery_local_description_html": "We were unable to deliver your order% if you would like a different delivery date and time、%{contact_us}Please contact。",
         "attempted_delivery_local_title": "Absent delivery",
         "attempted_delivery_title": "Attempted to deliver your order",
-        "billing_address_title": "Billing Address"
+        "billing_address_title": "Billing Address",
+        "breadcrumbs_confirmed": "Verified",
+        "breadcrumbs_in_review": "Confirming"
       }
     }
   }
