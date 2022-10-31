@@ -1403,7 +1403,8 @@
         "saved_by_payment_method": "%{payment_method} saved with",
         "sofort_label": "Sofort",
         "subscription_agreement_label": "I understand that I agree to the subscriptionか%{cancelled}Will be updated at the price and frequency shown untilす。",
-        "subscription_agreement_label_html": "I understand that I agree to the subscription Will the subscription end?か\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">be canceled<\/a>Will be updated with prices and frequency listed until。\n"
+        "subscription_agreement_label_html": "I understand that I agree to the subscription Will the subscription end?か\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">be canceled<\/a>Will be updated with prices and frequency listed until。\n",
+        "subscription_card_update_agreement_label": "Changing your payment method will renew your subscription and recurring payments."
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
@@ -1436,6 +1437,10 @@
         "cash_on_delivery_label": "Cash on delivery",
         "credit_card_label": "credit card",
         "money_order_label": "Postal money order"
+      },
+      "payment_summary": {
+        "credit_card_expires_on_notice": "date of expiry%%{month}\/%{year}",
+        "express_payment_gateway_label": "Express"
       }
     }
   }
