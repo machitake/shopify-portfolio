@@ -729,7 +729,11 @@
         "status_unpaid": "Due date for payment: {{date}}",
         "title": "settlement"
       },
-      "refunded_amount": "Refunded"
+      "refunded_amount": "Refunded",
+      "request_return_failed": "A problem occurred while processing your request. please try again.",
+      "returns": {
+        "expand_events_label": "View details"
+      }
     }
   }
 }
