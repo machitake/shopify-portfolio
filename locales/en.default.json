@@ -1139,7 +1139,9 @@
         },
         "choose_billing_address": "Please select a billing address",
         "choose_payment_method": "Please select a payment method",
-        "choose_shipping_method": "Please select a delivery method"
+        "choose_shipping_method": "Please select a delivery method",
+        "close_modal_label": "close",
+        "close_notice_label": "close"
       }
     }
   }
