@@ -765,7 +765,9 @@
         "column_headers": {
           "delivery_date": "delivery date",
           "items": "item",
-          "order_date": "order date"
+          "order_date": "order date",
+          "order_number": "order number",
+          "payment_status": "Payment status"
         }
       }
     }
