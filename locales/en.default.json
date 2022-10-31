@@ -1563,7 +1563,13 @@
         "shipping_method_subscription_group_title": "subscription",
         "shipping_rate_discounted_amount": "Original value: %{original_amount}. New price: %{amount}",
         "subscription_delivery_description": {
-          "first_order_shipping_price_included": "Contains the first order followed by %%{recurring_order_shipping_price}followed by"
+          "first_order_shipping_price_included": "Contains the first order followed by %%{recurring_order_shipping_price}followed by",
+          "multiple_subscriptions_shipping_price_label": "% per delivery{shipping_price}",
+          "prepaid_delivery_frequency": {
+            "one": "%{count}for deliveries",
+            "other": "%{count}for deliveries"
+          },
+          "prepaid_initial_order_discounted": "Initial shipping fee (%{discounted_shipping_price})%{prepaid_delivery_frequency}"
         }
       },
       "shipping_errors": {
