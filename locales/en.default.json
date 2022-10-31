@@ -782,7 +782,9 @@
           "other": "{{count}}items"
         },
         "list_view": "Show list view",
-        "multiple_shipments": "Multiple shipments"
+        "multiple_shipments": "Multiple shipments",
+        "no_filtered_results_description": "Remove or adjust filters and confirm orders",
+        "one_images_accessibility_label": "to order{{lineItemName1}}It is included"
       }
     }
   }
