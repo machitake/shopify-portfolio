@@ -2045,7 +2045,9 @@
     },
     "search": {
       "sorting": {
-        "price_ascending": "Price in ascending order"
+        "price_ascending": "Price in ascending order",
+        "price_descending": "Highest price",
+        "relevance": "Relevance"
       }
     }
   }
