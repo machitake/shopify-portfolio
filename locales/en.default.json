@@ -1973,7 +1973,11 @@
         "stock_problems_html": "One or more items sold out。<a href='%{link}'>update cart<\/a>。",
         "too_many_items_in_cart": "No more% in cart{name}cannot add。",
         "too_many_line_items_error": "% in cart{max}I can't put more than 1 item。",
-        "variant_not_found": "Can't find different model"
+        "variant_not_found": "Can't find different model",
+        "variant_requires_selling_plan": "Variations can only be purchased with a sales plan."
+      },
+      "customer": {
+        "denylisted_reset_password": "Your account could not be accessed because your current password is not secure. An email will be sent to you to update your password."
       }
     }
   }
