@@ -1048,7 +1048,9 @@
       },
       "failed_payment": {
         "page_title": "The payment could not be processed",
-        "payment_not_processed_text": "Not billed. Please return to the cart and complete the purchase procedure."
+        "payment_not_processed_text": "Not billed. Please return to the cart and complete the purchase procedure.",
+        "payment_not_processed_title": "The payment could not be processed",
+        "return_to_cart_button_label": "Return to cart"
       }
     }
   }
