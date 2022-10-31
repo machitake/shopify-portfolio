@@ -1082,7 +1082,10 @@
         "address_last_name_too_long": "Last name too long (max 255 characters)",
         "address_phone_blank": "Please enter a valid phone number",
         "address_phone_contains_emojis": "Phone numbers cannot contain emojis",
-        "address_province_blank": "Select the prefecture"
+        "address_province_blank": "Select the prefecture",
+        "address_zip_blank": "Please enter your zip code",
+        "address_zip_contains_emojis": "Postal codes cannot contain emojis",
+        "address_zip_invalid_for_country_and_province": "%{country}、%{province}Please enter a valid postal code for"
       }
     }
   }
