@@ -1064,7 +1064,9 @@
         "address_city_contains_emojis": "City names cannot contain emojis",
         "address_city_contains_html_tags": "City cannot contain HTML tags.",
         "address_city_too_long": "City name too long (maximum 255 characters)",
-        "address_company_blank": "Please enter the company name"
+        "address_company_blank": "Please enter the company name",
+        "address_company_contains_emojis": "Company name cannot contain emojis",
+        "address_company_contains_html_tags": "Your company name cannot contain HTML tags."
       }
     }
   }
