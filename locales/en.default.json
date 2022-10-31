@@ -582,7 +582,11 @@
         "contact_permissions": "authority",
         "contact_phone_number": "phone number",
         "multiple_tax_exemptions": "others{{taxExemptionsCount}}Countries",
-        "net_payment_terms_description": "{{name}}:{{numberOfDays}}Payment deadline within days"
+        "net_payment_terms_description": "{{name}}:{{numberOfDays}}Payment deadline within days",
+        "pagination": {
+          "load_more": "load more",
+          "load_more_accessibility_label": "load more locations"
+        }
       },
       "location_selection": {
         "clear_search": "clear search",
