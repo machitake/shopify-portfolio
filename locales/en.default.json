@@ -1684,7 +1684,10 @@
         "contact_us_html": "Is there something troubling you%%{contact_us}",
         "contact_us_lowercase": "Contact Us",
         "customer_information_hidden_fields_message": "Log in to view all your information",
-        "customer_information_title": "Customer Information"
+        "customer_information_title": "Customer Information",
+        "customer_validation_error": "Please enter a valid email address or order number.",
+        "customer_validation_error_phone": "Please enter a valid phone number or order number.",
+        "delivered_description_html": "Your order has been delivered to the address you entered.%は、%{contact_us}。"
       }
     }
   }
