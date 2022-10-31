@@ -1923,8 +1923,13 @@
       "availability": {
         "label": "Listing status",
         "value": {
-          "in_stock": "In stock"
+          "in_stock": "In stock",
+          "out_of_stock": "out of stock"
         }
+      },
+      "boolean": {
+        "false_label": "No",
+        "true_label": "yes"
       }
     }
   }
