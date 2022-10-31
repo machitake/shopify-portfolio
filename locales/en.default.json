@@ -787,7 +787,11 @@
         "one_images_accessibility_label": "to order{{lineItemName1}}It is included",
         "order_link": "View orders ({{name}})",
         "order_number": "order ({{name}})",
-        "orders_title": "Verified"
+        "orders_title": "Verified",
+        "pagination": {
+          "load_more": "load more",
+          "load_more_accessibility_label": "load more orders"
+        }
       }
     }
   }
