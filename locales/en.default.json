@@ -1358,7 +1358,9 @@
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
         "credit_card_processing": "The payment could not be processed due to technical reasons. Please try again in a few minutes or use a different payment method.",
-        "deferred_amount_changed": "The payment could not be processed because the postpaid payment amount has changed. Please check your order and try again."
+        "deferred_amount_changed": "The payment could not be processed because the postpaid payment amount has changed. Please check your order and try again.",
+        "deferred_date_changed": "The payment could not be processed because the date of the postpaid payment has changed. Please check your order and try again.",
+        "deferred_payment_not_allowed": "Deferred payment is not possible. Please check your order and try again."
       }
     }
   }
