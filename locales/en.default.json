@@ -1783,7 +1783,11 @@
         "shipping_address_map_title": "Google Maps has pinned the following shipping addresses: %{address}",
         "shipping_address_title": "Shipping address",
         "shipping_information_title": "Shipping information",
-        "shipping_method_title": "Shipping method"
+        "shipping_method_title": "Shipping method",
+        "shopify_pay": {
+          "order_completed_html": "%{shopify_pay} Order completed with"
+        },
+        "shop_phone_description": "You will receive a text with a link to the Shop app to track your order."
       }
     }
   }
