@@ -1117,7 +1117,8 @@
         "reduction_code_code_not_found": "Please enter a valid coupon code or gift card",
         "reduction_code_discount_not_found": "Please enter a valid coupon code",
         "reduction_code_gift_card_code_invalid": "Please enter a valid gift card",
-        "reduction_code_gift_card_unusable": "You cannot use a gift card to purchase another gift card"
+        "reduction_code_gift_card_unusable": "You cannot use a gift card to purchase another gift card",
+        "shipping_line_phone_blank": "Please enter your phone number to use this delivery method"
       }
     }
   }
