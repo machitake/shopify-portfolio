@@ -1331,7 +1331,10 @@
         "card_pay_with": "method of payment:",
         "card_security_notice": "All transactions are secure and encrypted.",
         "card_security_vault_notice": "Detailed information is required for future payments. All transactions are encrypted and secure.",
-        "card_start_label": "Issue date (month\/year)"
+        "card_start_label": "Issue date (month\/year)",
+        "card_start_placeholder": "Issue date (month\/year)",
+        "card_update_label": "Update card",
+        "card_verification_confirm": "Please enter your card's security code to verify your identity."
       }
     }
   }
