@@ -572,7 +572,11 @@
             "title_with_date": "{{date}}refunded to"
           }
         },
-        "subtitle": "Send date: {{date}}"
+        "subtitle": "Send date: {{date}}",
+        "title": "order ({{name}})"
+      },
+      "locations": {
+        "contact_email": "Email"
       }
     }
   }
