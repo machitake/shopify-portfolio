@@ -682,7 +682,11 @@
       },
       "action_menu_accessibility_label": "Other operations",
       "contact_email_subject": "{{shopName}}Inquire from the online store of",
-      "contact_link": "Contact Us"
+      "contact_link": "Contact Us",
+      "delete_confirmation": {
+        "cancel": "Cancel",
+        "delete": "Delete"
+      }
     }
   }
 }
