@@ -1305,7 +1305,11 @@
         "apply_gift_card_button_label": "Apply",
         "bancontact_label": "Bancontact",
         "bank_picker_label": "Bank",
-        "billing_address_associated_with_mandate": "Use the address associated with your payment method"
+        "billing_address_associated_with_mandate": "Use the address associated with your payment method",
+        "billing_address_associated_with_mandate_info": "If you want to change your billing address, please delete and re-enter your credit card information",
+        "billing_address_description": "Please select an address that matches your card or payment method.",
+        "billing_address_description_no_shipping_address": "Please enter an address that matches your card or payment method.",
+        "billing_address_not_supported_for_payment_method_error": "The specified payment method is not available for this billing address and currency. Please try another payment method."
       }
     }
   }
