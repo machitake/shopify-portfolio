@@ -354,7 +354,7 @@
       "submit": "Send"
     },
     "order": {
-      "title": "Order {{ name }}",
+      "title": "order ({{ name }})",
       "date_html": "Order date:{{ date }}",
       "cancelled_html": "Order Cancellation Date:{{ date }}",
       "cancelled_reason": "Reason for cancellation:{{ reason }}",
@@ -369,14 +369,14 @@
       "sku": "SKU",
       "price": "commodity price",
       "quantity": "quantity",
-      "total": "Total",
+      "total": "total",
       "fulfilled_at_html": "Date of shipment: {{ date }}",
       "track_shipment": "Track shipment",
       "tracking_url": "Tracking link",
       "tracking_company": "Carrier",
       "tracking_number": "Tracking number",
       "subtotal": "subtotal",
-      "total_duties": "Duties"
+      "total_duties": "tariff"
     },
     "orders": {
       "title": "Order history",
