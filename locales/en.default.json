@@ -79,14 +79,14 @@
   "blogs": {
     "article": {
       "blog": "blog",
-      "read_more_title": "Read more: {{ title }}",
+      "read_more_title": "read more: {{ title }}",
       "comments": {
         "one": "{{ count }}comments",
         "other": "{{ count }}comments"
       },
       "moderated": "Please note that comments must be approved before being published.",
       "comment_form_title": "Leave a comment",
-      "name": "Name",
+      "name": "name",
       "email": "Email",
       "message": "comment",
       "post": "Post comment",
