@@ -50,7 +50,7 @@
     },
     "slider": {
       "of": "of",
-      "next_slide": "Slide right",
+      "next_slide": "slide right",
       "previous_slide": "Slide left"
     }
   },
