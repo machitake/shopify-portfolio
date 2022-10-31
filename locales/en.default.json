@@ -1237,7 +1237,9 @@
         "free_shipping_discount_label": "Free shipping",
         "free_total_label": "free",
         "gift_card_and_discount_label": "Gift card or coupon code",
-        "gift_card_and_discount_placeholder": "Gift card or coupon code"
+        "gift_card_and_discount_placeholder": "Gift card or coupon code",
+        "gift_card_ending": "ending with %{last_characters}gift card for",
+        "gift_card_has_been_applied": "Gift card applied"
       }
     }
   }
