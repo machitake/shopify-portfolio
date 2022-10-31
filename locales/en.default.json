@@ -155,8 +155,8 @@
     },
     "facets": {
       "apply": "Apply",
-      "clear": "Clear",
-      "clear_all": "Remove all",
+      "clear": "clear",
+      "clear_all": "remove all",
       "from": "From",
       "filter_and_sort": "Filter and sort",
       "filter_by_label": "Filter:",
