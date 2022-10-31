@@ -980,7 +980,9 @@
         "pincode_placeholder": "PIN code",
         "postal_code_label": "Postal code",
         "postal_code_placeholder": "Postal code",
-        "postcode_label": "Postal code"
+        "postcode_label": "Postal code",
+        "postcode_placeholder": "Postal code",
+        "prefecture_label": "Prefectures"
       }
     }
   }
