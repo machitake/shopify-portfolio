@@ -996,7 +996,13 @@
         "state_placeholder": "state",
         "stored_addresses_label": "I saved my address",
         "title": "information",
-        "zip_code_label": "Postal code"
+        "zip_code_label": "Postal code",
+        "zip_code_placeholder": "Postal code"
+      },
+      "contextual_availability": {
+        "all_products_in_cart_unavailable": {
+          "one": "This product is not available in your country\/region."
+        }
       }
     }
   }
