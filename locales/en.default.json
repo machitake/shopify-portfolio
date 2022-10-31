@@ -1111,7 +1111,9 @@
         "payment_gateway_not_in_test_mode": "Is not a test order setting. This store cannot accept actual orders or actual payments.",
         "payment_gateway_unsupported_for_country": "This payment method is not available in the destination country.",
         "payment_gateway_unsupported_for_subscriptions": "This payment method is not available for subscription orders.",
-        "physical_gift_card_duplicate_code": "The physical gift card item contains a duplicate code."
+        "physical_gift_card_duplicate_code": "The physical gift card item contains a duplicate code.",
+        "physical_gift_card_invalid_code": "The physical gift card code is invalid.",
+        "physical_gift_card_invalid_quantity": "The quantity of physical gift card items must match the number of gift card codes."
       }
     }
   }
