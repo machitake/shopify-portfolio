@@ -695,7 +695,9 @@
         "continue": "Continue",
         "privacy": "privacy",
         "title": "continue login"
-      }
+      },
+      "log_out_link": "Logout",
+      "navigation_accessibility_message": "{{sectionName}}moved to"
     }
   }
 }
