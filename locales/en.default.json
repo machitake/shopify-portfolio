@@ -1918,6 +1918,14 @@
     },
     "feed": {
       "more": "further"
+    },
+    "filters": {
+      "availability": {
+        "label": "Listing status",
+        "value": {
+          "in_stock": "In stock"
+        }
+      }
     }
   }
 }
