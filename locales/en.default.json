@@ -1747,7 +1747,9 @@
         "order_status_updates_with_email_and_phone": "Get up-to-date delivery and delivery information by email and text.",
         "order_status_updates_with_missing": "Choose how you want to get shipping status updates.",
         "order_status_updates_with_phone": "Get the latest information on shipping and delivery in text.",
-        "order_updates_description_html": "Confirmation email is %{customer_contact}Sent to"
+        "order_updates_description_html": "Confirmation email is %{customer_contact}Sent to",
+        "order_updates_description_missing": "I haven't received any shipping status updates.",
+        "order_updates_past_step_prefix": "Completed steps:"
       }
     }
   }
