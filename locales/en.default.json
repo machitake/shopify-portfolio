@@ -1133,7 +1133,11 @@
         "back_to_contact_information": "Return to information",
         "back_to_payment_method": "Return to payment",
         "back_to_shipping_method": "Return to delivery",
-        "breadcrumb": "Breadcrumb trail"
+        "breadcrumb": "Breadcrumb trail",
+        "checkout_context": {
+          "step_one": "%{shop_name} - Payment"
+        },
+        "choose_billing_address": "Please select a billing address"
       }
     }
   }
