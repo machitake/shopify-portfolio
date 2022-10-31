@@ -1096,7 +1096,9 @@
         "credit_card_start_month_invalid": "Please enter the start month of a valid card",
         "credit_card_start_year_invalid": "Please enter the starting year of a valid card",
         "credit_card_verification_value_blank": "Please enter the CVV or security code of the card",
-        "credit_card_year_invalid": "Please enter a valid card expiration year"
+        "credit_card_year_invalid": "Please enter a valid card expiration year",
+        "email_invalid": "Please enter a valid email address",
+        "email_or_phone_blank": "Please enter your email address or mobile number"
       }
     }
   }
