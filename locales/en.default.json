@@ -1024,7 +1024,9 @@
         "delete_customer_mandate": {
           "generic_error": "A problem occurred while processing your request.",
           "success_message": "Your payment method has been successfully removed"
-        }
+        },
+        "page_title": "Payment Method",
+        "title": "Payment Method"
       }
     }
   }
