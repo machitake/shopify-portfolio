@@ -431,8 +431,12 @@
       "people": {
         "pagination": {
           "loading_accessibility_label": "loading users",
-          "load_more": "load more"
+          "load_more": "load more",
+          "load_more_accessibility_label": "load more users"
         }
+      },
+      "profile_card": {
+        "cancel": "Cancel"
       }
     }
   }
