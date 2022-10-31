@@ -992,7 +992,9 @@
         "shipping_address_title": "Shipping address",
         "state_and_territory_label": "State\/Territory",
         "state_and_territory_placeholder": "State\/Territory",
-        "state_label": "state"
+        "state_label": "state",
+        "state_placeholder": "state",
+        "stored_addresses_label": "I saved my address"
       }
     }
   }
