@@ -790,7 +790,9 @@
         "orders_title": "Verified",
         "pagination": {
           "load_more": "load more",
-          "load_more_accessibility_label": "load more orders"
+          "load_more_accessibility_label": "load more orders",
+          "nav_accessibility_label": "order menu button",
+          "next": "next"
         }
       }
     }
