@@ -1098,7 +1098,9 @@
         "credit_card_verification_value_blank": "Please enter the CVV or security code of the card",
         "credit_card_year_invalid": "Please enter a valid card expiration year",
         "email_invalid": "Please enter a valid email address",
-        "email_or_phone_blank": "Please enter your email address or mobile number"
+        "email_or_phone_blank": "Please enter your email address or mobile number",
+        "gift_card_currency_mismatch": "% available for this order{checkout_currency}gift card only",
+        "gift_card_depleted": "This gift card has no balance"
       }
     }
   }
