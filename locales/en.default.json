@@ -84,11 +84,11 @@
         "one": "{{ count }}comments",
         "other": "{{ count }}comments"
       },
-      "moderated": "Please note, comments need to be approved before they are published.",
+      "moderated": "Please note that comments must be approved before being published.",
       "comment_form_title": "Leave a comment",
       "name": "Name",
       "email": "Email",
-      "message": "Comment",
+      "message": "comment",
       "post": "Post comment",
       "back_to_blog": "back to blog",
       "share": "Share this article",
