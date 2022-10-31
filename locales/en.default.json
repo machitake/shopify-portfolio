@@ -970,7 +970,9 @@
         "last_name_label": "Surname",
         "new_address_label": "Use a new address",
         "optional_address2_label": "Building name, room number, etc. (optional)",
-        "optional_company_label": "Company (optional)"
+        "optional_company_label": "Company (optional)",
+        "optional_first_name_label": "First name (optional)",
+        "optional_phone_label": "Phone number (optional)"
       }
     }
   }
