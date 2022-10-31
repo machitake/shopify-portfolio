@@ -13,7 +13,7 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Share on Facebook",
-        "share_on_twitter": "Tweet on Twitter",
+        "share_on_twitter": "Tweet to Twitter",
         "share_on_pinterest": "Pin on Pinterest"
       },
       "links": {
@@ -51,7 +51,7 @@
     "slider": {
       "of": "of",
       "next_slide": "slide right",
-      "previous_slide": "Slide left"
+      "previous_slide": "slide left"
     }
   },
   "newsletter": {
