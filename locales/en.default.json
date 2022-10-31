@@ -1278,7 +1278,9 @@
         "subtotal_label": "subtotal",
         "taxes_label": "Tax",
         "tip_label": "Support amount",
-        "title": "Order summary"
+        "title": "Order summary",
+        "total_already_paid_label": "Paid",
+        "total_label": "total"
       }
     }
   }
