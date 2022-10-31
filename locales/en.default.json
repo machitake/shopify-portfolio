@@ -586,7 +586,9 @@
         "pagination": {
           "load_more": "load more",
           "load_more_accessibility_label": "load more locations"
-        }
+        },
+        "payment_details_title": "payment details",
+        "payment_terms": "settlement period"
       },
       "location_selection": {
         "clear_search": "clear search",
