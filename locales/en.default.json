@@ -120,9 +120,9 @@
       },
       "quantity": {
         "label": "Quantity",
-        "input_label": "Quantity for {{ product }}",
-        "increase": "Increase quantity for {{ product }}",
-        "decrease": "Decrease quantity for {{ product }}"
+        "input_label": "{{ product }}quantity of",
+        "increase": "{{ product }}increase the quantity of",
+        "decrease": "{{ product }}reduce the quantity of"
       },
       "pickup_availability": {
         "view_store_info": "View store information",
@@ -137,7 +137,7 @@
         "from_price_html": "{{ price }}from",
         "regular_price": "Regular price",
         "sale_price": "Sale price",
-        "unit_price": "Unit price"
+        "unit_price": "unit price"
       },
       "share": "Share this product",
       "sold_out": "Sold out",
