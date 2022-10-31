@@ -1554,7 +1554,8 @@
           "zero": "There is no other way available"
         },
         "please_enter_your_shipping_information_notice": "Please enter your shipping information.",
-        "shipping_line_delivery_instructions": "Enter the required information, including door code and drop-off instructions."
+        "shipping_line_delivery_instructions": "Enter the required information, including door code and drop-off instructions.",
+        "shipping_line_delivery_phone": "You may be contacted with delivery updates."
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
