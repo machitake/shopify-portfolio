@@ -1700,7 +1700,9 @@
         "fulfillment": {
           "description_label": "Description",
           "fulfilled_table_title": "Items in this shipment",
-          "product_image_label": "Product image"
+          "product_image_label": "Product image",
+          "quantity_label": "quantity",
+          "unfulfilled_table_title": "Items in preparation for shipping"
         }
       }
     }
