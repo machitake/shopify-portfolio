@@ -1371,7 +1371,9 @@
         "klarna_pay_later_label": "Postpaid with Klarna",
         "klarna_pay_now_label": "Pay now with Klarna",
         "masked_digits_label": "•••• %{last_digits}",
-        "mor_disclaimer_html": "Click below to complete your order and Global-eの<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">terms of service<\/a>When<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">privacy policy<\/a>You agree to purchase items from Global-e as the Merchant of Record who is ultimately responsible for this transaction under Global-e%は、%{shop_name}is an international fulfillment service provider of\n"
+        "mor_disclaimer_html": "Click below to complete your order and Global-eの<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">terms of service<\/a>When<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">privacy policy<\/a>You agree to purchase items from Global-e as the Merchant of Record who is ultimately responsible for this transaction under Global-e%は、%{shop_name}is an international fulfillment service provider of\n",
+        "multibanco_label": "Multibanco",
+        "name_on_card_label": "Cardholder"
       },
       "payment_errors": {
         "checkout_amount_changed": "Your payment could not be processed because the outstanding amount was changed at checkout. Please check your order and try again.",
