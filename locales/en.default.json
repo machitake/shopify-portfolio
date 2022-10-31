@@ -1955,6 +1955,10 @@
         "error_creating": "Failed to create the address.",
         "error_deleting": "Failed to delete the address.",
         "error_updating": "Failed to update the address."
+      },
+      "cart": {
+        "all_items_in_cart": "%{count}% of{name}is in your cart。",
+        "changed": "I changed the cart"
       }
     }
   }
