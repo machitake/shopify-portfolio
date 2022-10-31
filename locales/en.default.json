@@ -1515,7 +1515,11 @@
           "change_billing_address_link_label": "Change billing address",
           "change_contact_method_link_label": "Change contact information",
           "change_link_label": "Change",
-          "change_payment_method_link_label": "Change payment method"
+          "change_payment_method_link_label": "Change payment method",
+          "change_shipping_address_link_label": "Change shipping address",
+          "change_shipping_method_link_label": "Change shipping method",
+          "contact_method_title": "contact information",
+          "pick_up_in_store_shipping_method_html": "Pick up in store: %{location_name}"
         }
       }
     }
