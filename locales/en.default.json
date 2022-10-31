@@ -279,13 +279,13 @@
       "use_fewer_filters_html": "reduce the number of filters orは<a class=\"{{ class }}\" href=\"{{ link }}\">delete all<\/a>"
     },
     "video": {
-      "load_video": "Load video: {{ description }}"
+      "load_video": "Load video:{{ description }}"
     },
     "slideshow": {
       "load_slide": "load slides",
       "previous_slideshow": "Previous slide",
       "next_slideshow": "Next slide",
-      "pause_slideshow": "Pause slideshow",
+      "pause_slideshow": "Pause the slideshow",
       "play_slideshow": "Play slideshow",
       "carousel": "carousel",
       "slide": "Slide"
@@ -890,6 +890,11 @@
       "subscription_policy": "Subscription policy",
       "terms_of_sale": "Terms of sale",
       "terms_of_service": "Terms of service"
+    }
+  },
+  "shopify": {
+    "addresses": {
+      "confirm": "Are you sure you want to delete this address?"
     }
   }
 }
