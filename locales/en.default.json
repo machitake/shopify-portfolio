@@ -1030,7 +1030,10 @@
         "update_card_button_label": "Update card"
       },
       "delivery_options": {
-        "free_total_label": "free"
+        "free_total_label": "free",
+        "pick_up": "Over-the-counter receipt",
+        "pick_up_immediately": "Ready to pick up at the store",
+        "pick_up_in_five_or_more_days": "Usually ready in 5 days or more"
       }
     }
   }
