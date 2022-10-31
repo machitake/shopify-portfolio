@@ -1863,7 +1863,9 @@
           "status_html": "<b>Email open tracking reported。<\/b>"
         },
         "updated_policy": {
-          "opt_out_html": "If you do not wish to share this information、<a style='text-decoration:underline;' href='%{link}'>unsubscribe<\/a>can。"
+          "opt_out_html": "If you do not wish to share this information、<a style='text-decoration:underline;' href='%{link}'>unsubscribe<\/a>can。",
+          "status_html": "<b>Email open tracking reported。<\/b>",
+          "visibility": "Shopify has updated its policy to be able to track email open. Email open rates are reported anonymously. Shopify only checks if you have opened an email as part of the email open rate aggregation."
         }
       }
     }
