@@ -1550,8 +1550,11 @@
         "one_time_purchase_shipping": "One-time delivery",
         "other_method": {
           "one": "other % available{count}one way",
-          "other": "%{count}other methods available"
-        }
+          "other": "%{count}other methods available",
+          "zero": "There is no other way available"
+        },
+        "please_enter_your_shipping_information_notice": "Please enter your shipping information.",
+        "shipping_line_delivery_instructions": "Enter the required information, including door code and drop-off instructions."
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
