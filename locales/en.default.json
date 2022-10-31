@@ -151,7 +151,7 @@
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout."
     },
     "modal": {
-      "label": "Media gallery"
+      "label": "media gallery"
     },
     "facets": {
       "apply": "Apply",
@@ -180,7 +180,7 @@
       "reset": "reset",
       "sort_button": "sort",
       "sort_by_label": "sort by:",
-      "to": "To",
+      "to": "to",
       "clear_filter": "Remove filters"
     }
   },
