@@ -1118,7 +1118,12 @@
         "reduction_code_discount_not_found": "Please enter a valid coupon code",
         "reduction_code_gift_card_code_invalid": "Please enter a valid gift card",
         "reduction_code_gift_card_unusable": "You cannot use a gift card to purchase another gift card",
-        "shipping_line_phone_blank": "Please enter your phone number to use this delivery method"
+        "shipping_line_phone_blank": "Please enter your phone number to use this delivery method",
+        "shipping_line_phone_invalid": "Please enter a valid phone number to use this delivery method",
+        "tips_invalid_tip_amount": "%{amount}Please enter an amount not exceeding"
+      },
+      "general": {
+        "all_rights_reserved": "All rights reserved %{shop_name}"
       }
     }
   }
