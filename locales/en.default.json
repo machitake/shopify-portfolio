@@ -749,7 +749,9 @@
         "method": "Shipping method",
         "summary": "delivery"
       },
-      "show_items": "Show items"
+      "show_items": "Show items",
+      "subtitle": "Date confirmed: {{date}}",
+      "subtotal": "subtotal"
     }
   }
 }
