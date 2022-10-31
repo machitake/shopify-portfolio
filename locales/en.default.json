@@ -489,7 +489,10 @@
       "billing_address": "Use as billing address",
       "cancel_accessibility_label": "address ({{address}}) to cancel editing",
       "creation_success_notification": "address added",
-      "default_address": "This is the default address"
+      "default_address": "This is the default address",
+      "default_address_creation_success_notification": "Default address added",
+      "default_address_update_success_notification": "Default address updated",
+      "loading_add_form_accessibility_message": "Loading new address form"
     }
   }
 }
