@@ -1717,7 +1717,11 @@
         "let_us_know": "please let me know",
         "login": "Login",
         "login_description": "You will find your order number on the receipt you received by email.",
-        "login_not_customer_html": "%{name}Please click here%%{link}"
+        "login_not_customer_html": "%{name}Please click here%%{link}",
+        "login_reorder_link_text": {
+          "one": "Buy this product too",
+          "other": "Buy these items as well"
+        }
       }
     }
   }
