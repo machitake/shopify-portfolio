@@ -1729,7 +1729,9 @@
         "missing_shipping_address_banner": {
           "text_html": "Use your shipping address to complete this order%%{contact_us}。",
           "title": "No shipping address found"
-        }
+        },
+        "non_shippable_title": "Your order is complete",
+        "no_tracking_number": "This order does not have a tracking number."
       }
     }
   }
