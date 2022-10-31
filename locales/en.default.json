@@ -110,10 +110,10 @@
       "product_variants": "Product variants",
       "media": {
         "gallery_viewer": "Gallery Viewer",
-        "load_image": "Load image {{ index }} in gallery view",
-        "load_model": "Load 3D Model {{ index }} in gallery view",
+        "load_image": "Images ({{ index }}) to read",
+        "load_model": "3D model ({{ index }}) to read",
         "load_video": "Play video {{ index }} in gallery view",
-        "image_available": "Image {{ index }} is now available in gallery view",
+        "image_available": "In gallery view, select an image ({{ index }}) is now available",
         "open_media": "Open media {{ index }} in modal",
         "play_model": "Play 3D Viewer",
         "play_video": "Play video"
@@ -147,7 +147,7 @@
       "view_full_details": "View full details",
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
-      "include_taxes": "Tax included.",
+      "include_taxes": "(tax included)",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout."
     },
     "modal": {
