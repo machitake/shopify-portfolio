@@ -167,7 +167,7 @@
       },
       "filter_selected_accessibility": "{{ type }} ({{ count }}filters selected)",
       "show_more": "Show more",
-      "show_less": "Show less",
+      "show_less": "Reduce display",
       "max_price": "Maximum price is{{ price }}is",
       "product_count": {
         "one": "{{ count }}of items{{ product_count }}",
@@ -177,7 +177,7 @@
         "one": "{{ count }}products",
         "other": "{{ count }}products"
       },
-      "reset": "Reset",
+      "reset": "reset",
       "sort_button": "Sort",
       "sort_by_label": "Sort by:",
       "to": "To",
