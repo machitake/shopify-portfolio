@@ -2025,7 +2025,9 @@
     },
     "page_titles": {
       "account": "account",
-      "blog_or_article_with_error": "Error: %{title}"
+      "blog_or_article_with_error": "Error: %{title}",
+      "challenge": "Challenge",
+      "checkpoint": "Checkpoint"
     }
   }
 }
