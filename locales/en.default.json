@@ -1050,7 +1050,12 @@
         "page_title": "The payment could not be processed",
         "payment_not_processed_text": "Not billed. Please return to the cart and complete the purchase procedure.",
         "payment_not_processed_title": "The payment could not be processed",
-        "return_to_cart_button_label": "Return to cart"
+        "return_to_cart_button_label": "Return to cart",
+        "title": "The payment could not be processed"
+      },
+      "field_errors": {
+        "address_address1_blank": "Please enter your address",
+        "address_address1_contains_emojis": "Address 1 cannot contain emojis"
       }
     }
   }
