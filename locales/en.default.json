@@ -846,7 +846,10 @@
         "canceled_description": "the customer's order{{date}}canceled to。",
         "canceled_label": "canceled",
         "canceled_title": "Order canceled",
-        "company_tracking_number": "{{company}}Tracking number:"
+        "company_tracking_number": "{{company}}Tracking number:",
+        "confirmed_description": "Your order has been received.",
+        "confirmed_label": "Verified",
+        "confirmed_title": "Order Confirmed"
       }
     }
   }
