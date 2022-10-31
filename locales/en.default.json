@@ -119,7 +119,7 @@
         "play_video": "play video"
       },
       "quantity": {
-        "label": "Quantity",
+        "label": "quantity",
         "input_label": "{{ product }}quantity of",
         "increase": "{{ product }}increase the quantity of",
         "decrease": "{{ product }}reduce the quantity of"
@@ -140,7 +140,7 @@
         "unit_price": "unit price"
       },
       "share": "Share this product",
-      "sold_out": "Sold out",
+      "sold_out": "sold out",
       "unavailable": "Unavailable",
       "vendor": "Vendor",
       "video_exit_message": "{{ title }} opens full screen video in same window.",
@@ -148,7 +148,7 @@
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
       "include_taxes": "(tax included)",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout."
+      "shipping_policy_html": "<a href=\"{{ link }}\">Delivery charge<\/a>is calculated at checkout。"
     },
     "modal": {
       "label": "media gallery"
