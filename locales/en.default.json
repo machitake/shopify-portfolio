@@ -707,7 +707,9 @@
       "card_ending_with": "Last 4 digits{{lastDigits}}",
       "contact": "contact information",
       "discount": "discount",
-      "fully_refunded_label": "Refunded"
+      "fully_refunded_label": "Refunded",
+      "hide_items": "hide items",
+      "hide_order_summary": "Hide order summary"
     }
   }
 }
