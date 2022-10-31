@@ -1628,7 +1628,10 @@
         "product_column_header": "Product",
         "quantity_column_header": "quantity",
         "reduced_with_quantity_label": "Only % left{quantity_available}",
-        "removed_from_cart_notice": "Erase from cart"
+        "removed_from_cart_notice": "Erase from cart",
+        "remove_from_cart_button_label": "Remove from cart",
+        "sold_out_label": "sold out",
+        "status_column_header": "Status"
       }
     }
   }
