@@ -1950,7 +1950,9 @@
     },
     "notices": {
       "address": {
-        "created": "The address was created successfully"
+        "created": "The address was created successfully",
+        "deleted": "The address was deleted successfully.",
+        "error_creating": "Failed to create the address."
       }
     }
   }
