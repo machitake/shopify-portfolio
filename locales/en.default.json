@@ -763,7 +763,9 @@
       "list_title": "order",
       "order_list": {
         "column_headers": {
-          "delivery_date": "delivery date"
+          "delivery_date": "delivery date",
+          "items": "item",
+          "order_date": "order date"
         }
       }
     }
