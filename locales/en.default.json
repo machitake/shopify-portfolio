@@ -1293,7 +1293,9 @@
         "amazon_payments_abandoned_mfa_challenge": "The payment could not be completed. Try another payment method or contact your bank or card issuer.",
         "amazon_payments_could_not_enqueue_authorize": "There was a problem during payment processing. Please try again or use a different payment method.",
         "amazon_payments_failed_mfa_challenge": "The payment method you selected was not available. Please choose another method or contact your bank or card issuer.",
-        "amazon_payments_label": "Amazon Pay"
+        "amazon_payments_label": "Amazon Pay",
+        "amazon_payments_login_hint": "You need to log in to Amazon. Click\"Order Complete\"and enter it on the next page.",
+        "amazon_payments_logout": "Log out of Amazon Pay"
       }
     }
   }
