@@ -447,7 +447,9 @@
         "save": "keep",
         "save_accessibility_label": "save profile",
         "title": "profile"
-      }
+      },
+      "profile_update_confirmation_message": "Profile updated",
+      "title": "account information"
     }
   }
 }
