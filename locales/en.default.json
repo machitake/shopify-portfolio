@@ -555,7 +555,9 @@
               "one": "The payment is{{count}}I'm late",
               "other": "The payment is{{count}}I'm late"
             },
-            "description_authorized": "Your payment method will be charged on the due date, or you can pay now."
+            "description_authorized": "Your payment method will be charged on the due date, or you can pay now.",
+            "description_due_on_fulfillment": "Payment is due when all items in this order have been shipped.",
+            "description_due_on_receipt": "You will receive an invoice when payment is due."
           }
         }
       }
