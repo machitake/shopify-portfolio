@@ -1996,7 +1996,9 @@
           "expired": "Expired",
           "paid": "Paid",
           "partially_paid": "Partially paid",
-          "partially_refunded": "Partially refunded"
+          "partially_refunded": "Partially refunded",
+          "pending": "on hold",
+          "refunded": "Refunded"
         }
       }
     }
