@@ -463,7 +463,9 @@
       "delete_button_accessibility_label": "{{address}}delete",
       "delete_confirmation_button_accessibility_label": "{{address}}delete",
       "delete_confirmation_description": "Existing orders will not be affected.",
-      "delete_confirmation_message": "Do you want to remove the address? Existing orders will not be affected."
+      "delete_confirmation_message": "Do you want to remove the address? Existing orders will not be affected.",
+      "delete_confirmation_title": "Are you sure you want to remove the address?",
+      "edit_button_accessibility_label": "{{address}}edit the"
     }
   }
 }
