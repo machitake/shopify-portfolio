@@ -697,7 +697,9 @@
         "title": "continue login"
       },
       "log_out_link": "Logout",
-      "navigation_accessibility_message": "{{sectionName}}moved to"
+      "navigation_accessibility_message": "{{sectionName}}moved to",
+      "nav_label_accessibility_label": "Main menu",
+      "open_menu_accessibility_label": "open main menu"
     }
   }
 }
