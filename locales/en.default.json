@@ -961,7 +961,8 @@
         "email_label": "Email",
         "email_or_phone_label": "Email address or mobile phone number",
         "email_or_phone_placeholder": "Email address or mobile phone number",
-        "email_placeholder": "Email"
+        "email_placeholder": "Email",
+        "emirate_label": "Emirates"
       }
     }
   }
