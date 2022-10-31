@@ -1809,7 +1809,8 @@
         "thank_you_confirmed_order_with_phone_pick_up": "You will receive the text when you are ready to receive your order.",
         "thank_you_title": "Your order has been confirmed",
         "thank_you_title_payment": "Payment confirmed",
-        "thank_you_title_review": "Your order has been submitted for review"
+        "thank_you_title_review": "Your order has been submitted for review",
+        "title": "Thank you for your purchase!"
       }
     }
   }
