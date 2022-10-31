@@ -1269,7 +1269,8 @@
         "remove_gift_card_label": "Erase gift card",
         "sale_price": "Selling price",
         "scroll_order_summary": "Scroll to see more products",
-        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for your shipping address"
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Coupon code is not valid for your shipping address",
+        "shipping_label": "delivery"
       }
     }
   }
