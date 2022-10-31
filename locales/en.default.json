@@ -1780,7 +1780,8 @@
         "ready_for_pickup_title": "Ready to receive your order",
         "re-order": "Reorder the same item",
         "resend_gift_cards": "Resend gift card",
-        "shipping_address_map_title": "Google Maps has pinned the following shipping addresses: %{address}"
+        "shipping_address_map_title": "Google Maps has pinned the following shipping addresses: %{address}",
+        "shipping_address_title": "Shipping address"
       }
     }
   }
