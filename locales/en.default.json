@@ -746,8 +746,10 @@
       "shipping": {
         "address": "Shipping address",
         "address_map_marker": "Shipping address",
-        "method": "Shipping method"
-      }
+        "method": "Shipping method",
+        "summary": "delivery"
+      },
+      "show_items": "Show items"
     }
   }
 }
