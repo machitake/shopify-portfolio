@@ -677,8 +677,10 @@
     "navigation_and_structure": {
       "account_menu": {
         "hide_accessibility_label": "Hide account menu",
-        "label": "account"
-      }
+        "label": "account",
+        "show_accessibility_label": "Show account menu"
+      },
+      "action_menu_accessibility_label": "Other operations"
     }
   }
 }
