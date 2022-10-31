@@ -561,7 +561,11 @@
             "description_overdue": "My payment is late.",
             "description_partially_paid": "This order has been partially paid and has a balance.",
             "title": "Payment date",
-            "title_due_on_fulfillment": "Payment is due at fulfillment"
+            "title_due_on_fulfillment": "Payment is due at fulfillment",
+            "title_with_date": "Due date for payment: {{date}}"
+          },
+          "refund": {
+            "description_full_refund": "This order has been fully refunded."
           }
         }
       }
