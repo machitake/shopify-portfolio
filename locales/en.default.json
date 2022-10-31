@@ -1252,7 +1252,10 @@
         "order_total_updated_label": "Total after update",
         "original_price": "Original price",
         "paid_label": "Paid",
-        "partial_total_label": "total"
+        "partial_total_label": "total",
+        "payment_terms_totals": {
+          "due_later_checkout_to_draft": "Total payment (at a later date)"
+        }
       }
     }
   }
