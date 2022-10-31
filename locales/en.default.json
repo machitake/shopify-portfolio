@@ -1360,7 +1360,13 @@
         "credit_card_processing": "The payment could not be processed due to technical reasons. Please try again in a few minutes or use a different payment method.",
         "deferred_amount_changed": "The payment could not be processed because the postpaid payment amount has changed. Please check your order and try again.",
         "deferred_date_changed": "The payment could not be processed because the date of the postpaid payment has changed. Please check your order and try again.",
-        "deferred_payment_not_allowed": "Deferred payment is not possible. Please check your order and try again."
+        "deferred_payment_not_allowed": "Deferred payment is not possible. Please check your order and try again.",
+        "deferred_payment_required": "Postpaid payment is required for this order. Please check your order and try again.",
+        "fraud_payment_errors": {
+          "address_mismatch": "The address and zip code do not match.",
+          "cannot_process": "The transaction cannot be processed.",
+          "card_declined": "Card rejected"
+        }
       }
     }
   }
