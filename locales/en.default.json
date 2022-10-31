@@ -39,7 +39,7 @@
       "search": "Search"
     },
     "cart": {
-      "view": "View my cart ({{ count }})",
+      "view": "See the cart ({{ count }})",
       "item_added": "Item added to your cart"
     },
     "share": {
@@ -402,8 +402,8 @@
       "submit": "create"
     },
     "reset_password": {
-      "title": "Reset account password",
-      "subtext": "Enter a new password for {{ email }}",
+      "title": "Reset your account password",
+      "subtext": "{{ email }}Please enter a new password for",
       "password": "password",
       "password_confirm": "Confirm password",
       "submit": "Reset password"
