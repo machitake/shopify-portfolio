@@ -1561,7 +1561,10 @@
         "shipping_line_phone_label": "Mobile phone number (required)",
         "shipping_method_one_time_purchase_group_title": "One-time purchase",
         "shipping_method_subscription_group_title": "subscription",
-        "shipping_rate_discounted_amount": "Original value: %{original_amount}. New price: %{amount}"
+        "shipping_rate_discounted_amount": "Original value: %{original_amount}. New price: %{amount}",
+        "subscription_delivery_description": {
+          "first_order_shipping_price_included": "Contains the first order followed by %%{recurring_order_shipping_price}followed by"
+        }
       },
       "shipping_errors": {
         "shipping_method": "The previous shipping charge has been invalidated because the cart has been updated. Please select a new rate.",
