@@ -455,7 +455,11 @@
       "add_address_banner": "Add an address to use at checkout",
       "add_button": "add address",
       "address_deleted_notification": "address removed",
-      "cancel_adding_address_accessibility_label": "Cancel Add Address"
+      "cancel_adding_address_accessibility_label": "Cancel Add Address",
+      "cancel_deletion_button_accessibility_label": "{{address}}cancel the deletion of",
+      "default_address": {
+        "title_accessibility_label": "Default Address:{{address}}"
+      }
     }
   }
 }
