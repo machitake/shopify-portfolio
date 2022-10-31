@@ -1731,7 +1731,9 @@
           "title": "No shipping address found"
         },
         "non_shippable_title": "Your order is complete",
-        "no_tracking_number": "This order does not have a tracking number."
+        "no_tracking_number": "This order does not have a tracking number.",
+        "opt_in_message_html": "%{shopify_pay} Your information has been successfully saved inた。",
+        "order_number_label": "Order number"
       }
     }
   }
