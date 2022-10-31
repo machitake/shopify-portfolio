@@ -2001,6 +2001,10 @@
           "refunded": "Refunded",
           "unpaid": "unpaid",
           "voided": "Invalid"
+        },
+        "fulfillment_status": {
+          "complete": "Done",
+          "fulfilled": "Shipped"
         }
       }
     }
