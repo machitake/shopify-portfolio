@@ -1939,7 +1939,13 @@
       },
       "tags": {
         "label": "Detailed filter"
+      },
+      "vendor": {
+        "label": "brand"
       }
+    },
+    "links": {
+      "learn_more": "Click here for details"
     }
   }
 }
