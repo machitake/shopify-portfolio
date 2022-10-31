@@ -668,7 +668,11 @@
       "order_not_found": {
         "description": "Either this order does not exist or you do not have permission to view the order.",
         "title": "Order not found"
-      }
+      },
+      "profile_update_error": {
+        "description": "A problem occurred while updating your profile. Please refresh this page or check your internet connection."
+      },
+      "retry_action_label": "Retry"
     }
   }
 }
