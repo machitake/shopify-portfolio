@@ -63,8 +63,8 @@
     "skip_to_text": "Skip to content",
     "skip_to_product_info": "Skip to product information",
     "close": "close",
-    "unit_price_separator": "per",
-    "vendor": "Vendor:",
+    "unit_price_separator": "Per",
+    "vendor": "Sold by:",
     "error": "error",
     "refresh_page": "When you select the selection result, the page will be completely refreshed.",
     "link_messages": {
