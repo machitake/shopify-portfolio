@@ -1303,7 +1303,9 @@
         },
         "apple_pay_payment_error": "The payment could not be completed. Please try again or use a different payment method.",
         "apply_gift_card_button_label": "Apply",
-        "bancontact_label": "Bancontact"
+        "bancontact_label": "Bancontact",
+        "bank_picker_label": "Bank",
+        "billing_address_associated_with_mandate": "Use the address associated with your payment method"
       }
     }
   }
