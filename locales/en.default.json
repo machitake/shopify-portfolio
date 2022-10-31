@@ -642,6 +642,12 @@
       "banner_title": {
         "one": "{{count}}there are errors",
         "other": "{{count}}there are errors"
+      },
+      "failed_address_creation": {
+        "description": "A problem occurred while creating the address. Please refresh this page or check your internet connection."
+      },
+      "failed_address_update": {
+        "description": "A problem occurred while updating your address. Please refresh this page or check your internet connection."
       }
     }
   }
