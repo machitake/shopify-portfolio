@@ -823,7 +823,11 @@
             "oldest": "old order"
           },
           "location": {
-            "ascending": "Location (A-Z)"
+            "ascending": "Location (A-Z)",
+            "descending": "Location (Z-A)"
+          },
+          "order_number": {
+            "ascending": "Order number (ascending)"
           }
         },
         "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders."
