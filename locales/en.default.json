@@ -436,7 +436,9 @@
         }
       },
       "profile_card": {
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "cancel_accessibility_label": "Cancel profile edits",
+        "edit": "Edit"
       }
     }
   }
