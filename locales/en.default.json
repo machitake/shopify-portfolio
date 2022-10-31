@@ -1739,7 +1739,9 @@
         "order_status_confirmed_order_with_email_and_phone_payment": "Ordered%{date}made a payment to。",
         "order_status_confirmed_order_with_email_payment": "Ordered%{date}made a payment to。",
         "order_status_confirmed_order_with_email_pick_up": "You will receive an email when your order is ready to be picked up.",
-        "order_status_confirmed_order_with_phone_payment": "Ordered%{date}made a payment to。"
+        "order_status_confirmed_order_with_phone_payment": "Ordered%{date}made a payment to。",
+        "order_status_confirmed_order_with_phone_pick_up": "You will receive the text when you are ready to receive your order.",
+        "order_status_confirmed_with_installments_payment_confirm": "You will shortly receive a confirmation email with your order number and details on how to schedule your installment payments."
       }
     }
   }
