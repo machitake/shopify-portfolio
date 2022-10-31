@@ -595,7 +595,9 @@
         "shipping_address_required": "Add your shipping address to this location to start your order.",
         "tax_details_title": "tax details",
         "taxes_none": "None",
-        "tax_exemption_not_applicable": "N\/A"
+        "tax_exemption_not_applicable": "N\/A",
+        "tax_exemptions": "duty free",
+        "tax_exemptions_modal_button_accessibility_label": "View all tax exemptions"
       },
       "location_selection": {
         "clear_search": "clear search",
