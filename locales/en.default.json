@@ -1337,7 +1337,9 @@
         "card_verification_confirm": "Please enter your card's security code to verify your identity.",
         "card_verification_value_explanation": "A 3-digit security code on the back of the card. The American Express card is a 4-digit code on the front.",
         "card_verification_value_explanation_amex": "The 4-digit code on the front of the card",
-        "card_verification_value_explanation_other": "A 3-digit security code on the back of the card"
+        "card_verification_value_explanation_other": "A 3-digit security code on the back of the card",
+        "card_verification_value_label": "security code",
+        "card_verification_value_placeholder": "security code"
       }
     }
   }
