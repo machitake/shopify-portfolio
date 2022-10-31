@@ -116,7 +116,7 @@
         "image_available": "In gallery view, select an image ({{ index }}) is now available",
         "open_media": "modally media ({{ index }}) open",
         "play_model": "3D viewer playback",
-        "play_video": "Play video"
+        "play_video": "play video"
       },
       "quantity": {
         "label": "Quantity",
