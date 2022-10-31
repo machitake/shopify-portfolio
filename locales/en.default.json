@@ -927,6 +927,13 @@
     "checkout": {
       "alternative_payment_method_banner": {
         "express_checkout": "Express checkout"
+      },
+      "alternative_payment_method": {
+        "button_html": "method of payment: %{method}",
+        "button_label": "method of payment: %{method}"
+      },
+      "apple_pay": {
+        "button_html": "How to buy%%{logo}"
       }
     }
   }
