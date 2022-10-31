@@ -867,7 +867,9 @@
         "picked_up_label": "Picked up at store",
         "preparing_for_shipping_description": "These items are currently being prepared for shipment.",
         "preparing_for_shipping_label": "Preparing for delivery",
-        "ready_for_pickup_description": "You can now pick up these items."
+        "ready_for_pickup_description": "You can now pick up these items.",
+        "ready_for_pickup_label": "ready for pick up",
+        "request_return": "return request"
       }
     }
   }
