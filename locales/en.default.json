@@ -527,7 +527,11 @@
         },
         "payment_status": {
           "canceled": {
-            "description": "No charges will be made."
+            "description": "No charges will be made.",
+            "title": "Payment canceled."
+          },
+          "draft": {
+            "description": "Payment details will be determined when the order is confirmed."
           }
         }
       }
