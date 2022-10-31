@@ -1711,7 +1711,9 @@
         "in_store_purchase": "In-store purchase",
         "in_transit": "In delivery",
         "in_transit_description_days": "Your order is %{number}Arrive within days。",
-        "in_transit_description_today": "Your order will arrive today."
+        "in_transit_description_today": "Your order will arrive today.",
+        "in_transit_description_tomorrow": "Your order will arrive the next day.",
+        "in_transit_title": "Your order is being delivered"
       }
     }
   }
