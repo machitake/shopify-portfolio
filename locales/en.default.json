@@ -955,7 +955,9 @@
         "contact_method_title": "contact info",
         "country_code": "Country\/region code",
         "country_label": "Country\/Region",
-        "county_label": "county"
+        "county_label": "county",
+        "county_placeholder": "county",
+        "delivery_option_title": "Delivery method"
       }
     }
   }
