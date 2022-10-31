@@ -1468,7 +1468,10 @@
         "complete_your_purchase_title": "Complete your purchase",
         "complete_your_purchase_title_error": "Please enter your payment information correctly",
         "continue_to_payment_gateway_button_label": "Proceed to payment",
-        "continue_to_payment_gateway_button_label_error": "Please update your payment information"
+        "continue_to_payment_gateway_button_label_error": "Please update your payment information",
+        "continue_to_payment_gateway_notice": "Proceed to payment and enter your payment information.",
+        "continue_to_payment_gateway_notice_error": "The payment information could not be confirmed.",
+        "page_title": "Processing your order"
       }
     }
   }
