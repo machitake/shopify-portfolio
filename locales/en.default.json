@@ -1813,7 +1813,9 @@
         "title": "Thank you for your purchase!",
         "tracking_number": "Tracking number:",
         "track_shipment": "Check delivery status",
-        "unfulfilled_items_description": "We are currently preparing to ship these items."
+        "unfulfilled_items_description": "We are currently preparing to ship these items.",
+        "updated_time": "%{time_ago}Updated before",
+        "view_business_customer_account": "View your account"
       }
     }
   }
