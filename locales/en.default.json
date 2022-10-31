@@ -494,7 +494,9 @@
       "default_address_update_success_notification": "Default address updated",
       "loading_add_form_accessibility_message": "Loading new address form",
       "loading_edit_form_accessibility_message": "Loading edit address form",
-      "loading_finished_accessibility_message": "form loaded"
+      "loading_finished_accessibility_message": "form loaded",
+      "save_accessibility_label": "address ({{address}} save the",
+      "section_title_accessibility_label": "Add an address"
     }
   }
 }
