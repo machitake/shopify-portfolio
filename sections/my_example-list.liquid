@@ -1,0 +1,101 @@
+<ul class="tab-area">
+    <li class="tab active">事例１</li>
+    <li class="tab">事例２</li>
+</ul>
+
+
+<div class="panel-area">
+    <div class="panel active">
+    {% for file in page.metafields.custom._example1.value %}
+        {% assign file_name = file | split: '/' | last %}
+        <div class="js-open-originalModal" data-slide-index="{{forloop.index}}">
+            <img src="{{ file_name | file_img_url }}" alt="">  
+        </div>
+    {% endfor %}
+    </div>
+    <div class="panel">
+        {% for file in page.metafields.custom._example2.value %}
+        {% assign file_name = file | split: '/' | last %}
+        <div class="js-open-originalModal" data-slide-index="{{forloop.index}}">
+            <img src="{{ file_name | file_img_url }}" alt="">  
+        </div>
+    {% endfor %}
+    </div>
+</div>
+
+
+<style>
+.tab-area {
+    display: flex;
+    cursor: pointer;
+    padding: 0;
+}
+.tab {
+    width: calc(100%/2);
+    padding: 5px;
+    text-align: center;
+}
+.tab:nth-child(n+2) {
+    border-left: 2px solid;
+}
+.tab.active {
+    background-color: #000;
+    color: #fff;
+}
+
+.panel {
+    display: none;
+    text-align: center;
+}
+.panel.active {
+    display: block;
+}
+
+
+</style>
+
+<script>
+$(function() {
+    $('.tab').on('click', function() {
+        $('.tab, .panel').removeClass('active');
+    
+        $(this).addClass('active');
+        
+        var index = $('.tab').index(this);
+        $('.panel').eq(index).addClass('active');
+    });
+});
+
+</script>
+
+{% schema %}
+{
+    "name": "事例一覧",
+    "tag": "section",
+    "class": "page-section",
+    "blocks" : [
+    {
+        "type": "caption",
+        "name": "コレクションの選択",
+        "settings": [
+        {
+            "type": "collection",
+            "id": "block_collection",
+            "label": "コレクションを選択してください"
+        },
+        {
+            "type": "image_picker",
+            "id": "image",
+            "label": "背景画像"
+        }
+        ]
+    }
+    ],
+    "presets":[
+    {
+        "name" : "事例一覧",
+        "category": "カスタムパーツ"
+    }
+    ]
+}
+{% endschema %}

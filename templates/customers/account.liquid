@@ -23,8 +23,8 @@
               <tr role="row">
                 <th id="ColumnOrder" scope="col" role="columnheader">{{ 'customer.orders.order_number' | t }}</th>
                 <th id="ColumnDate" scope="col" role="columnheader">{{ 'customer.orders.date' | t }}</th>
-                <th id="ColumnPayment" scope="col" role="columnheader">{{ 'customer.orders.payment_status' | t }}</th>
-                <th id="ColumnFulfillment" scope="col" role="columnheader">{{ 'customer.orders.fulfillment_status' | t }}</th>
+                <th id="ColumnPayment" scope="col" role="columnheader">{{ 'customer.order.product' | t }}</th>
+                <!-- <th id="ColumnFulfillment" scope="col" role="columnheader">{{ 'customer.orders.fulfillment_status' | t }}</th> -->
                 <th id="ColumnTotal" scope="col" role="columnheader">{{ 'customer.orders.total' | t }}</th>
               </tr>
             </thead>
@@ -44,14 +44,21 @@
                   <td headers="RowOrder ColumnDate" role="cell" data-label="{{ 'customer.orders.date' | t }}">
                     {{ order.created_at | time_tag: format: 'date' }}
                   </td>
-                  <td headers="RowOrder ColumnPayment" role="cell" data-label="{{ 'customer.orders.payment_status' | t }}">
-                    {{ order.financial_status_label }}
+                  <td headers="RowOrder ColumnPayment" role="cell" data-label="{{ 'customer.order.product' | t }}">
+                    {% for line_item in order.line_items %}
+                      <div id="{{ line_item.key }}" class="table__section">
+                        <div data-label="{{ 'customer.order.product' | t }}">
+                          {{ line_item.title | link_to: line_item.product.url }}
+                        </div>
+                      </div>
+                    {% endfor %}
                   </td>
-                  <td headers="RowOrder ColumnFulfillment" role="cell" data-label="{{ 'customer.orders.fulfillment_status' | t }}">
+                  <!-- <td headers="RowOrder ColumnFulfillment" role="cell" data-label="{{ 'customer.orders.fulfillment_status' | t }}">
                     {{ order.fulfillment_status_label }}
-                  </td>
+                  </td> -->
                   <td headers="RowOrder ColumnTotal" role="cell" data-label="{{ 'customer.orders.total' | t }}">
-                    {{ order.total_price | money_with_currency }}</td>
+                    {{ order.total_price | money_with_currency }}
+                  </td>
                 </tr>
               {%- endfor -%}
             </tbody>
