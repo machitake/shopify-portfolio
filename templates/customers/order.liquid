@@ -14,56 +14,12 @@
   </div>
 
         
-<h2>メタフィールド画像（ポップアップ）↓</h2><br>
-
-{% comment %}追記{% endcomment %}
-
-<!-- コンテンツ -->
-<div class="content">
-  {% for file in  order.metafields.custom.clothes.value %}
-      
-    {% assign file_name = file | split: '/' | last %}
-
-    <div class="originalModal-item js-open-originalModal" data-slide-index="{{forloop.index}}">
-      <img src="{{ file_name | file_img_url }}" alt="">  
-    </div>
-
-  {% endfor %}
-</div>
-
-<!-- モーダル -->
-<div class="originalModal" id="originalModal">
-  <div class="originalModal__overlay js-close-originalModal"></div>
-  <div class="originalModal__content">
-    <div class="originalModal__close-btn js-close-originalModal" aria-label="閉じる">×</div>
-    <!-- スライダー -->
-    <div class="swiper originalModal__slider">
-      <div class="swiper-wrapper">
-
-        {% for file in  order.metafields.custom.clothes.value %}
-      
-          {% assign file_name = file | split: '/' | last %}
-      
-          <div class="swiper-slide originalModal__slide">
-            <img class="originalModal__slider-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
-          </div>
-      
-        {% endfor %}
-      </div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-button-next"></div>
-    </div>
-  </div>
-</div>
 
 
 <style>
   /* アカウント注文履歴（order）
 =============================================================*/
-.originalModal-item {
-  flex-grow: 0;
-  padding: 0;
-}
+
 
 .custom-table {
     position: relative;
@@ -399,6 +355,49 @@
         {{ order.shipping_address | format_address }}
 {%- endunless -%} <!-- for hide shipping address -->
       </div>
+    </div>
+  </div>
+</div>
+
+
+<h2>メタフィールド画像（ポップアップ）↓</h2><br>
+
+{% comment %}追記{% endcomment %}
+
+<!-- コンテンツ -->
+<div class="content">
+  {% for file in  order.metafields.custom.clothes.value %}
+      
+    {% assign file_name = file | split: '/' | last %}
+
+    <div class="originalModal-item js-open-originalModal" data-slide-index="{{forloop.index}}">
+      <img src="{{ file_name | file_img_url }}" alt="">  
+    </div>
+
+  {% endfor %}
+</div>
+
+<!-- モーダル -->
+<div class="originalModal" id="originalModal">
+  <div class="originalModal__overlay js-close-originalModal"></div>
+  <div class="originalModal__content">
+    <div class="originalModal__close-btn js-close-originalModal" aria-label="閉じる">×</div>
+    <!-- スライダー -->
+    <div class="swiper originalModal__slider">
+      <div class="swiper-wrapper">
+
+        {% for file in  order.metafields.custom.clothes.value %}
+      
+          {% assign file_name = file | split: '/' | last %}
+      
+          <div class="swiper-slide originalModal__slide">
+            <img class="originalModal__slider-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
+          </div>
+      
+        {% endfor %}
+      </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
     </div>
   </div>
 </div>
