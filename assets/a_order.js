@@ -24,7 +24,7 @@ window.addEventListener("DOMContentLoaded", () => {
             const modalIndex = openModalBtn.dataset.slideIndex;
             swiper.slideTo(modalIndex);
             modal.classList.add("is-active");
-            $("body").addClass("no_scroll"); // 背景固定させるクラス削除
+            $("body").addClass("no_scroll"); // 背景固定させるクラス付与
         });
     });
 
@@ -36,3 +36,4 @@ window.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
