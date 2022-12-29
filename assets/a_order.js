@@ -1,4 +1,3 @@
-
 //モーダル、スライドショー
 window.addEventListener("DOMContentLoaded", () => {
     // モーダルを取得
@@ -10,30 +9,30 @@ window.addEventListener("DOMContentLoaded", () => {
 
     // Swiperの設定
     const swiper = new Swiper(".swiper", {
-      loop: true,
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
-      spaceBetween: 30,
+        loop: true,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        spaceBetween: 30,
     });
-  
+
     // モーダルを表示するボタンをクリックしたとき
     openModalBtns.forEach((openModalBtn) => {
-      openModalBtn.addEventListener("click", () => {
-        // data-slide-indexに設定したスライド番号を取得
-        const modalIndex = openModalBtn.dataset.slideIndex;
-        swiper.slideTo(modalIndex);
-        modal.classList.add("is-active");
-        $("body").addClass("no_scroll"); // 背景固定させるクラス削除
-      });
+        openModalBtn.addEventListener("click", () => {
+            // data-slide-indexに設定したスライド番号を取得
+            const modalIndex = openModalBtn.dataset.slideIndex;
+            swiper.slideTo(modalIndex);
+            modal.classList.add("is-active");
+            $("body").addClass("no_scroll"); // 背景固定させるクラス削除
+        });
     });
 
     // モーダルを閉じるボタンをクリックしたとき
     closeModalBtns.forEach((closeModalBtn) => {
-      closeModalBtn.addEventListener("click", () => {
-        modal.classList.remove("is-active");
-        $("body").removeClass("no_scroll"); // 背景固定させるクラス削除
-      });
+        closeModalBtn.addEventListener("click", () => {
+            modal.classList.remove("is-active");
+            $("body").removeClass("no_scroll"); // 背景固定させるクラス削除
+        });
     });
-  });
+});
