@@ -14,32 +14,9 @@
   </div>
 
         
-メタフィールド画像（ポップアップ）↓<br>
+<h2>メタフィールド画像（ポップアップ）↓</h2><br>
 
 {% comment %}追記{% endcomment %}
-
-<div class="popup__content">
-  <!-- オーバーレイ -->
-  <div id="overlay" class="overlay"></div>
-
-  <div class="clothes__list popup__content-list">
-    {% for file in  order.metafields.custom.clothes.value %}
-    
-      {% assign file_name = file | split: '/' | last %}
-      <div class="popup-window" data-id="popup{{forloop.index}}" style="display: none;">
-        <img class="js-close popup-window-img" src="{{ file_name | file_img_url: '1920x1920' }}" alt="">
-      </div>
-  
-      <div class="popup__content-item clothes__item">
-          <div class="js-open" data-id="{{forloop.index}}">
-            <img src="{{ file_name | file_img_url }}" alt="">  
-          </div>
-      </div>
-
-    {% endfor %}   
-  </div>
-
-</div><!-- /.popup__content -->
 
 <!-- コンテンツ -->
 <div class="content">
